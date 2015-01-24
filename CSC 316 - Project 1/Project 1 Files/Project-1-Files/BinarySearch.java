@@ -1,9 +1,9 @@
 import java.util.Iterator;
 
 
-public class Transpose extends Heuristic{
+public class BinarySearch extends Heuristic{
 
-	public Transpose(String inputFileName, String name) {
+	public BinarySearch(String inputFileName, String name) {
 		super(inputFileName, name);
 		// TODO Auto-generated constructor stub
 	}
@@ -15,7 +15,7 @@ public class Transpose extends Heuristic{
 	}
 
 	@Override
-	protected Iterator result() {
+	protected Iterator<WordWithCount> result() {
 		// TODO Auto-generated method stub
 		return null;
 	}
