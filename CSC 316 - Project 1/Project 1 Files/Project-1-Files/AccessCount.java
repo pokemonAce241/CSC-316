@@ -1,11 +1,15 @@
 import java.util.Iterator;
 
 
-public class AccessCount extends Heuristic{
+public class AccessCount extends Naive {
 
-	public AccessCount(String inputFileName, String name) {
-		super(inputFileName, name);
+	public AccessCount(String inputFileName) {
+		super(inputFileName, "AccessCount");
 		// TODO Auto-generated constructor stub
+	}
+
+	protected void preProcess() {
+		
 	}
 
 	@Override
@@ -14,10 +18,13 @@ public class AccessCount extends Heuristic{
 		
 	}
 
-	@Override
-	protected Iterator result() {
-		// TODO Auto-generated method stub
-		return null;
+	protected int compareWords(String wordOne, String wordTwo) {
+		
+		return -1;
+	}
+	
+	protected void postProcess() {
+		
 	}
 
 }

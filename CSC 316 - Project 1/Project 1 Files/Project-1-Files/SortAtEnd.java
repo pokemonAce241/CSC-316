@@ -3,9 +3,13 @@ import java.util.Iterator;
 
 public class SortAtEnd extends Heuristic{
 
-	public SortAtEnd(String inputFileName, String name) {
-		super(inputFileName, name);
+	public SortAtEnd(String inputFileName) {
+		super(inputFileName, "SortAtEnd");
 		// TODO Auto-generated constructor stub
+	}
+
+	protected void preProcess() {
+		
 	}
 
 	@Override
@@ -14,10 +18,19 @@ public class SortAtEnd extends Heuristic{
 		
 	}
 
+	protected int compareWords(String wordOne, String wordTwo) {
+		
+		return -1;
+	}
+	
+	protected void postProcess() {
+		
+	}
+	
 	@Override
-	protected Iterator<WordWithCount> result() {
+	protected Iterator result() {
 		// TODO Auto-generated method stub
 		return null;
-	}
+	}	
 
 }

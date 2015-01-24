@@ -50,7 +50,7 @@ public class RunHeuristics {
         mtf.printResult( System.out, LINES_TO_PRINT );
         System.out.println();
 
-        Heuristic xp = new Transpose( inputFileName );
+        /**Heuristic xp = new Transpose( inputFileName );
         xp.run();
         System.out.printf( "%s:\n", xp.getName() );
         xp.printResult( System.out, LINES_TO_PRINT );
@@ -66,15 +66,15 @@ public class RunHeuristics {
         bs.run();
         System.out.printf( "%s:\n", bs.getName() );
         bs.printResult( System.out, LINES_TO_PRINT );
-        System.out.println();
+        System.out.println();*/
 
         Heuristic.printHeader();
 
         baseline.printStatistics();
         naive.printStatistics();
         mtf.printStatistics();
-        xp.printStatistics();
-        bs.printStatistics();
+        //xp.printStatistics();
+        //bs.printStatistics();
     }
 }
 

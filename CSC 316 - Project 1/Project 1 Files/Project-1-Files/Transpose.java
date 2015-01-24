@@ -1,11 +1,15 @@
 import java.util.Iterator;
 
 
-public class Transpose extends Heuristic{
+public class Transpose extends Naive {
 
-	public Transpose(String inputFileName, String name) {
-		super(inputFileName, name);
+	public Transpose(String inputFileName) {
+		super(inputFileName, "Transpose");
 		// TODO Auto-generated constructor stub
+	}
+
+	protected void preProcess() {
+		
 	}
 
 	@Override
@@ -14,10 +18,13 @@ public class Transpose extends Heuristic{
 		
 	}
 
-	@Override
-	protected Iterator result() {
-		// TODO Auto-generated method stub
-		return null;
+	protected int compareWords(String wordOne, String wordTwo) {
+		
+		return -1;
 	}
+	
+	protected void postProcess() {
+		
+	}	
 
 }

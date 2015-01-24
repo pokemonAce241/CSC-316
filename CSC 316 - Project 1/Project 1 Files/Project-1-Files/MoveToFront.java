@@ -1,23 +1,22 @@
-import java.util.Iterator;
+public class MoveToFront extends Naive {
 
-
-public class MoveToFront extends Heuristic {
-
-	public MoveToFront(String inputFileName, String name) {
-		super(inputFileName, name);
+	
+	public MoveToFront(String inputFileName) {
+		super(inputFileName, "MoveToFront");
 		// TODO Auto-generated constructor stub
 	}
-
-	@Override
-	protected void lookup(String word) {
-		// TODO Auto-generated method stub
+	
+	protected void preProcess() {
 		
 	}
-
-	@Override
-	protected Iterator result() {
-		// TODO Auto-generated method stub
-		return null;
+	
+	protected void updateList(DNode<WordWithCount> node) {
+        node.getPrev().setNext(node.getNext());
+        list.addFirst(node);
+    }
+	
+	protected void postProcess() {
+		
 	}
-
+		
 }
