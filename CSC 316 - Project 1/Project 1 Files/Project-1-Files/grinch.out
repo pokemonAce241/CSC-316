@@ -1,0 +1,76 @@
+Time for Baseline =   0.0530000000000000
+Baseline:
+
+Time for Naive =   0.0580000000000000
+Naive:
+   1 everywho
+  10 down
+  17 in
+  25 who
+   8 ville
+   2 liked
+  14 christmas
+  36 a
+   1 lot
+  10 but
+
+Time for Move To Front =   0.0280000000000000
+Move To Front:
+   3 beast
+   3 roast
+ 104 the
+  29 grinch
+   2 himself
+  61 he
+  56 and
+  10 feast
+  10 for
+   3 food
+
+Time for Transpose =   0.0190000000000000
+Transpose:
+ 104 the
+  36 a
+  25 who
+  29 grinch
+  14 christmas
+  17 in
+  61 he
+  10 down
+  10 but
+  13 of
+
+Time for AccessCount =   0.0250000000000000
+AccessCount:
+ 104 the
+  61 he
+  56 and
+  36 a
+  29 grinch
+  25 then
+  25 who
+  22 it
+  22 his
+  19 to
+
+Time for Binary Search =   0.0170000000000000
+Binary Search:
+  36 a
+   1 air
+  14 all
+   2 an
+  56 and
+   1 any
+   3 are
+   3 around
+   2 as
+   1 ask
+
+Runtime is in milliseconds, the rest are in microseconds
+Heuristic             lookups  comparisons  comp/LU    time   time/LU time/comp
+--------------------------------------------------------------------------------
+Baseline                 1415         1415     1.00    53.0   37.4558  37.45583
+Naive                    1415       184552   130.43    58.0   40.9894   0.31427
+Move To Front            1415       157188   111.09    28.0   19.7880   0.17813
+Transpose                1415       178714   126.30    19.0   13.4276   0.10632
+Binary Search            1415        12533     8.86    17.0   12.0141   1.35642

@@ -1,0 +1,46 @@
+Time for Baseline =   0.0030000000000000
+Baseline:
+
+Time for Naive =   0.0010000000000000
+Naive:
+   1 apple
+   3 ball
+   2 cat
+   2 dog
+
+Time for Move To Front =   0.0000000000000000
+Move To Front:
+   2 dog
+   2 cat
+   3 ball
+   1 apple
+
+Time for Transpose =   0.0010000000000000
+Transpose:
+   3 ball
+   2 cat
+   2 dog
+   1 apple
+
+Time for AccessCount =   0.0000000000000000
+AccessCount:
+   3 ball
+   2 cat
+   2 dog
+   1 apple
+
+Time for Binary Search =   0.0000000000000000
+Binary Search:
+   1 apple
+   3 ball
+   2 cat
+   2 dog
+
+Runtime is in milliseconds, the rest are in microseconds
+Heuristic             lookups  comparisons  comp/LU    time   time/LU time/comp
+--------------------------------------------------------------------------------
+Baseline                    8            8     1.00     3.0  375.0000 375.00000
+Naive                       8           17     2.13     1.0  125.0000  58.82353
+Move To Front               8           16     2.00     0.0    0.0000   0.00000
+Transpose                   8           16     2.00     1.0  125.0000  62.50000
+Binary Search               8           18     2.25     0.0    0.0000   0.00000
