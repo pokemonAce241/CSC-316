@@ -1,6 +1,3 @@
-import java.util.*;
-import java.io.*;
-
 /**
  * Framework for running a variety of heuristics/algorithms that count the
  * number of occurrences of each word in a file.
