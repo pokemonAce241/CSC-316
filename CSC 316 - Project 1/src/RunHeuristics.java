@@ -47,13 +47,13 @@ public class RunHeuristics {
         mtf.printResult( System.out, LINES_TO_PRINT );
         System.out.println();
 
-        /**Heuristic xp = new Transpose( inputFileName );
+        Heuristic xp = new Transpose( inputFileName );
         xp.run();
         System.out.printf( "%s:\n", xp.getName() );
         xp.printResult( System.out, LINES_TO_PRINT );
         System.out.println();
 
-        Heuristic ac = new AccessCount( inputFileName );
+        /**Heuristic ac = new AccessCount( inputFileName );
         ac.run();
         System.out.printf( "%s:\n", ac.getName() );
         ac.printResult( System.out, LINES_TO_PRINT );
