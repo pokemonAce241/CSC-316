@@ -1,6 +1,3 @@
-import java.util.Iterator;
-
-
 public class AccessCount extends Naive {
 
 	public AccessCount(String inputFileName) {
@@ -8,23 +5,28 @@ public class AccessCount extends Naive {
 		// TODO Auto-generated constructor stub
 	}
 
-	protected void preProcess() {
-		
+	protected void updateList(DNode<WordWithCount> node) {
+		while (node.getPrev().getEntry() != null
+				&& node.getEntry().getCount() > node.getPrev().getEntry()
+						.getCount()) {
+			transpose(node);
+		}
+		node.getEntry().incrementCount();
 	}
 
-	@Override
-	protected void lookup(String word) {
-		// TODO Auto-generated method stub
-		
-	}
-
-	protected int compareWords(String wordOne, String wordTwo) {
-		
-		return -1;
-	}
-	
-	protected void postProcess() {
-		
+	private void transpose(DNode<WordWithCount> node) {
+		// Set Previous Node to Next Node
+		node.getPrev().setNext(node.getNext());
+		// Set Next Node to Previous Node
+		node.getNext().setPrev(node.getPrev());
+		// Set Previous' Previous Node to Node
+		node.getPrev().getPrev().setNext(node);
+		// Set Node to Previous' Previous Node
+		node.setPrev(node.getPrev().getPrev());
+		// Set Previous Node to Node
+		node.getNext().getPrev().setPrev(node);
+		// Set Node to Previous Node
+		node.setNext(node.getNext().getPrev());
 	}
 
 }

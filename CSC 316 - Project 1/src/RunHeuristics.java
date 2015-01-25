@@ -53,13 +53,13 @@ public class RunHeuristics {
         xp.printResult( System.out, LINES_TO_PRINT );
         System.out.println();
 
-        /**Heuristic ac = new AccessCount( inputFileName );
+        Heuristic ac = new AccessCount( inputFileName );
         ac.run();
         System.out.printf( "%s:\n", ac.getName() );
         ac.printResult( System.out, LINES_TO_PRINT );
         System.out.println();
 
-        Heuristic bs = new BinarySearch( inputFileName );
+        /**Heuristic bs = new BinarySearch( inputFileName );
         bs.run();
         System.out.printf( "%s:\n", bs.getName() );
         bs.printResult( System.out, LINES_TO_PRINT );
