@@ -1,6 +1,3 @@
-import java.util.Iterator;
-
-
 public class Transpose extends Naive {
 
 	public Transpose(String inputFileName) {
@@ -8,23 +5,16 @@ public class Transpose extends Naive {
 		// TODO Auto-generated constructor stub
 	}
 
-	protected void preProcess() {
-		
+	protected void updateList(DNode<WordWithCount> node) {
+		if (node.getPrev().getEntry() != null) {
+			node.getPrev().setNext(node.getNext());
+			node.getNext().setPrev(node.getPrev());
+			node.getPrev().getPrev().setNext(node);
+			node.setPrev(node.getPrev().getPrev());
+			node.getNext().getPrev().setPrev(node);
+			node.setNext(node.getNext().getPrev());
+		}
+		node.getEntry().incrementCount();
 	}
-
-	@Override
-	protected void lookup(String word) {
-		// TODO Auto-generated method stub
-		
-	}
-
-	protected int compareWords(String wordOne, String wordTwo) {
-		
-		return -1;
-	}
-	
-	protected void postProcess() {
-		
-	}	
 
 }

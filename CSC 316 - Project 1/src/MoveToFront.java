@@ -5,10 +5,6 @@ public class MoveToFront extends Naive {
 		// TODO Auto-generated constructor stub
 	}
 
-	protected void preProcess() {
-
-	}
-
 	protected void updateList(DNode<WordWithCount> node) {
 		if (node.getPrev().getEntry() != null) {
 			node.getPrev().setNext(node.getNext());
@@ -16,10 +12,6 @@ public class MoveToFront extends Naive {
 			super.list.addFirst(node);
 		}
 		node.getEntry().incrementCount();
-	}
-
-	protected void postProcess() {
-
 	}
 
 }
