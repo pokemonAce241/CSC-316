@@ -70,7 +70,8 @@ public class RunHeuristics {
         baseline.printStatistics();
         naive.printStatistics();
         mtf.printStatistics();
-        //xp.printStatistics();
+        xp.printStatistics();
+        ac.printStatistics();
         //bs.printStatistics();
     }
 }

@@ -6,12 +6,12 @@ public class AccessCount extends Naive {
 	}
 
 	protected void updateList(DNode<WordWithCount> node) {
+		node.getEntry().incrementCount();
 		while (node.getPrev().getEntry() != null
 				&& node.getEntry().getCount() > node.getPrev().getEntry()
 						.getCount()) {
 			transpose(node);
 		}
-		node.getEntry().incrementCount();
 	}
 
 	private void transpose(DNode<WordWithCount> node) {
