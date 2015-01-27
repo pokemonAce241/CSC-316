@@ -31,38 +31,38 @@ public class BinarySearch extends Heuristic {
 		}
 
 		checkSize();
-		int center = count / 2;
-		binarySearch(word, center);
+		binarySearch(word, 0, count - 1);
 		count++;
 	}
 
-	private void binarySearch(String word, int loc) {
-		int first = super.compareWords(list[loc].getWord(), word);
-		int second = super.compareWords(list[loc + 1].getWord(), word);
-		if (first < 0) {
-			if (second >= 0)
-				insert(word, loc + 1);
-			else {
-				int center = count + loc / 2;
-				binarySearch(word, center);
+	private void binarySearch(String word, int low, int high) {
+		int mid = (low + high) / 2;
+		int first = super.compareWords(list[mid].getWord(), word);
+
+		if (first == 0) {
+			insert(word, mid + 1);
+		} else if (first < 0) {
+			if (mid + 1 == count) {
+				insert(word, mid + 1);
+				return;
 			}
-		} else if (first == 0) {
-			insert(word, loc + 1);
+
+			int second = super.compareWords(list[mid + 1].getWord(), word);
+			if (second > 0) {
+				insert(word, mid + 1);
+				return;
+			}
+			binarySearch(word, mid + 1, high);
 		} else {
-			int center = loc / 2;
-			binarySearch(word, center);
+			binarySearch(word, low, mid - 1);
 		}
 	}
 
 	private void insert(String word, int loc) {
-		for (int i = count; i > 0; i--) {
-			if (i == loc) {
-				list[count] = new WordWithCount(word);
-				return;
-			} else {
-				list[count] = list[count - 1];
-			}
+		for (int i = count; i > loc; i--) {
+			list[count] = list[count - 1];
 		}
+		list[count] = new WordWithCount(word);
 	}
 
 	private void checkSize() {
