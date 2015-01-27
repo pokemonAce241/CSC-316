@@ -55,6 +55,11 @@ public class BinarySearch extends Heuristic {
 			}
 			binarySearch(word, mid + 1, high);
 		} else {
+			if (mid == 0) {
+				insert(word, mid);
+				return;
+			}
+
 			binarySearch(word, low, mid - 1);
 		}
 	}
@@ -73,6 +78,7 @@ public class BinarySearch extends Heuristic {
 			temp[i] = list[i];
 		}
 		list = temp;
+		size = c;
 	}
 
 	/**
