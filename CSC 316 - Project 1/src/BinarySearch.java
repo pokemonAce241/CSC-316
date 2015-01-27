@@ -30,9 +30,10 @@ public class BinarySearch extends Heuristic {
 			return;
 		}
 
-		checkSize();
+		if (size < count + 1) {
+			modifySize(size * 2);
+		}
 		binarySearch(word, 0, count - 1);
-		count++;
 	}
 
 	private void binarySearch(String word, int low, int high) {
@@ -40,7 +41,7 @@ public class BinarySearch extends Heuristic {
 		int first = super.compareWords(list[mid].getWord(), word);
 
 		if (first == 0) {
-			insert(word, mid + 1);
+			list[mid].incrementCount();
 		} else if (first < 0) {
 			if (mid + 1 == count) {
 				insert(word, mid + 1);
@@ -63,16 +64,15 @@ public class BinarySearch extends Heuristic {
 			list[count] = list[count - 1];
 		}
 		list[count] = new WordWithCount(word);
+		count++;
 	}
 
-	private void checkSize() {
-		if (size < count + 1) {
-			WordWithCount[] temp = new WordWithCount[size * 2];
-			for (int i = 0; i < count; i++) {
-				temp[i] = list[i];
-			}
-			list = temp;
+	private void modifySize(int c) {
+		WordWithCount[] temp = new WordWithCount[c];
+		for (int i = 0; i < count; i++) {
+			temp[i] = list[i];
 		}
+		list = temp;
 	}
 
 	/**
@@ -80,6 +80,7 @@ public class BinarySearch extends Heuristic {
 	 */
 	@Override
 	public Iterator<WordWithCount> result() {
+		modifySize(count);
 		return Arrays.asList(list).iterator();
 	}
 
