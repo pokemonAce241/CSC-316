@@ -45,14 +45,18 @@ public class BinarySearch extends Heuristic {
 			list[mid].incrementCount();
 		} else if (first < 0) {
 			if (mid + 1 == count) {
-				insert(word, mid + 1);
+				insert(word, count);
 				return;
 			}
 
 			int second = super.compareWords(list[mid + 1].getWord(), word);
+			if (word.equals("who"))
+				System.out.println(list[mid + 1].toString());
 			if (second > 0) {
 				insert(word, mid + 1);
 				return;
+			} else if (second == 0) {
+				list[mid + 1].incrementCount();
 			}
 			binarySearch(word, mid + 1, high);
 		} else {
@@ -71,6 +75,8 @@ public class BinarySearch extends Heuristic {
 		}
 		list[loc] = new WordWithCount(word);
 		count++;
+		if (word.equals("who"))
+			System.out.println(Thread.currentThread().getStackTrace()[2]);
 	}
 
 	private void modifySize(int c) {
