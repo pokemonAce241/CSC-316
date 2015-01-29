@@ -1,4 +1,3 @@
-import java.util.Arrays;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
@@ -50,13 +49,9 @@ public class BinarySearch extends Heuristic {
 			}
 
 			int second = super.compareWords(list[mid + 1].getWord(), word);
-			if (word.equals("who"))
-				System.out.println(list[mid + 1].toString());
 			if (second > 0) {
 				insert(word, mid + 1);
 				return;
-			} else if (second == 0) {
-				list[mid + 1].incrementCount();
 			}
 			binarySearch(word, mid + 1, high);
 		} else {
@@ -71,12 +66,10 @@ public class BinarySearch extends Heuristic {
 
 	private void insert(String word, int loc) {
 		for (int i = count; i > loc; i--) {
-			list[count] = list[count - 1];
+			list[i] = list[i - 1];
 		}
 		list[loc] = new WordWithCount(word);
 		count++;
-		if (word.equals("who"))
-			System.out.println(Thread.currentThread().getStackTrace()[2]);
 	}
 
 	private void modifySize(int c) {
