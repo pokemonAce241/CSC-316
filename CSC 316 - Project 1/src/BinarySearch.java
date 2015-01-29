@@ -13,7 +13,6 @@ public class BinarySearch extends Heuristic {
 
 	public BinarySearch(String inputFileName) {
 		super(inputFileName, "BinarySearch");
-		// TODO Auto-generated constructor stub
 	}
 
 	protected void preProcess() {
@@ -97,7 +96,6 @@ public class BinarySearch extends Heuristic {
 	 * @author Michael Goodrich, Eric Zamore, Roberto Tamassia, Matt Stallmann,
 	 *         Specialized for Array Lists by Gitesh Agarwal
 	 */
-	// begin#fragment Iterator
 	public class ArrayIterator<E> implements Iterator<E> {
 
 		private E[] list; // the underlying list

@@ -1,11 +1,11 @@
-import java.util.Iterator;
+result()
+ArrayIterator<E>import java.util.Iterator;
 
 
 public class MapWords extends Heuristic{
 
 	public MapWords(String inputFileName) {
 		super(inputFileName, "MapWords");
-		// TODO Auto-generated constructor stub
 	}
 
 	protected void preProcess() {
@@ -18,19 +18,16 @@ public class MapWords extends Heuristic{
 		
 	}
 
-	protected int compareWords(String wordOne, String wordTwo) {
-		
-		return -1;
-	}
-	
 	protected void postProcess() {
 		
 	}
 	
+	/**
+	 * @return an iterator for the list of WordWithCount objects.
+	 */
 	@Override
-	protected Iterator result() {
-		// TODO Auto-generated method stub
-		return null;
+	public Iterator<WordWithCount> result() {
+		return new Iterator<WordWithCount>(list);
 	}	
 
 }
