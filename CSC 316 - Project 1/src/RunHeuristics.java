@@ -10,7 +10,7 @@ public class RunHeuristics {
     /**
      * Number of lines to print for each output (instead of full result)
      */
-    public static final int LINES_TO_PRINT = 10;
+    public static final int LINES_TO_PRINT = 1000;
 
     public static void main (String[] args ) {
         if ( args.length != 1 ) {

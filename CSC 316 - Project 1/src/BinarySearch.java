@@ -25,7 +25,6 @@ public class BinarySearch extends Heuristic {
 
 	@Override
 	protected void lookup(String word) {
-		System.out.println(Arrays.toString(list) + "\tAdd: " + word);
 		if (count == 0) {
 			list[count] = new WordWithCount(word);
 			count++;
@@ -70,7 +69,7 @@ public class BinarySearch extends Heuristic {
 		for (int i = count; i > loc; i--) {
 			list[count] = list[count - 1];
 		}
-		list[count] = new WordWithCount(word);
+		list[loc] = new WordWithCount(word);
 		count++;
 	}
 
