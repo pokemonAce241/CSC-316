@@ -1,27 +1,65 @@
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
+/**
+ * A heuristic class that takes a text word from a text file 
+ * and adds it to a word list by using a binary search in order
+ * to place the word in the proper place in the list. 
+ * 
+ * @author 
+ *
+ */
 public class BinarySearch extends Heuristic {
 
+	/**
+	 * The starting size of the list when first initialized.
+	 */
 	public static final int INITIAL_SIZE = 10;
 
+	/**
+	 * This array stores all text words found in the file.
+	 */
 	private WordWithCount[] list;
 
+	/**
+	 * This represents the overall size of the list.
+	 */
 	private int size;
 
+	/**
+	 * Representation of the word count to help with
+	 * incrementing the count of a word in the list.
+	 */
 	private int count;
 
+	/**
+	 * constructor for BinarySearch class that creates a new 
+	 * input Scanner from a file in the system to use as needed
+	 * by the class.
+	 * 
+	 * @param inputFileName the name of the file that is needed
+	 * to allow the class to create a scanner to receive information
+	 * from the specific file.
+	 */
 	public BinarySearch(String inputFileName) {
 		super(inputFileName, "BinarySearch");
 	}
 
+	/** 
+	 * Initializes and sets up the list for when the file is scanned and
+	 * text words are added to the list. 
+	 */
 	protected void preProcess() {
 		count = 0;
 		size = INITIAL_SIZE;
 		list = new WordWithCount[size];
 	}
 
-	@Override
+	/** 
+	 * Adds the word parameter to the end of the list.
+	 * 
+	 * @param word the word thats to be added to the list.
+	 */
 	protected void lookup(String word) {
 		if (count == 0) {
 			list[count] = new WordWithCount(word);
@@ -33,6 +71,14 @@ public class BinarySearch extends Heuristic {
 		binarySearch(word, 0, count - 1);
 	}
 
+	/**
+	 * Performs a binary search in the list in order to add the word into
+	 * the list so that the list is in increasing lexicographic order.
+	 * 
+	 * @param word the word to insert into the List.
+	 * @param low the first element in the list.
+	 * @param high the last element in the list.
+	 */
 	private void binarySearch(String word, int low, int high) {
 		int mid = (low + high) / 2;
 		int first = super.compareWords(list[mid].getWord(), word);
@@ -61,6 +107,12 @@ public class BinarySearch extends Heuristic {
 		}
 	}
 
+	/**
+	 * Inserts the word in the parameter in a certain location in the list
+	 * based on the loc parameter. 
+	 * @param word The word to add to the list.
+	 * @param loc The location in the list to add the word.
+	 */
 	private void insert(String word, int loc) {
 		for (int i = count; i > loc; i--) {
 			list[i] = list[i - 1];
@@ -69,6 +121,10 @@ public class BinarySearch extends Heuristic {
 		count++;
 	}
 
+	/**
+	 * This increases the capacity of the list in case the list reaches its maximum
+	 * capacity during the scanning and word placing process.
+	 */
 	private void modifyList() {
 		if (size < count + 1) {
 			WordWithCount[] temp = new WordWithCount[size * 2];
