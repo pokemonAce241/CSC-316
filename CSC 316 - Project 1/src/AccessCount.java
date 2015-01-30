@@ -18,7 +18,6 @@ public class AccessCount extends Naive {
 	 */
 	public AccessCount(String inputFileName) {
 		super(inputFileName, "AccessCount");
-		// TODO Auto-generated constructor stub
 	}
 
 	/**

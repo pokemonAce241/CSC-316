@@ -18,7 +18,6 @@ public class MoveToFront extends Naive {
 	 */
 	public MoveToFront(String inputFileName) {
 		super(inputFileName, "MoveToFront");
-		// TODO Auto-generated constructor stub
 	}
 
 	/**

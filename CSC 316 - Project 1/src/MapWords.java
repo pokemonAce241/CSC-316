@@ -1,33 +1,34 @@
-result()
-ArrayIterator<E>import java.util.Iterator;
+import java.util.Iterator;
+import java.util.TreeMap;
 
+public class MapWords extends Heuristic {
 
-public class MapWords extends Heuristic{
+	TreeMap<String, WordWithCount> map;
 
 	public MapWords(String inputFileName) {
 		super(inputFileName, "MapWords");
 	}
 
 	protected void preProcess() {
-		
+		WordComparator comparator = new WordComparator();
+		map = new TreeMap<String, WordWithCount>(comparator);
 	}
 
 	@Override
 	protected void lookup(String word) {
-		// TODO Auto-generated method stub
-		
+		if (map.containsKey(word)) {
+			map.get(word).incrementCount();
+		} else {
+			map.put(word, new WordWithCount(word));
+		}
 	}
 
-	protected void postProcess() {
-		
-	}
-	
 	/**
 	 * @return an iterator for the list of WordWithCount objects.
 	 */
 	@Override
 	public Iterator<WordWithCount> result() {
-		return new Iterator<WordWithCount>(list);
-	}	
+		return map.values().iterator();
+	}
 
 }

@@ -16,17 +16,70 @@ public class SortAtEnd extends Heuristic {
 	}
 
 	protected void preProcess() {
-
+		count = 0;
+		size = INITIAL_SIZE;
+		list = new WordWithCount[size];
 	}
 
 	@Override
 	protected void lookup(String word) {
-		// TODO Auto-generated method stub
-
+		modifyList();
+		list[count] = new WordWithCount(word);
+		count++;
 	}
 
 	protected void postProcess() {
+		sort();
+		merge();
+	}
 
+	private void sort() {
+		for (int i = 0; i < count; i++) {
+			for (int j = 0; j < count - 1; j++) {
+				int comp = super.compareWords(list[j].getWord(),
+						list[j + 1].getWord());
+				if (comp > 0) {
+					WordWithCount temp = list[j];
+					list[j] = list[j + 1];
+					list[j + 1] = temp;
+				}
+			}
+		}
+	}
+
+	private void merge() {
+		WordWithCount[] merge = new WordWithCount[count];
+		int i = 0;
+		int words = 0;
+		while (i != (count - 1)) {
+			int count = 0;
+			int comp;
+			do {
+				comp = super.compareWords(list[i].getWord(),
+						list[i + 1].getWord());
+				i++;
+				count++;
+			} while (comp == 0 && i != (count - 1));
+			merge[words] = new WordWithCount(list[i - 1].getWord(), count);
+			words++;
+		}
+		list = merge;
+		count = words;
+	}
+
+	private void transpose() {
+
+	}
+
+	private void modifyList() {
+		if (size < count + 1) {
+			WordWithCount[] temp = new WordWithCount[size * 2];
+			for (int i = 0; i < count; i++) {
+				temp[i] = list[i];
+			}
+			list = temp;
+			size *= 2;
+		}
 	}
 
 	/**

@@ -29,9 +29,7 @@ public class BinarySearch extends Heuristic {
 			return;
 		}
 
-		if (size < count + 1) {
-			modifySize(size * 2);
-		}
+		modifyList();
 		binarySearch(word, 0, count - 1);
 	}
 
@@ -71,13 +69,15 @@ public class BinarySearch extends Heuristic {
 		count++;
 	}
 
-	private void modifySize(int c) {
-		WordWithCount[] temp = new WordWithCount[c];
-		for (int i = 0; i < count; i++) {
-			temp[i] = list[i];
+	private void modifyList() {
+		if (size < count + 1) {
+			WordWithCount[] temp = new WordWithCount[size * 2];
+			for (int i = 0; i < count; i++) {
+				temp[i] = list[i];
+			}
+			list = temp;
+			size *= 2;
 		}
-		list = temp;
-		size = c;
 	}
 
 	/**
