@@ -166,7 +166,11 @@ public class BinarySearch extends Heuristic {
 		}
 
 		/**
-		 * Returns whether the iterator has a next object.
+		 * This checks if the current node in the iterator has a another node in its
+		 *next node and returns true or false depending on whether it does or not. 
+		 * 
+		 * @return True or false depending on if the current node in the iterator has 
+		 * a null next node.
 		 */
 		public boolean hasNext() {
 			if (cursor < count)
@@ -176,7 +180,14 @@ public class BinarySearch extends Heuristic {
 		}
 
 		/**
-		 * Returns the next object in the iterator.
+		 * If the iterator has non null next it move over to represent its next list node
+		 * in the list. Once changed it returns the new object it now represents. Otherwise
+		 * if the next node is null it throws a NoSuchElementException. 
+		 * 
+		 * @return The next WordWithCount object in the list.
+		 * 
+		 * @throws NoSuchElementException if their is no WordWithCount object in the current nodes
+		 * next node.
 		 */
 		public E next() throws NoSuchElementException {
 			if (!hasNext())
@@ -189,6 +200,8 @@ public class BinarySearch extends Heuristic {
 		/**
 		 * Throws an {@link UnsupportedOperationException} in all cases, because
 		 * removal is not a supported operation in this iterator.
+		 * 
+		 *  @throws UnsuppotredException whenever this method is used.
 		 */
 		public void remove() throws UnsupportedOperationException {
 			throw new UnsupportedOperationException("remove");
