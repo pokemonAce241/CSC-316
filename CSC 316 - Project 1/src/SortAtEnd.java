@@ -2,13 +2,12 @@ import java.util.Iterator;
 import java.util.NoSuchElementException;
 
 /**
- * A heuristic class that takes a text file and adds every word
- * in the file to the end of a word list. Afterwards the list
- * is sorted out and every duplicate word is merged into one 
- * word with appropriate word count.
+ * A heuristic class that takes a text file and adds every word in the file to
+ * the end of a word list. Afterwards the list is sorted out and every duplicate
+ * word is merged into one word with appropriate word count.
  * 
  * @author pokemonace241
- *
+ * 
  */
 public class SortAtEnd extends Heuristic {
 
@@ -28,27 +27,27 @@ public class SortAtEnd extends Heuristic {
 	private int size;
 
 	/**
-	 * Representation of the word count to help with
-	 * incrementing the count of a word in the list.
+	 * Representation of the word count to help with incrementing the count of a
+	 * word in the list.
 	 */
 	private int count;
 
 	/**
-	 * constructor for SortAtEnd class that creates a new 
-	 * input Scanner from a file in the system to use as needed
-	 * by the class.
+	 * constructor for SortAtEnd class that creates a new input Scanner from a
+	 * file in the system to use as needed by the class.
 	 * 
-	 * @param inputFileName the name of the file that is needed
-	 * to allow the class to create a scanner to recieve information
-	 * from the specific file.
+	 * @param inputFileName
+	 *            the name of the file that is needed to allow the class to
+	 *            create a scanner to recieve information from the specific
+	 *            file.
 	 */
 	public SortAtEnd(String inputFileName) {
 		super(inputFileName, "SortAtEnd");
 	}
 
-	/** 
-	 * Initializes and sets up the list for when the file is scanned and
-	 * text words are added to the list.
+	/**
+	 * Initializes and sets up the list for when the file is scanned and text
+	 * words are added to the list.
 	 */
 	protected void preProcess() {
 		count = 0;
@@ -56,11 +55,11 @@ public class SortAtEnd extends Heuristic {
 		list = new WordWithCount[size];
 	}
 
-	
-	/** 
+	/**
 	 * Adds the word parameter to the end of the list.
 	 * 
-	 * @param word the word thats to be added to the list.
+	 * @param word
+	 *            the word thats to be added to the list.
 	 */
 	protected void lookup(String word) {
 		modifyList();
@@ -68,10 +67,10 @@ public class SortAtEnd extends Heuristic {
 		count++;
 	}
 
-	/** 
-	 * Sorts all the words in the list in descending order then takes
-	 * all duplicate words in the list to a single word with the 
-	 * appropriate word count.
+	/**
+	 * Sorts all the words in the list in descending order then takes all
+	 * duplicate words in the list to a single word with the appropriate word
+	 * count.
 	 */
 	protected void postProcess() {
 		sort();
@@ -96,22 +95,25 @@ public class SortAtEnd extends Heuristic {
 	}
 
 	/**
-	 * Takes a sorted list and merges all duplicate words into one word with
-	 * the word count equal to the amount of duplicates their was.
+	 * Takes a sorted list and merges all duplicate words into one word with the
+	 * word count equal to the amount of duplicates their was.
 	 */
 	private void merge() {
 		WordWithCount[] merge = new WordWithCount[count];
 		int i = 0;
 		int words = 0;
-		while (i != (count - 1)) {
+		while (i != count) {
 			int count = 0;
 			int comp;
 			do {
-				comp = super.compareWords(list[i].getWord(),
-						list[i + 1].getWord());
+				if (list[i + 1] == null)
+					comp = 1;
+				else
+					comp = super.compareWords(list[i].getWord(),
+							list[i + 1].getWord());
 				i++;
 				count++;
-			} while (comp == 0 && i != (count - 1));
+			} while (comp == 0 && i != this.count);
 			merge[words] = new WordWithCount(list[i - 1].getWord(), count);
 			words++;
 		}
@@ -120,8 +122,8 @@ public class SortAtEnd extends Heuristic {
 	}
 
 	/**
-	 * This increases the capacity of the list in case the list reaches its maximum
-	 * capacity during the scanning and word placing process.
+	 * This increases the capacity of the list in case the list reaches its
+	 * maximum capacity during the scanning and word placing process.
 	 */
 	private void modifyList() {
 		if (size < count + 1) {

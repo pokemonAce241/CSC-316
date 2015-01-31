@@ -155,7 +155,7 @@ website
 Rome
 English
 pronunciation
-roʊm
+roÊŠm
 Italian
 Roma
 listen
@@ -165,7 +165,7 @@ pronounced
 ro
 ma
 Latin
-Rōma
+RÅ�ma
 is
 the
 capital
@@ -616,7 +616,7 @@ industry
 for
 example
 the
-Cinecittà
+CinecittÃ 
 Studios
 Europe
 s
@@ -1069,8 +1069,8 @@ of
 the
 Greek
 verb
-ῥέω
-rhèo
+á¿¥Î­Ï‰
+rhÃ¨o
 and
 of
 the
@@ -1123,8 +1123,8 @@ from
 the
 Greek
 word
-ῤώμη
-rhòme
+á¿¤ÏŽÎ¼Î·
+rhÃ²me
 which
 means
 strength
@@ -2592,7 +2592,7 @@ with
 works
 like
 the
-Pietà
+PietÃ 
 by
 Michelangelo
 and
@@ -3434,7 +3434,7 @@ the
 city
 s
 iconic
-Cinecittà
+CinecittÃ 
 Studios
 A
 new
@@ -3936,7 +3936,7 @@ by
 Balla
 Morandi
 Pirandello
-Carrà
+CarrÃ 
 De
 Chirico
 De
@@ -3947,7 +3947,7 @@ Burri
 Mastroianni
 Turcato
 Kandisky
-Cézanne
+CÃ©zanne
 on
 permanent
 exhibition
@@ -5233,7 +5233,7 @@ enjoys
 a
 Mediterranean
 climate
-Köppen
+KÃ¶ppen
 climate
 classification
 Csa
@@ -7146,7 +7146,7 @@ and
 the
 Bocca
 della
-Verità
+VeritÃ 
 edit
 Medieval
 Often
@@ -7655,7 +7655,7 @@ is
 the
 Palazzo
 della
-Civiltà
+CiviltÃ 
 Italiana
 the
 iconic
@@ -7703,7 +7703,7 @@ London
 Docklands
 and
 La
-Défense
+DÃ©fense
 in
 Paris
 Also
@@ -8686,7 +8686,7 @@ styles
 According
 to
 the
-Encyclopædia
+EncyclopÃ¦dia
 Britannica
 the
 finest
@@ -9219,7 +9219,7 @@ industry
 thanks
 to
 the
-Cinecittà
+CinecittÃ 
 studios
 working
 since
@@ -9771,7 +9771,7 @@ theatre
 the
 Biblioteca
 della
-Società
+SocietÃ 
 Geografica
 Italiana
 which
@@ -9965,14 +9965,14 @@ Motorie
 Private
 universities
 Libera
-Università
+UniversitÃ 
 Internazionale
 degli
 Studi
 Sociali
 Guido
 Carli
-Università
+UniversitÃ 
 Cattolica
 del
 Sacro
@@ -9987,11 +9987,11 @@ has
 faculties
 in
 Rome
-Università
+UniversitÃ 
 Campus
 Bio
 Medico
-Università
+UniversitÃ 
 Europea
 di
 Roma
@@ -10005,7 +10005,7 @@ university
 in
 Rome
 Libera
-università
+universitÃ 
 Maria
 SS
 Assunta
@@ -10013,7 +10013,7 @@ Leonardo
 da
 Vinci
 Libera
-Università
+UniversitÃ 
 di
 Roma
 S
@@ -10022,19 +10022,19 @@ V
 University
 of
 Rome
-Università
+UniversitÃ 
 UPTER
 a
 folk
 high
 school
-Università
+UniversitÃ 
 I
 S
 S
 A
 S
-Università
+UniversitÃ 
 degli
 studi
 Guglielmo
@@ -10276,7 +10276,7 @@ of
 Malta
 and
 the
-Università
+UniversitÃ 
 Campus
 Bio
 Medico
@@ -11368,7 +11368,7 @@ of
 New
 York
 in
-Cinecittà
+CinecittÃ 
 studios
 Rome
 Main
@@ -11390,7 +11390,7 @@ Rome
 Rome
 hosts
 the
-Cinecittà
+CinecittÃ 
 Studios
 the
 largest
@@ -11532,7 +11532,7 @@ War
 In
 the
 s
-Cinecittà
+CinecittÃ 
 was
 the
 filming
@@ -11555,7 +11555,7 @@ with
 Federico
 Fellini
 Today
-Cinecittà
+CinecittÃ 
 is
 the
 only
@@ -11980,7 +11980,7 @@ Romanista
 Il
 Tempo
 L
-Unità
+UnitÃ 
 Audio
 Review
 L
@@ -11989,7 +11989,7 @@ Frequency
 XL
 Repubblica
 Il
-Venerdì
+VenerdÃ¬
 di
 Repubblica
 RAI
@@ -13738,13 +13738,13 @@ Paris
 Italian
 Solo
 Parigi
-è
+Ã¨
 degna
 di
 Roma
 solo
 Roma
-è
+Ã¨
 degna
 di
 Parigi
@@ -13775,7 +13775,7 @@ Beijing
 China
 Belgrade
 Serbia
-Brasília
+BrasÃ­lia
 Brazil
 Cairo
 Egypt
@@ -14058,7 +14058,7 @@ a
 b
 history
 of
-Cinecittà
+CinecittÃ 
 Studios
 in
 Rome
@@ -14070,7 +14070,7 @@ MediaGroup
 IMAGE
 MediaGroup
 Retrieved
-Cinecittà
+CinecittÃ 
 Photo
 TrekEarth
 Retrieved
@@ -14504,7 +14504,7 @@ X
 World
 Map
 of
-Köppen
+KÃ¶ppen
 Geiger
 Climate
 Classification
@@ -14584,9 +14584,9 @@ commentary
 by
 Pierre
 Grimal
-Société
+SociÃ©tÃ©
 d
-édition
+Ã©dition
 Les
 Belles
 Lettres
@@ -14612,7 +14612,7 @@ it
 Citrag
 it
 Retrieved
-Encyclopædia
+EncyclopÃ¦dia
 Britannica
 Britannica
 com
@@ -14701,7 +14701,7 @@ Benedetti
 La
 Biblioteca
 della
-Società
+SocietÃ 
 Geografica
 Italiana
 Biblioteche
@@ -14728,7 +14728,7 @@ romana
 sono
 presenti
 le
-facoltà
+facoltÃ 
 di
 medicina
 e
