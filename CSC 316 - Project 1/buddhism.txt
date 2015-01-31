@@ -1,4 +1,4 @@
-﻿
+
 
 
  
@@ -18,7 +18,7 @@ Jump to: navigation, search
  
 
 
-Standing Buddha statue at the Tokyo National Museum. One of the earliest known representations of the Buddha, 1st–2nd century CE.
+Standing Buddha statue at the Tokyo National Museum. One of the earliest known representations of the Buddha, 1st�2nd century CE.
 Part of a series on 
 
 Buddhism
@@ -36,7 +36,7 @@ History[show]
 
 
 
-Dharma · 
+Dharma � 
  Concepts
  [show]
 
@@ -70,7 +70,7 @@ Practices[show]
  
 
 
-Nirvāṇa[show]
+Nirva?a[show]
 
 
 
@@ -80,7 +80,7 @@ Nirvāṇa[show]
 
 
 
-Traditions · 
+Traditions � 
  Canons
  [show]
 
@@ -95,14 +95,14 @@ Traditions ·
 Outline
 Portal icon Buddhism portal
  
-v · 
- t · 
+v � 
+ t � 
  e
     
 
 Buddhism is a nontheistic religion[1][2] or dharma, "right way of living", that encompasses a variety of traditions, beliefs and practices largely based on teachings attributed to Siddhartha Gautama, commonly known as the Buddha ("the awakened one"). According to Buddhist tradition, the Buddha lived and taught in the eastern part of the Indian subcontinent sometime between the 6th and 4th centuries BCE.[1] He is recognized by Buddhists as an awakened or enlightened teacher who shared his insights to help sentient beings end their suffering through the elimination of ignorance and craving. Buddhists believe that this is accomplished through direct understanding and the perception of dependent origination and the Four Noble Truths. The ultimate goal of Buddhism is the attainment of the sublime state of Nirvana, by practicing the Noble Eightfold Path (also known as the Middle Way).[3]
 
-Two major extant branches of Buddhism are generally recognized: Theravada ("The School of the Elders") and Mahayana ("The Great Vehicle"). Theravada has a widespread following in Sri Lanka and Southeast Asia (Cambodia, Laos, Thailand, Myanmar etc.). Mahayana is found throughout East Asia (China, Korea, Japan, Vietnam, Singapore, Taiwan etc.) and includes the traditions of Pure Land, Zen, Nichiren Buddhism, Tibetan Buddhism, Shingon, and Tiantai (Tendai). In some classifications, Vajrayana—practiced mainly in Tibet and Mongolia, and adjacent parts of China and Russia—is recognized as a third branch, with a body of teachings attributed to Indian siddhas, while others classify it as a part of Mahayana.
+Two major extant branches of Buddhism are generally recognized: Theravada ("The School of the Elders") and Mahayana ("The Great Vehicle"). Theravada has a widespread following in Sri Lanka and Southeast Asia (Cambodia, Laos, Thailand, Myanmar etc.). Mahayana is found throughout East Asia (China, Korea, Japan, Vietnam, Singapore, Taiwan etc.) and includes the traditions of Pure Land, Zen, Nichiren Buddhism, Tibetan Buddhism, Shingon, and Tiantai (Tendai). In some classifications, Vajrayana�practiced mainly in Tibet and Mongolia, and adjacent parts of China and Russia�is recognized as a third branch, with a body of teachings attributed to Indian siddhas, while others classify it as a part of Mahayana.
 
 Buddhist schools vary on the exact nature of the path to liberation, the importance and canonicity of various teachings and scriptures, and especially their respective practices.[4] One consistent belief held by all Buddhist schools is the lack of a Creator deity. The foundations of Buddhist tradition and practice are the Three Jewels: the Buddha, the Dharma (the teachings), and the Sangha (the community). Taking "refuge in the triple gem" has traditionally been a declaration and commitment to being on the Buddhist path, and in general distinguishes a Buddhist from a non-Buddhist.[5] Other practices may include following ethical precepts; support of the monastic community; renouncing conventional living and becoming a monastic; the development of mindfulness and practice of meditation; cultivation of higher wisdom and discernment; study of scriptures; devotional practices; ceremonies; and in the Mahayana tradition, invocation of buddhas and bodhisattvas.
 
@@ -110,7 +110,7 @@ Buddhist schools vary on the exact nature of the path to liberation, the importa
 
 Contents  [hide] 
 1 Life of the Buddha
-2 Buddhist concepts 2.1 Life and the world 2.1.1 Saṃsāra
+2 Buddhist concepts 2.1 Life and the world 2.1.1 Sa?sara
 2.1.2 Karma
 2.1.3 Rebirth
 
@@ -136,9 +136,9 @@ Contents  [hide]
 
 3.2 Buddhist ethics
 3.3 Monastic life
-3.4 Meditation 3.4.1 Samādhi (meditative cultivation): samatha meditation 3.4.1.1 In Theravāda
+3.4 Meditation 3.4.1 Samadhi (meditative cultivation): samatha meditation 3.4.1.1 In Theravada
 
-3.4.2 Prajñā (Wisdom): vipassana meditation
+3.4.2 Praj�a (Wisdom): vipassana meditation
 3.4.3 Zen
 3.4.4 Vajrayana and Tantra
 
@@ -164,7 +164,7 @@ Contents  [hide]
 6.3 Mahayana traditions
 6.4 Vajrayana traditions
 
-7 Buddhist texts 7.1 Pāli Tipitaka
+7 Buddhist texts 7.1 Pali Tipitaka
 7.2 Mahayana sutras
 
 8 Comparative studies 8.1 Is Buddhism a religion?
@@ -184,42 +184,42 @@ Life of the Buddha
  
 
 
- Relic depicting Gautama leaving home. The Great Departure, c.1–2nd century. (Musée Guimet)
+ Relic depicting Gautama leaving home. The Great Departure, c.1�2nd century. (Mus�e Guimet)
 Main article: Gautama Buddha
 
-This narrative draws on the Nidānakathā biography of the Theravāda sect in Sri Lanka, which is ascribed to Buddhaghoṣa in the 5th century CE.[6] Earlier biographies such as the Buddhacarita, the Lokottaravādin Mahāvastu, and the Mahāyāna/ Sarvāstivāda Lalitavistara Sūtra, give different accounts. Scholars are hesitant to make unqualified claims about the historical facts of the Buddha's life. Most accept that he lived, taught and founded a monastic order, but do not consistently accept all of the details contained in his biographies.[7][8]
+This narrative draws on the Nidanakatha biography of the Theravada sect in Sri Lanka, which is ascribed to Buddhagho?a in the 5th century CE.[6] Earlier biographies such as the Buddhacarita, the Lokottaravadin Mahavastu, and the Mahayana/ Sarvastivada Lalitavistara Sutra, give different accounts. Scholars are hesitant to make unqualified claims about the historical facts of the Buddha's life. Most accept that he lived, taught and founded a monastic order, but do not consistently accept all of the details contained in his biographies.[7][8]
 
 
  
 
 
  Ascetic Gautama with his five companions, who later comprised the first Sangha. (Painting in Laotian temple)
-According to author Michael Carrithers, while there are good reasons to doubt the traditional account, "the outline of the life must be true: birth, maturity, renunciation, search, awakening and liberation, teaching, death."[9] In writing her biography of the Buddha, Karen Armstrong noted, "It is obviously difficult, therefore, to write a biography of the Buddha that meets modern criteria, because we have very little information that can be considered historically sound... [but] we can be reasonably confident Siddhatta Gotama did indeed exist and that his disciples preserved the memory of his life and teachings as well as they could."[10][dubious – discuss]
+According to author Michael Carrithers, while there are good reasons to doubt the traditional account, "the outline of the life must be true: birth, maturity, renunciation, search, awakening and liberation, teaching, death."[9] In writing her biography of the Buddha, Karen Armstrong noted, "It is obviously difficult, therefore, to write a biography of the Buddha that meets modern criteria, because we have very little information that can be considered historically sound... [but] we can be reasonably confident Siddhatta Gotama did indeed exist and that his disciples preserved the memory of his life and teachings as well as they could."[10][dubious � discuss]
 
-The evidence of the early texts suggests that Siddhārtha Gautama was born in a community that was on the periphery, both geographically and culturally, of the northeastern Indian subcontinent in the 5th century BCE.[11] It was either a small republic, in which case his father was an elected chieftain, or an oligarchy, in which case his father was an oligarch.[11]
+The evidence of the early texts suggests that Siddhartha Gautama was born in a community that was on the periphery, both geographically and culturally, of the northeastern Indian subcontinent in the 5th century BCE.[11] It was either a small republic, in which case his father was an elected chieftain, or an oligarchy, in which case his father was an oligarch.[11]
 
 
  
 
 
  The Vajrashila, where Gautama sat under a tree and became enlightened, Bodh Gaya, India, 2011
-According to this narrative, shortly after the birth of young prince Gautama, an astrologer named Asita visited the young prince's father—King Śuddhodana—and prophesied that Siddhartha would either become a great king or renounce the material world to become a holy man, depending on whether he saw what life was like outside the palace walls.
+According to this narrative, shortly after the birth of young prince Gautama, an astrologer named Asita visited the young prince's father�King Suddhodana�and prophesied that Siddhartha would either become a great king or renounce the material world to become a holy man, depending on whether he saw what life was like outside the palace walls.
 
-Śuddhodana was determined to see his son become a king, so he prevented him from leaving the palace grounds. But at age 29, despite his father's efforts, Gautama ventured beyond the palace several times. In a series of encounters—known in Buddhist literature as the four sights—he learned of the suffering of ordinary people, encountering an old man, a sick man, a corpse and, finally, an ascetic holy man, apparently content and at peace with the world. These experiences prompted Gautama to abandon royal life and take up a spiritual quest.
+Suddhodana was determined to see his son become a king, so he prevented him from leaving the palace grounds. But at age 29, despite his father's efforts, Gautama ventured beyond the palace several times. In a series of encounters�known in Buddhist literature as the four sights�he learned of the suffering of ordinary people, encountering an old man, a sick man, a corpse and, finally, an ascetic holy man, apparently content and at peace with the world. These experiences prompted Gautama to abandon royal life and take up a spiritual quest.
 
 
  
 
 
 Dhamek Stupa in Sarnath, Uttar Pradesh, India, built by King Ashoka, where the Buddha gave his first sermon
-Gautama first went to study with famous religious teachers of the day, and mastered the meditative attainments they taught. But he found that they did not provide a permanent end to suffering, so he continued his quest. He next attempted an extreme asceticism, which was a religious pursuit common among the Shramanas, a religious culture distinct from the Vedic one. Gautama underwent prolonged fasting, breath-holding, and exposure to pain. He almost starved himself to death in the process. He realized that he had taken this kind of practice to its limit, and had not put an end to suffering. So in a pivotal moment he accepted milk and rice from a village girl and changed his approach. He devoted himself to anapanasati meditation, through which he discovered what Buddhists call the Middle Way (Skt. madhyamā-pratipad[12]): a path of moderation between the extremes of self-indulgence and self-mortification.[13][14]
+Gautama first went to study with famous religious teachers of the day, and mastered the meditative attainments they taught. But he found that they did not provide a permanent end to suffering, so he continued his quest. He next attempted an extreme asceticism, which was a religious pursuit common among the Shramanas, a religious culture distinct from the Vedic one. Gautama underwent prolonged fasting, breath-holding, and exposure to pain. He almost starved himself to death in the process. He realized that he had taken this kind of practice to its limit, and had not put an end to suffering. So in a pivotal moment he accepted milk and rice from a village girl and changed his approach. He devoted himself to anapanasati meditation, through which he discovered what Buddhists call the Middle Way (Skt. madhyama-pratipad[12]): a path of moderation between the extremes of self-indulgence and self-mortification.[13][14]
 
 
 Gold colored statue of man reclining on his right side 
 
 
  Buddha statue depicting Parinirvana. (Mahaparinirvana Temple, Kushinagar, Uttar Pradesh, India)
-Gautama was now determined to complete his spiritual quest. At the age of 35, he famously sat in meditation under a sacred fig tree — known as the Bodhi tree — in the town of Bodh Gaya, India, and vowed not to rise before achieving enlightenment. After many days, he finally destroyed the fetters of his mind, thereby liberating himself from the cycle of suffering and rebirth, and arose as a fully enlightened being (Skt. samyaksaṃbuddha). Soon thereafter, he attracted a band of followers and instituted a monastic order. Now, as the Buddha, he spent the rest of his life teaching the path of awakening he had discovered, traveling throughout the northeastern part of the Indian subcontinent,[15][16] and died at the age of 80 (483 BCE) in Kushinagar, India. The south branch of the original fig tree available only in Anuradhapura Sri Lanka is known as Jaya Sri Maha Bodhi.
+Gautama was now determined to complete his spiritual quest. At the age of 35, he famously sat in meditation under a sacred fig tree � known as the Bodhi tree � in the town of Bodh Gaya, India, and vowed not to rise before achieving enlightenment. After many days, he finally destroyed the fetters of his mind, thereby liberating himself from the cycle of suffering and rebirth, and arose as a fully enlightened being (Skt. samyaksa?buddha). Soon thereafter, he attracted a band of followers and instituted a monastic order. Now, as the Buddha, he spent the rest of his life teaching the path of awakening he had discovered, traveling throughout the northeastern part of the Indian subcontinent,[15][16] and died at the age of 80 (483 BCE) in Kushinagar, India. The south branch of the original fig tree available only in Anuradhapura Sri Lanka is known as Jaya Sri Maha Bodhi.
 
 Buddhist concepts
 
@@ -232,9 +232,9 @@ Life and the world
 
 
  Traditional Tibetan Buddhist Thangka depicting the Wheel of Life with its six realms
-Saṃsāra
+Sa?sara
 
-Main article: Saṃsāra (Buddhism)
+Main article: Sa?sara (Buddhism)
 
 Within Buddhism, samsara is defined as the continual repetitive cycle of birth and death that arises from ordinary beings' grasping and fixating on a self and experiences. Specifically, samsara refers to the process of cycling through one rebirth after another within the six realms of existence,[note 1] where each realm can be understood as physical realm or a psychological state characterized by a particular type of suffering. Samsara arises out of avidya (ignorance) and is characterized by dukkha (suffering, anxiety, dissatisfaction). In the Buddhist view, liberation from samsara is possible by following the Buddhist path.[note 2]
 
@@ -242,11 +242,11 @@ Karma
 
 Main article: Karma in Buddhism
 
-In Buddhism, Karma (from Sanskrit: "action, work") is the force that drives saṃsāra—the cycle of suffering and rebirth for each being. Good, skillful deeds (Pāli: "kusala") and bad, unskillful (Pāli: "akusala") actions produce "seeds" in the mind that come to fruition either in this life or in a subsequent rebirth.[17] The avoidance of unwholesome actions and the cultivation of positive actions is called śīla (from Sanskrit: "ethical conduct").
+In Buddhism, Karma (from Sanskrit: "action, work") is the force that drives sa?sara�the cycle of suffering and rebirth for each being. Good, skillful deeds (Pali: "kusala") and bad, unskillful (Pali: "akusala") actions produce "seeds" in the mind that come to fruition either in this life or in a subsequent rebirth.[17] The avoidance of unwholesome actions and the cultivation of positive actions is called sila (from Sanskrit: "ethical conduct").
 
-In Buddhism, karma specifically refers to those actions of body, speech or mind that spring from mental intent ("cetana"),[18] and bring about a consequence or fruit, (phala) or result (vipāka).
+In Buddhism, karma specifically refers to those actions of body, speech or mind that spring from mental intent ("cetana"),[18] and bring about a consequence or fruit, (phala) or result (vipaka).
 
-In Theravada Buddhism there can be no divine salvation or forgiveness for one's karma, since it is a purely impersonal process that is a part of the makeup of the universe. In Mahayana Buddhism, the texts of certain Mahayana sutras (such as the Lotus Sutra, the Angulimaliya Sutra and the Nirvana Sutra) claim that the recitation or merely the hearing of their texts can expunge great swathes of negative karma. Some forms of Buddhism (for example, Vajrayana) regard the recitation of mantras as a means for cutting off of previous negative karma.[19] The Japanese Pure Land teacher Genshin taught that Amida Buddha has the power to destroy the karma that would otherwise bind one in saṃsāra.[2][20]
+In Theravada Buddhism there can be no divine salvation or forgiveness for one's karma, since it is a purely impersonal process that is a part of the makeup of the universe. In Mahayana Buddhism, the texts of certain Mahayana sutras (such as the Lotus Sutra, the Angulimaliya Sutra and the Nirvana Sutra) claim that the recitation or merely the hearing of their texts can expunge great swathes of negative karma. Some forms of Buddhism (for example, Vajrayana) regard the recitation of mantras as a means for cutting off of previous negative karma.[19] The Japanese Pure Land teacher Genshin taught that Amida Buddha has the power to destroy the karma that would otherwise bind one in sa?sara.[2][20]
 
 Rebirth
 
@@ -257,17 +257,17 @@ A very large hill behind two palm trees and a boulevard, people walking are abou
  Gautama's cremation site, Ramabhar Stupa in Uttar Pradesh, India
 Main article: Rebirth (Buddhism)
 
-Rebirth refers to a process whereby beings go through a succession of lifetimes as one of many possible forms of sentient life, each running from conception[21] to death. Buddhism rejects the concepts of a permanent self or an unchanging, eternal soul, as it is called in Hinduism and Christianity. According to Buddhism there ultimately is no such thing as a self independent from the rest of the universe (the doctrine of anatta). Buddhists also refer to themselves as the believers of the anatta doctrine—Nairatmyavadin or Anattavadin. Rebirth in subsequent existences must be understood as the continuation of a dynamic, ever-changing process of "dependent arising" ("pratītyasamutpāda") determined by the laws of cause and effect (karma) rather than that of one being, transmigrating or incarnating from one existence to the next.
+Rebirth refers to a process whereby beings go through a succession of lifetimes as one of many possible forms of sentient life, each running from conception[21] to death. Buddhism rejects the concepts of a permanent self or an unchanging, eternal soul, as it is called in Hinduism and Christianity. According to Buddhism there ultimately is no such thing as a self independent from the rest of the universe (the doctrine of anatta). Buddhists also refer to themselves as the believers of the anatta doctrine�Nairatmyavadin or Anattavadin. Rebirth in subsequent existences must be understood as the continuation of a dynamic, ever-changing process of "dependent arising" ("pratityasamutpada") determined by the laws of cause and effect (karma) rather than that of one being, transmigrating or incarnating from one existence to the next.
 
 Each rebirth takes place within one of five realms according to Theravadins, or six according to other schools.[22][23]
 1.Naraka beings: those who live in one of many Narakas (Hells);
 2.Preta: sometimes sharing some space with humans, but invisible to most people; an important variety is the hungry ghost;[24]
 3.Animals: sharing space with humans, but considered another type of life;
 4.Human beings: one of the realms of rebirth in which attaining Nirvana is possible;
-5.Asuras: variously translated as lowly deities, demons, titans, antigods; not recognized by Theravāda (Mahavihara) tradition as a separate realm;[note 3]
+5.Asuras: variously translated as lowly deities, demons, titans, antigods; not recognized by Theravada (Mahavihara) tradition as a separate realm;[note 3]
 6.Devas including Brahmas: variously translated as gods, deities, spirits, angels, or left untranslated.
 
-The above are further subdivided into 31 planes of existence.[26] Rebirths in some of the higher heavens, known as the Śuddhāvāsa Worlds or Pure Abodes, can be attained only by skilled Buddhist practitioners known as anāgāmis (non-returners). Rebirths in the arupa-dhatu (formless realms) can be attained by only those who can meditate on the arūpajhānas, the highest object of meditation.
+The above are further subdivided into 31 planes of existence.[26] Rebirths in some of the higher heavens, known as the Suddhavasa Worlds or Pure Abodes, can be attained only by skilled Buddhist practitioners known as anagamis (non-returners). Rebirths in the arupa-dhatu (formless realms) can be attained by only those who can meditate on the arupajhanas, the highest object of meditation.
 
 According to East Asian and Tibetan Buddhism, there is an intermediate state (Tibetan "Bardo") between one life and the next. The orthodox Theravada position rejects this; however there are passages in the Samyutta Nikaya of the Pali Canon (the collection of texts on which the Theravada tradition is based), that seem to lend support to the idea that the Buddha taught of an intermediate stage between one life and the next.[27][28]
 
@@ -281,7 +281,7 @@ Main article: Four Noble Truths
  
 
 
- The Buddha teaching the Four Noble Truths. Sanskrit manuscript. Nālandā, Bihar, India.
+ The Buddha teaching the Four Noble Truths. Sanskrit manuscript. Nalanda, Bihar, India.
 The teachings on the Four Noble Truths are regarded as central to the teachings of Buddhism, and are said to provide a conceptual framework for Buddhist thought. These four truths explain the nature of dukkha (suffering, anxiety, unsatisfactoriness), its causes, and how it can be overcome. The four truths are:[note 4]
 1.The truth of dukkha (suffering, anxiety, unsatisfactoriness[note 5])
 2.The truth of the origin of dukkha
@@ -304,9 +304,9 @@ Main articles: Noble Eightfold Path and Buddhist Paths to liberation
 
 
  The Dharmachakra represents the Noble Eightfold Path
-The Noble Eightfold Path—the fourth of the Buddha's Noble Truths—consists of a set of eight interconnected factors or conditions, that when developed together, lead to the cessation of dukkha.[29] These eight factors are: Right View (or Right Understanding), Right Intention (or Right Thought), Right Speech, Right Action, Right Livelihood, Right Effort, Right Mindfulness, and Right Concentration.
+The Noble Eightfold Path�the fourth of the Buddha's Noble Truths�consists of a set of eight interconnected factors or conditions, that when developed together, lead to the cessation of dukkha.[29] These eight factors are: Right View (or Right Understanding), Right Intention (or Right Thought), Right Speech, Right Action, Right Livelihood, Right Effort, Right Mindfulness, and Right Concentration.
 
-Ajahn Sucitto describes the path as "a mandala of interconnected factors that support and moderate each other."[29] The eight factors of the path are not to be understood as stages, in which each stage is completed before moving on to the next. Rather, they are understood as eight significant dimensions of one's behaviour—mental, spoken, and bodily—that operate in dependence on one another; taken together, they define a complete path, or way of living.[30]
+Ajahn Sucitto describes the path as "a mandala of interconnected factors that support and moderate each other."[29] The eight factors of the path are not to be understood as stages, in which each stage is completed before moving on to the next. Rather, they are understood as eight significant dimensions of one's behaviour�mental, spoken, and bodily�that operate in dependence on one another; taken together, they define a complete path, or way of living.[30]
 
 The eight factors of the path are commonly presented within three divisions (or higher trainings) as shown below:
 
@@ -320,27 +320,27 @@ Sanskrit, Pali
 Description
 
 Wisdom
- (Sanskrit: prajñā,
-Pāli: paññā) 1. Right view samyag dṛṣṭi,
- sammā ditthi Viewing reality as it is, not just as it appears to be 
-2. Right intention samyag saṃkalpa,
- sammā sankappa Intention of renunciation, freedom and harmlessness 
+ (Sanskrit: praj�a,
+Pali: pa��a) 1. Right view samyag d???i,
+ samma ditthi Viewing reality as it is, not just as it appears to be 
+2. Right intention samyag sa?kalpa,
+ samma sankappa Intention of renunciation, freedom and harmlessness 
 Ethical conduct
- (Sanskrit: śīla,
- Pāli: sīla) 3. Right speech samyag vāc,
- sammā vāca Speaking in a truthful and non-hurtful way 
+ (Sanskrit: sila,
+ Pali: sila) 3. Right speech samyag vac,
+ samma vaca Speaking in a truthful and non-hurtful way 
 4. Right action samyag karman,
- sammā kammanta Acting in a non-harmful way 
-5. Right livelihood samyag ājīvana,
- sammā ājīva A non-harmful livelihood 
+ samma kammanta Acting in a non-harmful way 
+5. Right livelihood samyag ajivana,
+ samma ajiva A non-harmful livelihood 
 Concentration
- (Sanskrit and Pāli: samādhi) 6. Right effort samyag vyāyāma,
- sammā vāyāma Making an effort to improve 
-7. Right mindfulness samyag smṛti,
- sammā sati Awareness to see things for what they are with clear consciousness;
+ (Sanskrit and Pali: samadhi) 6. Right effort samyag vyayama,
+ samma vayama Making an effort to improve 
+7. Right mindfulness samyag sm?ti,
+ samma sati Awareness to see things for what they are with clear consciousness;
  being aware of the present reality within oneself, without any craving or aversion 
-8. Right concentration samyag samādhi,
- sammā samādhi Correct meditation or concentration, explained as the first four jhānas 
+8. Right concentration samyag samadhi,
+ samma samadhi Correct meditation or concentration, explained as the first four jhanas 
 
 The Four Immeasurables
 
@@ -351,7 +351,7 @@ The Four Immeasurables
  Statue of Buddha in Wat Phra Si Rattana Mahathat, Phitsanulok, Thailand
 Main article: Brahmavihara
 
-While he searched for enlightenment, Gautama combined the yoga practice of his teacher Kalama with what later became known as "the immeasurables".[31][dubious – discuss] Gautama thus invented a new kind of human, one without egotism.[31][dubious – discuss] What Thich Nhat Hanh calls the "Four Immeasurable Minds" of love, compassion, joy, and equanimity[32] are also known as brahmaviharas, divine abodes, or simply as four immeasurables.[33] Pema Chödrön calls them the "four limitless ones".[34] Of the four, mettā or loving-kindness meditation is perhaps the best known.[33] The Four Immeasurables are taught as a form of meditation that cultivates "wholesome attitudes towards all sentient beings."[35] The practitioner prays:
+While he searched for enlightenment, Gautama combined the yoga practice of his teacher Kalama with what later became known as "the immeasurables".[31][dubious � discuss] Gautama thus invented a new kind of human, one without egotism.[31][dubious � discuss] What Thich Nhat Hanh calls the "Four Immeasurable Minds" of love, compassion, joy, and equanimity[32] are also known as brahmaviharas, divine abodes, or simply as four immeasurables.[33] Pema Ch�dr�n calls them the "four limitless ones".[34] Of the four, metta or loving-kindness meditation is perhaps the best known.[33] The Four Immeasurables are taught as a form of meditation that cultivates "wholesome attitudes towards all sentient beings."[35] The practitioner prays:
 1.May all sentient beings have happiness and its causes,
 2.May all sentient beings be free of suffering and its causes,
 3.May all sentient beings never be separated from bliss without suffering,
@@ -380,7 +380,7 @@ Question book-new.svg
 Monks debating at Sera Monastery, Tibet
 Buddhist scholars have produced a number of intellectual theories, philosophies and world view concepts (see, for example, Abhidharma, Buddhist philosophy and Reality in Buddhism). Some schools of Buddhism discourage doctrinal study, and some regard it as essential practice.
 
-The concept of liberation (nirvāṇa)—the goal of the Buddhist path—is closely related to overcoming ignorance (avidyā), a fundamental misunderstanding or mis-perception of the nature of reality. In awakening to the true nature of the self and all phenomena one develops dispassion for the objects of clinging, and is liberated from suffering (dukkha) and the cycle of incessant rebirths (saṃsāra). To this end, the Buddha recommended viewing things as characterized by the three marks of existence.
+The concept of liberation (nirva?a)�the goal of the Buddhist path�is closely related to overcoming ignorance (avidya), a fundamental misunderstanding or mis-perception of the nature of reality. In awakening to the true nature of the self and all phenomena one develops dispassion for the objects of clinging, and is liberated from suffering (dukkha) and the cycle of incessant rebirths (sa?sara). To this end, the Buddha recommended viewing things as characterized by the three marks of existence.
 
 Three Marks of Existence
 
@@ -388,52 +388,52 @@ Main article: Three marks of existence
 
 The Three Marks of Existence are impermanence, suffering, and not-self.
 
-Impermanence (Pāli: anicca) expresses the Buddhist notion that all compounded or conditioned phenomena (all things and experiences) are inconstant, unsteady, and impermanent. Everything we can experience through our senses is made up of parts, and its existence is dependent on external conditions. Everything is in constant flux, and so conditions and the thing itself are constantly changing. Things are constantly coming into being, and ceasing to be. Since nothing lasts, there is no inherent or fixed nature to any object or experience. According to the doctrine of impermanence, life embodies this flux in the aging process, the cycle of rebirth (saṃsāra), and in any experience of loss. The doctrine asserts that because things are impermanent, attachment to them is futile and leads to suffering (dukkha).
+Impermanence (Pali: anicca) expresses the Buddhist notion that all compounded or conditioned phenomena (all things and experiences) are inconstant, unsteady, and impermanent. Everything we can experience through our senses is made up of parts, and its existence is dependent on external conditions. Everything is in constant flux, and so conditions and the thing itself are constantly changing. Things are constantly coming into being, and ceasing to be. Since nothing lasts, there is no inherent or fixed nature to any object or experience. According to the doctrine of impermanence, life embodies this flux in the aging process, the cycle of rebirth (sa?sara), and in any experience of loss. The doctrine asserts that because things are impermanent, attachment to them is futile and leads to suffering (dukkha).
 
-Suffering (Pāli: दुक्ख dukkha; Sanskrit दुःख duḥkha) is also a central concept in Buddhism. The word roughly corresponds to a number of terms in English including suffering, pain, unsatisfactoriness, sorrow, affliction, anxiety, dissatisfaction, discomfort, anguish, stress, misery, and frustration. Although the term is often translated as "suffering", its philosophical meaning is more analogous to "disquietude" as in the condition of being disturbed. As such, "suffering" is too narrow a translation with "negative emotional connotations"[38] that can give the impression that the Buddhist view is pessimistic, but Buddhism seeks to be neither pessimistic nor optimistic, but realistic. In English-language Buddhist literature translated from Pāli, "dukkha" is often left untranslated, so as to encompass its full range of meaning.[39][40][41]
+Suffering (Pali: ????? dukkha; Sanskrit ???? du?kha) is also a central concept in Buddhism. The word roughly corresponds to a number of terms in English including suffering, pain, unsatisfactoriness, sorrow, affliction, anxiety, dissatisfaction, discomfort, anguish, stress, misery, and frustration. Although the term is often translated as "suffering", its philosophical meaning is more analogous to "disquietude" as in the condition of being disturbed. As such, "suffering" is too narrow a translation with "negative emotional connotations"[38] that can give the impression that the Buddhist view is pessimistic, but Buddhism seeks to be neither pessimistic nor optimistic, but realistic. In English-language Buddhist literature translated from Pali, "dukkha" is often left untranslated, so as to encompass its full range of meaning.[39][40][41]
 
 
  
 
 
 Angkor Thom in Cambodia
-Not-self (Pāli: anatta; Sanskrit: anātman) is the third mark of existence. Upon careful examination, one finds that no phenomenon is really "I" or "mine"; these concepts are in fact constructed by the mind. In the Nikayas anatta is not meant as a metaphysical assertion, but as an approach for gaining release from suffering. In fact, the Buddha rejected both of the metaphysical assertions "I have a Self" and "I have no Self" as ontological views that bind one to suffering.[42] When asked if the self was identical with the body, the Buddha refused to answer. By analyzing the constantly changing physical and mental constituents (skandhas) of a person or object, the practitioner comes to the conclusion that neither the respective parts nor the person as a whole comprise a self.
+Not-self (Pali: anatta; Sanskrit: anatman) is the third mark of existence. Upon careful examination, one finds that no phenomenon is really "I" or "mine"; these concepts are in fact constructed by the mind. In the Nikayas anatta is not meant as a metaphysical assertion, but as an approach for gaining release from suffering. In fact, the Buddha rejected both of the metaphysical assertions "I have a Self" and "I have no Self" as ontological views that bind one to suffering.[42] When asked if the self was identical with the body, the Buddha refused to answer. By analyzing the constantly changing physical and mental constituents (skandhas) of a person or object, the practitioner comes to the conclusion that neither the respective parts nor the person as a whole comprise a self.
 
 Dependent arising
 
-Main article: Pratītyasamutpāda
+Main article: Pratityasamutpada
 
-The doctrine of pratītyasamutpāda, (Sanskrit; Pali: paticcasamuppāda; Tibetan: rten.cing.'brel.bar.'byung.ba; Chinese: 緣起) is an important part of Buddhist metaphysics. It states that phenomena arise together in a mutually interdependent web of cause and effect. It is variously rendered into English as "dependent origination", "conditioned genesis", "dependent co-arising", "interdependent arising", or "contingency".
+The doctrine of pratityasamutpada, (Sanskrit; Pali: paticcasamuppada; Tibetan: rten.cing.'brel.bar.'byung.ba; Chinese: ??) is an important part of Buddhist metaphysics. It states that phenomena arise together in a mutually interdependent web of cause and effect. It is variously rendered into English as "dependent origination", "conditioned genesis", "dependent co-arising", "interdependent arising", or "contingency".
 
-The best-known application of the concept of pratītyasamutpāda is the scheme of Twelve Nidānas (from Pāli "nidāna" meaning "cause, foundation, source or origin"), which explain the continuation of the cycle of suffering and rebirth (saṃsāra) in detail.[note 8]
+The best-known application of the concept of pratityasamutpada is the scheme of Twelve Nidanas (from Pali "nidana" meaning "cause, foundation, source or origin"), which explain the continuation of the cycle of suffering and rebirth (sa?sara) in detail.[note 8]
 
-Main article: Twelve Nidānas
+Main article: Twelve Nidanas
 
-The Twelve Nidānas describe a causal connection between the subsequent characteristics or conditions of cyclic existence, each one giving rise to the next:
-1.Avidyā: ignorance, specifically spiritual ignorance of the nature of reality;[43]
-2.Saṃskāras: literally formations, explained as referring to karma;
-3.Vijñāna: consciousness, specifically discriminative;[44]
-4.Nāmarūpa: literally name and form, referring to mind and body;[45]
-5.Ṣaḍāyatana: the six sense bases: eye, ear, nose, tongue, body and mind-organ;
-6.Sparśa: variously translated contact, impression, stimulation (by a sense object);
-7.Vedanā: usually translated feeling: this is the "hedonic tone", i.e. whether something is pleasant, unpleasant or neutral;
-8.Tṛṣṇā: literally thirst, but in Buddhism nearly always used to mean craving;
-9.Upādāna: clinging or grasping; the word also means fuel, which feeds the continuing cycle of rebirth;
+The Twelve Nidanas describe a causal connection between the subsequent characteristics or conditions of cyclic existence, each one giving rise to the next:
+1.Avidya: ignorance, specifically spiritual ignorance of the nature of reality;[43]
+2.Sa?skaras: literally formations, explained as referring to karma;
+3.Vij�ana: consciousness, specifically discriminative;[44]
+4.Namarupa: literally name and form, referring to mind and body;[45]
+5.?a?ayatana: the six sense bases: eye, ear, nose, tongue, body and mind-organ;
+6.Sparsa: variously translated contact, impression, stimulation (by a sense object);
+7.Vedana: usually translated feeling: this is the "hedonic tone", i.e. whether something is pleasant, unpleasant or neutral;
+8.T???a: literally thirst, but in Buddhism nearly always used to mean craving;
+9.Upadana: clinging or grasping; the word also means fuel, which feeds the continuing cycle of rebirth;
 10.Bhava: literally being (existence) or becoming. (The Theravada explains this as having two meanings: karma, which produces a new existence, and the existence itself.);[46]
-11.Jāti: literally birth, but life is understood as starting at conception;[47]
-12.Jarāmaraṇa: (old age and death) and also soka, parideva, dukkha, domanassa and upāyāsā (sorrow, lamentation, pain, affliction and despair).[48]
+11.Jati: literally birth, but life is understood as starting at conception;[47]
+12.Jaramara?a: (old age and death) and also soka, parideva, dukkha, domanassa and upayasa (sorrow, lamentation, pain, affliction and despair).[48]
 
-Sentient beings always suffer throughout saṃsāra, until they free themselves from this suffering (dukkha) by attaining Nirvana. Then the absence of the first Nidāna—ignorance—leads to the absence of the others.
+Sentient beings always suffer throughout sa?sara, until they free themselves from this suffering (dukkha) by attaining Nirvana. Then the absence of the first Nidana�ignorance�leads to the absence of the others.
 
 Emptiness
 
-Main article: Śūnyatā
+Main article: Sunyata
 
-Mahayana Buddhism received significant theoretical grounding from Nagarjuna (perhaps c. 150–250 CE), arguably the most influential scholar within the Mahayana tradition. Nagarjuna's primary contribution to Buddhist philosophy was the systematic exposition of the concept of śūnyatā, or "emptiness", widely attested in the Prajñāpāramitā sutras that emerged in his era. The concept of emptiness brings together other key Buddhist doctrines, particularly anatta and dependent origination, to refute the metaphysics of Sarvastivada and Sautrantika (extinct non-Mahayana schools). For Nagarjuna, it is not merely sentient beings that are empty of ātman; all phenomena (dharmas) are without any svabhava (literally "own-nature" or "self-nature"), and thus without any underlying essence; they are "empty" of being independent; thus the heterodox theories of svabhava circulating at the time were refuted on the basis of the doctrines of early Buddhism. Nagarjuna's school of thought is known as the Mādhyamaka. Some of the writings attributed to Nagarjuna made explicit references to Mahayana texts, but his philosophy was argued within the parameters set out by the agamas. He may have arrived at his positions from a desire to achieve a consistent exegesis of the Buddha's doctrine as recorded in the Canon. In the eyes of Nagarjuna the Buddha was not merely a forerunner, but the very founder of the Mādhyamaka system.[49]
+Mahayana Buddhism received significant theoretical grounding from Nagarjuna (perhaps c. 150�250 CE), arguably the most influential scholar within the Mahayana tradition. Nagarjuna's primary contribution to Buddhist philosophy was the systematic exposition of the concept of sunyata, or "emptiness", widely attested in the Praj�aparamita sutras that emerged in his era. The concept of emptiness brings together other key Buddhist doctrines, particularly anatta and dependent origination, to refute the metaphysics of Sarvastivada and Sautrantika (extinct non-Mahayana schools). For Nagarjuna, it is not merely sentient beings that are empty of atman; all phenomena (dharmas) are without any svabhava (literally "own-nature" or "self-nature"), and thus without any underlying essence; they are "empty" of being independent; thus the heterodox theories of svabhava circulating at the time were refuted on the basis of the doctrines of early Buddhism. Nagarjuna's school of thought is known as the Madhyamaka. Some of the writings attributed to Nagarjuna made explicit references to Mahayana texts, but his philosophy was argued within the parameters set out by the agamas. He may have arrived at his positions from a desire to achieve a consistent exegesis of the Buddha's doctrine as recorded in the Canon. In the eyes of Nagarjuna the Buddha was not merely a forerunner, but the very founder of the Madhyamaka system.[49]
 
-Sarvastivada teachings—which were criticized by Nāgārjuna—were reformulated by scholars such as Vasubandhu and Asanga and were adapted into the Yogacara (Sanskrit: yoga practice) school. While the Mādhyamaka school held that asserting the existence or non-existence of any ultimately real thing was inappropriate, some exponents of Yogacara asserted that the mind and only the mind is ultimately real (a doctrine known as cittamatra). Not all Yogacarins asserted that mind was truly existent; Vasubandhu and Asanga in particular did not.[50] These two schools of thought, in opposition or synthesis, form the basis of subsequent Mahayana metaphysics in the Indo-Tibetan tradition.
+Sarvastivada teachings�which were criticized by Nagarjuna�were reformulated by scholars such as Vasubandhu and Asanga and were adapted into the Yogacara (Sanskrit: yoga practice) school. While the Madhyamaka school held that asserting the existence or non-existence of any ultimately real thing was inappropriate, some exponents of Yogacara asserted that the mind and only the mind is ultimately real (a doctrine known as cittamatra). Not all Yogacarins asserted that mind was truly existent; Vasubandhu and Asanga in particular did not.[50] These two schools of thought, in opposition or synthesis, form the basis of subsequent Mahayana metaphysics in the Indo-Tibetan tradition.
 
-Besides emptiness, Mahayana schools often place emphasis on the notions of perfected spiritual insight (prajñāpāramitā) and Buddha-nature (tathāgatagarbha). There are conflicting interpretations of the tathāgatagarbha in Mahāyāna thought. The idea may be traced to Abhidharma, and ultimately to statements of the Buddha in the Nikāyas. In Tibetan Buddhism, according to the Sakya school, tathāgatagarbha is the inseparability of the clarity and emptiness of one's mind. In Nyingma, tathāgatagarbha also generally refers to inseparability of the clarity and emptiness of one's mind. According to the Gelug school, it is the potential for sentient beings to awaken since they are empty (i.e. dependently originated). According to the Jonang school, it refers to the innate qualities of the mind that expresses themselves as omniscience etc. when adventitious obscurations are removed. The "Tathāgatagarbha Sutras" are a collection of Mahayana sutras that present a unique model of Buddha-nature. Even though this collection was generally ignored in India,[51] East Asian Buddhism provides some significance to these texts.
+Besides emptiness, Mahayana schools often place emphasis on the notions of perfected spiritual insight (praj�aparamita) and Buddha-nature (tathagatagarbha). There are conflicting interpretations of the tathagatagarbha in Mahayana thought. The idea may be traced to Abhidharma, and ultimately to statements of the Buddha in the Nikayas. In Tibetan Buddhism, according to the Sakya school, tathagatagarbha is the inseparability of the clarity and emptiness of one's mind. In Nyingma, tathagatagarbha also generally refers to inseparability of the clarity and emptiness of one's mind. According to the Gelug school, it is the potential for sentient beings to awaken since they are empty (i.e. dependently originated). According to the Jonang school, it refers to the innate qualities of the mind that expresses themselves as omniscience etc. when adventitious obscurations are removed. The "Tathagatagarbha Sutras" are a collection of Mahayana sutras that present a unique model of Buddha-nature. Even though this collection was generally ignored in India,[51] East Asian Buddhism provides some significance to these texts.
 
 Liberation
 
@@ -446,14 +446,14 @@ Nirvana
 Mahabodhi temple in Bodhgaya, India, where Gautama Buddha attained Nirvana under the Bodhi Tree (left)
 Main article: Nirvana (Buddhism)
 
-Nirvana (Sanskrit; Pali: "Nibbana") means "cessation", "extinction" (of craving and ignorance and therefore suffering and the cycle of involuntary rebirths (saṃsāra)), "extinguished", "quieted", "calmed"; it is also known as "Awakening" or "Enlightenment" in the West. The term for anybody who has achieved nirvana, including the Buddha, is arahant.
+Nirvana (Sanskrit; Pali: "Nibbana") means "cessation", "extinction" (of craving and ignorance and therefore suffering and the cycle of involuntary rebirths (sa?sara)), "extinguished", "quieted", "calmed"; it is also known as "Awakening" or "Enlightenment" in the West. The term for anybody who has achieved nirvana, including the Buddha, is arahant.
 
-Bodhi (Pāli and Sanskrit, in devanagari: बॊधि) is a term applied to the experience of Awakening of arahants. Bodhi literally means "awakening", but it is more commonly translated into English as "enlightenment". In Early Buddhism, bodhi carried a meaning synonymous to nirvana, using only some different metaphors to describe the experience, which implies the extinction of raga (greed, craving),[52] dosa (hate, aversion)[53] and moha (delusion).[54] In the later school of Mahayana Buddhism, the status of nirvana was downgraded in some scriptures, coming to refer only to the extinction of greed and hate, implying that delusion was still present in one who attained nirvana, and that one needed to attain bodhi to eradicate delusion:
+Bodhi (Pali and Sanskrit, in devanagari: ????) is a term applied to the experience of Awakening of arahants. Bodhi literally means "awakening", but it is more commonly translated into English as "enlightenment". In Early Buddhism, bodhi carried a meaning synonymous to nirvana, using only some different metaphors to describe the experience, which implies the extinction of raga (greed, craving),[52] dosa (hate, aversion)[53] and moha (delusion).[54] In the later school of Mahayana Buddhism, the status of nirvana was downgraded in some scriptures, coming to refer only to the extinction of greed and hate, implying that delusion was still present in one who attained nirvana, and that one needed to attain bodhi to eradicate delusion:
 
 
 An important development in the Mahayana [was] that it came to separate nirvana from bodhi ('awakening' to the truth, Enlightenment), and to put a lower value on the former (Gombrich, 1992d). Originally nirvana and bodhi refer to the same thing; they merely use different metaphors for the experience. But the Mahayana tradition separated them and considered that nirvana referred only to the extinction of craving (passion and hatred), with the resultant escape from the cycle of rebirth. This interpretation ignores the third fire, delusion: the extinction of delusion is of course in the early texts identical with what can be positively expressed as gnosis, Enlightenment.
 
-—Richard F. Gombrich, How Buddhism Began[55]
+�Richard F. Gombrich, How Buddhism Began[55]
 
 Therefore, according to Mahayana Buddhism, the arahant has attained only nirvana, thus still being subject to delusion, while the bodhisattva not only achieves nirvana but full liberation from delusion as well. He thus attains bodhi and becomes a buddha. In Theravada Buddhism, bodhi and nirvana carry the same meaning as in the early texts, that of being freed from greed, hate and delusion.
 
@@ -465,7 +465,7 @@ Main article: Buddhahood
 
 According to Buddhist traditions a Buddha is a fully awakened being who has completely purified his mind of the three poisons of desire, aversion and ignorance. A Buddha is no longer bound by Samsara and has ended the suffering which unawakened people experience in life.
 
-Buddhists do not consider Siddhartha Gautama to have been the only Buddha. The Pali Canon refers to many previous ones (see List of the 28 Buddhas), while the Mahayana tradition additionally has many Buddhas of celestial, rather than historical, origin (see Amitabha or Vairocana as examples, for lists of many thousands Buddha names see Taishō Shinshū Daizōkyō numbers 439–448). A common Theravada and Mahayana Buddhist belief is that the next Buddha will be one named Maitreya (Pali: Metteyya).
+Buddhists do not consider Siddhartha Gautama to have been the only Buddha. The Pali Canon refers to many previous ones (see List of the 28 Buddhas), while the Mahayana tradition additionally has many Buddhas of celestial, rather than historical, origin (see Amitabha or Vairocana as examples, for lists of many thousands Buddha names see Taisho Shinshu Daizokyo numbers 439�448). A common Theravada and Mahayana Buddhist belief is that the next Buddha will be one named Maitreya (Pali: Metteyya).
 
 According to Theravada
 
@@ -490,14 +490,14 @@ According to Mahayana
  The Great Statue of Buddha Amitabha in Kamakura, Japan
 In the Mahayana, the Buddha tends not to be viewed as merely human, but as the earthly projection of a beginningless and endless, omnipresent being (see Dharmakaya) beyond the range and reach of thought. Moreover, in certain Mahayana sutras, the Buddha, Dharma and Sangha are viewed essentially as One: all three are seen as the eternal Buddha himself.
 
-The Buddha's death is seen as an illusion, he is living on in other planes of existence, and monks are therefore permitted to offer "new truths" based on his input. Mahayana also differs from Theravada in its concept of śūnyatā (that ultimately nothing has existence), and in its belief in bodhisattvas (enlightened people who vow to continue being reborn until all beings can be enlightened).[56]
+The Buddha's death is seen as an illusion, he is living on in other planes of existence, and monks are therefore permitted to offer "new truths" based on his input. Mahayana also differs from Theravada in its concept of sunyata (that ultimately nothing has existence), and in its belief in bodhisattvas (enlightened people who vow to continue being reborn until all beings can be enlightened).[56]
 
 Celestial Buddhas are individuals who no longer exist on the material plane of existence, but who still aid in the enlightenment of all beings.
 
-Nirvana came to refer only to the extinction of greed and hate,[dubious – discuss] implying that delusion was still present in one who attained Nirvana. Bodhi became a higher attainment that eradicates delusion entirely.[55] Thus, the Arahant attains Nirvana but not Bodhi, thus still being subject to delusion, while the Buddha attains Bodhi.[dubious – discuss]
+Nirvana came to refer only to the extinction of greed and hate,[dubious � discuss] implying that delusion was still present in one who attained Nirvana. Bodhi became a higher attainment that eradicates delusion entirely.[55] Thus, the Arahant attains Nirvana but not Bodhi, thus still being subject to delusion, while the Buddha attains Bodhi.[dubious � discuss]
 
 
- The method of self-exertion or "self-power"—without reliance on an external force or being—stands in contrast to another major form of Buddhism, Pure Land, which is characterised by utmost trust in the salvific "other-power" of Amitabha Buddha. Pure Land Buddhism is a very widespread and perhaps the most faith-orientated manifestation of Buddhism and centres upon the conviction that faith in Amitabha Buddha and the chanting of homage to his name liberates one at death into the Blissful (安樂), Pure Land (淨土) of Amitabha Buddha. This Buddhic realm is variously construed as a foretaste of Nirvana, or as essentially Nirvana itself. The great vow of Amitabha Buddha to rescue all beings from samsaric suffering is viewed within Pure Land Buddhism as universally efficacious, if only one has faith in the power of that vow or chants his name.
+ The method of self-exertion or "self-power"�without reliance on an external force or being�stands in contrast to another major form of Buddhism, Pure Land, which is characterised by utmost trust in the salvific "other-power" of Amitabha Buddha. Pure Land Buddhism is a very widespread and perhaps the most faith-orientated manifestation of Buddhism and centres upon the conviction that faith in Amitabha Buddha and the chanting of homage to his name liberates one at death into the Blissful (??), Pure Land (??) of Amitabha Buddha. This Buddhic realm is variously construed as a foretaste of Nirvana, or as essentially Nirvana itself. The great vow of Amitabha Buddha to rescue all beings from samsaric suffering is viewed within Pure Land Buddhism as universally efficacious, if only one has faith in the power of that vow or chants his name.
 
 Buddha eras
 
@@ -515,15 +515,15 @@ Main article: Bodhisattva
  
 
 
- A statue of Prajñāpāramitā personified, Java, Indonesia
+ A statue of Praj�aparamita personified, Java, Indonesia
 Bodhisattva means "enlightenment being", and generally refers to one who is on the path to buddhahood. Traditionally, a bodhisattva is anyone who, motivated by great compassion, has generated bodhicitta, which is a spontaneous wish to attain Buddhahood for the benefit of all sentient beings.[61] Theravada Buddhism primarily uses the term in relation to Gautama Buddha's previous existences, but has traditionally acknowledged and respected the bodhisattva path as well.[62]
 
-According to Jan Nattier, the term Mahāyāna ("Great Vehicle") was originally even an honorary synonym for Bodhisattvayāna, or the "Bodhisattva Vehicle."[63] The Aṣṭasāhasrikā Prajñāpāramitā Sūtra, an early and important Mahāyāna text, contains a simple and brief definition for the term bodhisattva, and this definition is the following:[64][65][66]
+According to Jan Nattier, the term Mahayana ("Great Vehicle") was originally even an honorary synonym for Bodhisattvayana, or the "Bodhisattva Vehicle."[63] The A??asahasrika Praj�aparamita Sutra, an early and important Mahayana text, contains a simple and brief definition for the term bodhisattva, and this definition is the following:[64][65][66]
 
 
-Because he has enlightenment as his aim, a bodhisattva-mahāsattva is so called.
+Because he has enlightenment as his aim, a bodhisattva-mahasattva is so called.
 
-Mahāyāna Buddhism encourages everyone to become bodhisattvas and to take the bodhisattva vows. With these vows, one makes the promise to work for the complete enlightenment of all beings by practicing six perfections (Skt. pāramitā).[67] According to the Mahāyāna teachings, these perfections are: giving, discipline, forbearance, effort, meditation, and transcendent wisdom.
+Mahayana Buddhism encourages everyone to become bodhisattvas and to take the bodhisattva vows. With these vows, one makes the promise to work for the complete enlightenment of all beings by practicing six perfections (Skt. paramita).[67] According to the Mahayana teachings, these perfections are: giving, discipline, forbearance, effort, meditation, and transcendent wisdom.
 
 A famous saying by the 8th-century Indian Buddhist scholar-saint Shantideva, which the Dalai Lama often cites as his favourite verse, summarizes the Bodhisattva's intention (Bodhicitta) as follows:
 
@@ -545,11 +545,11 @@ Yoga
 
 
  Statue of the Buddha in meditation position, Haw Phra Kaew, Vientiane, Laos
-Buddhism traditionally incorporates states of meditative absorption (Pali: jhāna; Skt: dhyāna).[69] The most ancient sustained expression of yogic ideas is found in the early sermons of the Buddha.[70] One key innovative teaching of the Buddha was that meditative absorption must be combined with liberating cognition.[71] The difference between the Buddha's teaching and the yoga presented in early Brahminic texts is striking. Meditative states alone are not an end, for according to the Buddha, even the highest meditative state is not liberating. Instead of attaining a complete cessation of thought, some sort of mental activity must take place: a liberating cognition, based on the practice of mindful awareness.[72]
+Buddhism traditionally incorporates states of meditative absorption (Pali: jhana; Skt: dhyana).[69] The most ancient sustained expression of yogic ideas is found in the early sermons of the Buddha.[70] One key innovative teaching of the Buddha was that meditative absorption must be combined with liberating cognition.[71] The difference between the Buddha's teaching and the yoga presented in early Brahminic texts is striking. Meditative states alone are not an end, for according to the Buddha, even the highest meditative state is not liberating. Instead of attaining a complete cessation of thought, some sort of mental activity must take place: a liberating cognition, based on the practice of mindful awareness.[72]
 
 Meditation was an aspect of the practice of the yogis in the centuries preceding the Buddha. The Buddha built upon the yogis' concern with introspection and developed their meditative techniques, but rejected their theories of liberation.[73] In Buddhism, mindfulness and clear awareness are to be developed at all times; in pre-Buddhist yogic practices there is no such injunction. A yogi in the Brahmanical tradition is not to practice while defecating, for example, while a Buddhist monastic should do so.[74]
 
-Religious knowledge or "vision" was indicated as a result of practice both within and outside of the Buddhist fold. According to the Samaññaphala Sutta, this sort of vision arose for the Buddhist adept as a result of the perfection of "meditation" coupled with the perfection of "discipline" (Pali sīla; Skt. śīla). Some of the Buddha's meditative techniques were shared with other traditions of his day, but the idea that ethics are causally related to the attainment of "transcendent wisdom" (Pali paññā; Skt. prajñā) was original.[75]
+Religious knowledge or "vision" was indicated as a result of practice both within and outside of the Buddhist fold. According to the Sama��aphala Sutta, this sort of vision arose for the Buddhist adept as a result of the perfection of "meditation" coupled with the perfection of "discipline" (Pali sila; Skt. sila). Some of the Buddha's meditative techniques were shared with other traditions of his day, but the idea that ethics are causally related to the attainment of "transcendent wisdom" (Pali pa��a; Skt. praj�a) was original.[75]
 
 The Buddhist texts are probably the earliest describing meditation techniques.[76] They describe meditative practices and states that existed before the Buddha as well as those first developed within Buddhism.[77] Two Upanishads written after the rise of Buddhism do contain full-fledged descriptions of yoga as a means to liberation.[78]
 
@@ -561,13 +561,13 @@ Refuge in the Three Jewels
  
 
 
- Relic depicting footprint of the Buddha with Dharmachakra and triratna, 1st century CE, Gandhāra.
+ Relic depicting footprint of the Buddha with Dharmachakra and triratna, 1st century CE, Gandhara.
 Main articles: Refuge (Buddhism) and Three Jewels
 
-Traditionally, the first step in most Buddhist schools requires taking refuge in the Three Jewels (Sanskrit: tri-ratna, Pāli: ti-ratana)[81] as the foundation of one's religious practice. The practice of taking refuge on behalf of young or even unborn children is mentioned[82] in the Majjhima Nikaya, recognized by most scholars as an early text (cf. Infant baptism). Tibetan Buddhism sometimes adds a fourth refuge, in the lama. In Mahayana, the person who chooses the bodhisattva path makes a vow or pledge, considered the ultimate expression of compassion. In Mahayana, too, the Three Jewels are perceived as possessed of an eternal and unchanging essence and as having an irreversible effect: "The Three Jewels have the quality of excellence. Just as real jewels never change their faculty and goodness, whether praised or reviled, so are the Three Jewels (Refuges), because they have an eternal and immutable essence. These Three Jewels bring a fruition that is changeless, for once one has reached Buddhahood, there is no possibility of falling back to suffering."[83]
+Traditionally, the first step in most Buddhist schools requires taking refuge in the Three Jewels (Sanskrit: tri-ratna, Pali: ti-ratana)[81] as the foundation of one's religious practice. The practice of taking refuge on behalf of young or even unborn children is mentioned[82] in the Majjhima Nikaya, recognized by most scholars as an early text (cf. Infant baptism). Tibetan Buddhism sometimes adds a fourth refuge, in the lama. In Mahayana, the person who chooses the bodhisattva path makes a vow or pledge, considered the ultimate expression of compassion. In Mahayana, too, the Three Jewels are perceived as possessed of an eternal and unchanging essence and as having an irreversible effect: "The Three Jewels have the quality of excellence. Just as real jewels never change their faculty and goodness, whether praised or reviled, so are the Three Jewels (Refuges), because they have an eternal and immutable essence. These Three Jewels bring a fruition that is changeless, for once one has reached Buddhahood, there is no possibility of falling back to suffering."[83]
 
 The Three Jewels are:
-##The Buddha. This is a title for those who have attained Nirvana. See also the Tathāgata and Gautama Buddha. The Buddha could also be represented as a concept instead of a specific person: the perfect wisdom that understands Dharma and sees reality in its true form. In Mahayana Buddhism, the Buddha can be viewed as the supreme Refuge: "Buddha is the Unique Absolute Refuge. Buddha is the Imperishable, Eternal, Indestructible and Absolute Refuge."[84]
+##The Buddha. This is a title for those who have attained Nirvana. See also the Tathagata and Gautama Buddha. The Buddha could also be represented as a concept instead of a specific person: the perfect wisdom that understands Dharma and sees reality in its true form. In Mahayana Buddhism, the Buddha can be viewed as the supreme Refuge: "Buddha is the Unique Absolute Refuge. Buddha is the Imperishable, Eternal, Indestructible and Absolute Refuge."[84]
 ##The Dharma. The teachings or law of nature as expounded by the Gautama Buddha. It can also, especially in Mahayana, connote the ultimate and sustaining Reality that is inseparable from the Buddha. Further, from some Mahayana perspectives, the Dharma embodied in the form of a great sutra (Buddhic scripture) can replace the need for a personal teacher and can be a direct and spontaneous gateway into Truth (Dharma). This is especially said to be the case with the Lotus Sutra. Dr. Hiroshi Kanno writes of this view of the Lotus Sutra: "it is a Dharma-gate of sudden enlightenment proper to the Great Vehicle; it is a Dharma-gate whereby one awakens spontaneously, without resorting to a teacher".[85]
 ##The Sangha. Those who have attained any of the Four stages of enlightenment, or simply the congregation of monastic practitioners. The monks' order, which began during the lifetime of the Buddha, is among the oldest organizations on Earth.
 
@@ -575,21 +575,21 @@ According to the scriptures, Gautama Buddha presented himself as a model. The Dh
 
 Buddhist ethics
 
-Main article: Śīla
+Main article: Sila
 
 
  
 
 
- Statue of Gautama Buddha, 1st century CE, Gandhara, present-day Pakistan. (Musée Guimet)
-Śīla (Sanskrit) or sīla (Pāli) is usually translated into English as "virtuous behavior", "morality", "ethics" or "precept". It is an action committed through the body, speech, or mind, and involves an intentional effort. It is one of the three practices (sila, samadhi, and panya) and the second pāramitā. It refers to moral purity of thought, word, and deed. The four conditions of śīla are chastity, calmness, quiet, and extinguishment.
+ Statue of Gautama Buddha, 1st century CE, Gandhara, present-day Pakistan. (Mus�e Guimet)
+Sila (Sanskrit) or sila (Pali) is usually translated into English as "virtuous behavior", "morality", "ethics" or "precept". It is an action committed through the body, speech, or mind, and involves an intentional effort. It is one of the three practices (sila, samadhi, and panya) and the second paramita. It refers to moral purity of thought, word, and deed. The four conditions of sila are chastity, calmness, quiet, and extinguishment.
 
-Śīla is the foundation of Samadhi/Bhāvana (Meditative cultivation) or mind cultivation. Keeping the precepts promotes not only the peace of mind of the cultivator, which is internal, but also peace in the community, which is external. According to the Law of Karma, keeping the precepts are meritorious and it acts as causes that would bring about peaceful and happy effects. Keeping these precepts keeps the cultivator from rebirth in the four woeful realms of existence.
+Sila is the foundation of Samadhi/Bhavana (Meditative cultivation) or mind cultivation. Keeping the precepts promotes not only the peace of mind of the cultivator, which is internal, but also peace in the community, which is external. According to the Law of Karma, keeping the precepts are meritorious and it acts as causes that would bring about peaceful and happy effects. Keeping these precepts keeps the cultivator from rebirth in the four woeful realms of existence.
 
-Śīla refers to overall principles of ethical behavior. There are several levels of sila, which correspond to "basic morality" (five precepts), "basic morality with asceticism" (eight precepts), "novice monkhood" (ten precepts) and "monkhood" (Vinaya or Patimokkha). Lay people generally undertake to live by the five precepts, which are common to all Buddhist schools. If they wish, they can choose to undertake the eight precepts, which add basic asceticism.
+Sila refers to overall principles of ethical behavior. There are several levels of sila, which correspond to "basic morality" (five precepts), "basic morality with asceticism" (eight precepts), "novice monkhood" (ten precepts) and "monkhood" (Vinaya or Patimokkha). Lay people generally undertake to live by the five precepts, which are common to all Buddhist schools. If they wish, they can choose to undertake the eight precepts, which add basic asceticism.
 
 The five precepts are training rules in order to live a better life in which one is happy, without worries, and can meditate well:
-1.To refrain from taking life (non-violence towards sentient life forms), or ahimsā;
+1.To refrain from taking life (non-violence towards sentient life forms), or ahimsa;
 2.To refrain from taking that which is not given (not committing theft);
 3.To refrain from sensual (including sexual) misconduct;
 4.To refrain from lying (speaking truth always);
@@ -623,43 +623,43 @@ Meditation
 Buddhist monks praying in Thailand
 Main article: Buddhist meditation
 
-Buddhist meditation is fundamentally concerned with two themes: transforming the mind and using it to explore itself and other phenomena.[90] According to Theravada Buddhism the Buddha taught two types of meditation, samatha meditation (Sanskrit: śamatha) and vipassanā meditation (Sanskrit: vipaśyanā). In Chinese Buddhism, these exist (translated chih kuan), but Chán (Zen) meditation is more popular.[91] According to Peter Harvey, whenever Buddhism has been healthy, not only monks, nuns, and married lamas, but also more committed lay people have practiced meditation.[92] According to Routledge's Encyclopedia of Buddhism, in contrast, throughout most of Buddhist history before modern times, serious meditation by lay people has been unusual.[93] The evidence of the early texts suggests that at the time of the Buddha, many male and female lay practitioners did practice meditation, some even to the point of proficiency in all eight jhānas (see the next section regarding these).[note 9]
+Buddhist meditation is fundamentally concerned with two themes: transforming the mind and using it to explore itself and other phenomena.[90] According to Theravada Buddhism the Buddha taught two types of meditation, samatha meditation (Sanskrit: samatha) and vipassana meditation (Sanskrit: vipasyana). In Chinese Buddhism, these exist (translated chih kuan), but Ch�n (Zen) meditation is more popular.[91] According to Peter Harvey, whenever Buddhism has been healthy, not only monks, nuns, and married lamas, but also more committed lay people have practiced meditation.[92] According to Routledge's Encyclopedia of Buddhism, in contrast, throughout most of Buddhist history before modern times, serious meditation by lay people has been unusual.[93] The evidence of the early texts suggests that at the time of the Buddha, many male and female lay practitioners did practice meditation, some even to the point of proficiency in all eight jhanas (see the next section regarding these).[note 9]
 
-Samādhi (meditative cultivation): samatha meditation
+Samadhi (meditative cultivation): samatha meditation
 
-Main articles: Samādhi (Buddhism) and Dhyāna in Buddhism
+Main articles: Samadhi (Buddhism) and Dhyana in Buddhism
 
 
  
 
 
 Samadhi Buddha statue in Anuradhapura, Sri Lanka
-In the language of the Noble Eightfold Path, samyaksamādhi is "right concentration". The primary means of cultivating samādhi is meditation. Upon development of samādhi, one's mind becomes purified of defilement, calm, tranquil, and luminous.
+In the language of the Noble Eightfold Path, samyaksamadhi is "right concentration". The primary means of cultivating samadhi is meditation. Upon development of samadhi, one's mind becomes purified of defilement, calm, tranquil, and luminous.
 
-Once the meditator achieves a strong and powerful concentration (jhāna, Sanskrit ध्यान dhyāna), his mind is ready to penetrate and gain insight (vipassanā) into the ultimate nature of reality, eventually obtaining release from all suffering. The cultivation of mindfulness is essential to mental concentration, which is needed to achieve insight.
+Once the meditator achieves a strong and powerful concentration (jhana, Sanskrit ????? dhyana), his mind is ready to penetrate and gain insight (vipassana) into the ultimate nature of reality, eventually obtaining release from all suffering. The cultivation of mindfulness is essential to mental concentration, which is needed to achieve insight.
 
-Samatha meditation starts from being mindful of an object or idea, which is expanded to one's body, mind and entire surroundings, leading to a state of total concentration and tranquility (jhāna) There are many variations in the style of meditation, from sitting cross-legged or kneeling to chanting or walking. The most common method of meditation is to concentrate on one's breath (anapanasati), because this practice can lead to both samatha and vipassana'.
+Samatha meditation starts from being mindful of an object or idea, which is expanded to one's body, mind and entire surroundings, leading to a state of total concentration and tranquility (jhana) There are many variations in the style of meditation, from sitting cross-legged or kneeling to chanting or walking. The most common method of meditation is to concentrate on one's breath (anapanasati), because this practice can lead to both samatha and vipassana'.
 
-In Buddhist practice, it is said that while samatha meditation can calm the mind, only vipassanā meditation can reveal how the mind was disturbed to start with, which is what leads to insight knowledge (jñāna; Pāli ñāṇa) and understanding (prajñā Pāli paññā), and thus can lead to nirvāṇa (Pāli nibbāna). When one is in jhana, all defilements are suppressed temporarily. Only understanding (prajñā or vipassana) eradicates the defilements completely. Jhanas are also states that Arahants abide in order to rest.
+In Buddhist practice, it is said that while samatha meditation can calm the mind, only vipassana meditation can reveal how the mind was disturbed to start with, which is what leads to insight knowledge (j�ana; Pali �a?a) and understanding (praj�a Pali pa��a), and thus can lead to nirva?a (Pali nibbana). When one is in jhana, all defilements are suppressed temporarily. Only understanding (praj�a or vipassana) eradicates the defilements completely. Jhanas are also states that Arahants abide in order to rest.
 
-In Theravāda
+In Theravada
 
-Main article: Jhāna in Theravada
+Main article: Jhana in Theravada
 
 
  
 
 
  A young monk in Sri Lanka
-In Theravāda Buddhism, the cause of human existence and suffering is identified as craving, which carries with it the various defilements. These various defilements are traditionally summed up as greed, hatred and delusion. These are believed deeply rooted afflictions of the mind that create suffering and stress. To be free from suffering and stress, these defilements must be permanently uprooted through internal investigation, analyzing, experiencing, and understanding of the true nature of those defilements by using jhāna, a technique of the Noble Eightfold Path. It then leads the meditator to realize the Four Noble Truths, Enlightenment and Nibbana. Nibbana is the ultimate goal of Theravadins.
+In Theravada Buddhism, the cause of human existence and suffering is identified as craving, which carries with it the various defilements. These various defilements are traditionally summed up as greed, hatred and delusion. These are believed deeply rooted afflictions of the mind that create suffering and stress. To be free from suffering and stress, these defilements must be permanently uprooted through internal investigation, analyzing, experiencing, and understanding of the true nature of those defilements by using jhana, a technique of the Noble Eightfold Path. It then leads the meditator to realize the Four Noble Truths, Enlightenment and Nibbana. Nibbana is the ultimate goal of Theravadins.
 
-Prajñā (Wisdom): vipassana meditation
+Praj�a (Wisdom): vipassana meditation
 
-Main articles: Prajñā and Vipassana
+Main articles: Praj�a and Vipassana
 
-Prajñā (Sanskrit) or paññā (Pāli) means wisdom that is based on a realization of dependent origination, The Four Noble Truths and the three marks of existence. Prajñā is the wisdom that is able to extinguish afflictions and bring about bodhi. It is spoken of as the principal means of attaining nirvāṇa, through its revelation of the true nature of all things as dukkha (unsatisfactoriness), anicca (impermanence) and anatta (not-self). Prajñā is also listed as the sixth of the six pāramitās of the Mahayana.
+Praj�a (Sanskrit) or pa��a (Pali) means wisdom that is based on a realization of dependent origination, The Four Noble Truths and the three marks of existence. Praj�a is the wisdom that is able to extinguish afflictions and bring about bodhi. It is spoken of as the principal means of attaining nirva?a, through its revelation of the true nature of all things as dukkha (unsatisfactoriness), anicca (impermanence) and anatta (not-self). Praj�a is also listed as the sixth of the six paramitas of the Mahayana.
 
-Initially, prajñā is attained at a conceptual level by means of listening to sermons (dharma talks), reading, studying, and sometimes reciting Buddhist texts and engaging in discourse. Once the conceptual understanding is attained, it is applied to daily life so that each Buddhist can verify the truth of the Buddha's teaching at a practical level. Notably, one could in theory attain Nirvana at any point of practice, whether deep in meditation, listening to a sermon, conducting the business of one's daily life, or any other activity.
+Initially, praj�a is attained at a conceptual level by means of listening to sermons (dharma talks), reading, studying, and sometimes reciting Buddhist texts and engaging in discourse. Once the conceptual understanding is attained, it is applied to daily life so that each Buddhist can verify the truth of the Buddha's teaching at a practical level. Notably, one could in theory attain Nirvana at any point of practice, whether deep in meditation, listening to a sermon, conducting the business of one's daily life, or any other activity.
 
 Zen
 
@@ -670,15 +670,15 @@ Main article: Zen
 
 
 Ginkaku-ji, a Zen temple in Kyoto, Japan
-Zen Buddhism (禅), pronounced Chán in Chinese, seon in Korean or zen in Japanese (derived from the Sanskrit term dhyāna, meaning "meditation") is a form of Buddhism that became popular in China, Korea and Japan and that lays special emphasis on meditation.[note 10] Zen places less emphasis on scriptures than some other forms of Buddhism and prefers to focus on direct spiritual breakthroughs to truth.
+Zen Buddhism (?), pronounced Ch�n in Chinese, seon in Korean or zen in Japanese (derived from the Sanskrit term dhyana, meaning "meditation") is a form of Buddhism that became popular in China, Korea and Japan and that lays special emphasis on meditation.[note 10] Zen places less emphasis on scriptures than some other forms of Buddhism and prefers to focus on direct spiritual breakthroughs to truth.
 
-Zen Buddhism is divided into two main schools: Rinzai (臨済宗) and Sōtō (曹洞宗), the former greatly favouring the use in meditation on the koan (公案, a meditative riddle or puzzle) as a device for spiritual break-through, and the latter (while certainly employing koans) focusing more on shikantaza or "just sitting".[96]
+Zen Buddhism is divided into two main schools: Rinzai (???) and Soto (???), the former greatly favouring the use in meditation on the koan (??, a meditative riddle or puzzle) as a device for spiritual break-through, and the latter (while certainly employing koans) focusing more on shikantaza or "just sitting".[96]
 
 Zen Buddhist teaching is often full of paradox, in order to loosen the grip of the ego and to facilitate the penetration into the realm of the True Self or Formless Self, which is equated with the Buddha himself.[97] According to Zen master Kosho Uchiyama, when thoughts and fixation on the little "I" are transcended, an Awakening to a universal, non-dual Self occurs: "When we let go of thoughts and wake up to the reality of life that is working beyond them, we discover the Self that is living universal non-dual life (before the separation into two) that pervades all living creatures and all existence."[98] Thinking and thought must therefore not be allowed to confine and bind one.[99]
 
 Vajrayana and Tantra
 
-Though based upon Mahayana, Tibeto-Mongolian Buddhism is one of the schools that practice Vajrayana or "Diamond Vehicle" (also referred to as Mantrayāna, Tantrayāna, Tantric Buddhism, or esoteric Buddhism). It accepts all the basic concepts of Mahāyāna, but also includes a vast array of spiritual and physical techniques designed to enhance Buddhist practice. Tantric Buddhism is largely concerned with ritual and meditative practices.[100] One component of the Vajrayāna is harnessing psycho-physical energy through ritual, visualization, physical exercises, and meditation as a means of developing the mind. Using these techniques, it is claimed that a practitioner can achieve Buddhahood in one lifetime, or even as little as three years. In the Tibetan tradition, these practices can include sexual yoga, though only for some very advanced practitioners.[101]
+Though based upon Mahayana, Tibeto-Mongolian Buddhism is one of the schools that practice Vajrayana or "Diamond Vehicle" (also referred to as Mantrayana, Tantrayana, Tantric Buddhism, or esoteric Buddhism). It accepts all the basic concepts of Mahayana, but also includes a vast array of spiritual and physical techniques designed to enhance Buddhist practice. Tantric Buddhism is largely concerned with ritual and meditative practices.[100] One component of the Vajrayana is harnessing psycho-physical energy through ritual, visualization, physical exercises, and meditation as a means of developing the mind. Using these techniques, it is claimed that a practitioner can achieve Buddhahood in one lifetime, or even as little as three years. In the Tibetan tradition, these practices can include sexual yoga, though only for some very advanced practitioners.[101]
 
 History
 
@@ -707,7 +707,7 @@ This view is supported by a study of the region where these notions originated. 
  Rock-cut Lord Buddha statue at Bojjanakonda near Anakapalle in the Visakhapatnam district of Andhra Pradesh, India
 At the same time, these movements were influenced by, and in some respects continued, philosophical thought within the Vedic tradition as reflected e.g. in the Upanishads.[117] These movements included, besides Buddhism, various skeptics (such as Sanjaya Belatthiputta), atomists (such as Pakudha Kaccayana), materialists (such as Ajita Kesakambali), antinomians (such as Purana Kassapa); the most important ones in the 5th century BCE were the Ajivikas, who emphasized the rule of fate, the Lokayata (materialists), the Ajnanas (agnostics) and the Jains, who stressed that the soul must be freed from matter.[118]
 
-Many of these new movements shared the same conceptual vocabulary—atman ("Self"), buddha ("awakened one"), dhamma ("rule" or "law"), karma ("action"), nirvana ("extinguishing"), samsara ("eternal recurrence") and yoga ("spiritual practice").[103] The shramanas rejected the Veda, and the authority of the brahmans, who claimed they possessed revealed truths not knowable by any ordinary human means. Moreover, they declared that the entire Brahmanical system was fraudulent: a conspiracy of the brahmans to enrich themselves by charging exorbitant fees to perform bogus rites and give useless advice.[119]
+Many of these new movements shared the same conceptual vocabulary�atman ("Self"), buddha ("awakened one"), dhamma ("rule" or "law"), karma ("action"), nirvana ("extinguishing"), samsara ("eternal recurrence") and yoga ("spiritual practice").[103] The shramanas rejected the Veda, and the authority of the brahmans, who claimed they possessed revealed truths not knowable by any ordinary human means. Moreover, they declared that the entire Brahmanical system was fraudulent: a conspiracy of the brahmans to enrich themselves by charging exorbitant fees to perform bogus rites and give useless advice.[119]
 
 A particular criticism of the Buddha was Vedic animal sacrifice.[75] The Buddha declared that priests reciting the Vedas were like the blind leading the blind.[120] According to him, those priests who had memorized the Vedas really knew nothing.[121] He also mocked the Vedic "hymn of the cosmic man".[122] However, the Buddha was not anti-Vedic, and declared that the Veda in its true form was declared by "Kashyapa" to certain rishis, who by severe penances had acquired the power to see by divine eyes.[123] He names the Vedic rishis, and declared that the original Veda of the rishis[124][125] was altered by a few Brahmins who introduced animal sacrifices. The Buddha says that it was on this alteration of the true Veda that he refused to pay respect to the Vedas of his time.[126] He declared that the primary goal of Upanishadic thought, the Atman, was in fact non-existent,[127] and, having explained that Brahminical attempts to achieve liberation at death were futile, proposed his new idea of liberation in life.[128][129] However, he did not denounce the union with Brahman,[130] or the idea of the self uniting with the Self.[131] At the same time, the traditional Brahminical religion itself gradually underwent profound changes, transforming it into what is recognized as early Hinduism.[103][104][132] In particular, the brahmans thus developed "philosophical systems of their own, meeting the new ideas with adaptations of their doctrines".[133]
 
@@ -730,11 +730,11 @@ Core teachings
 
 Bruce Matthews notes that there is no cohesive presentation of karma in the Sutta Pitaka,[151] which may mean that the doctrine was incidental to the main perspective of early Buddhist soteriology.[151] Schmithausen is a notable scholar who has questioned whether karma already played a role in the theory of rebirth of earliest Buddhism.[152][153][note 22] According to Vetter, the Buddha at first sought "the deathless" (amata/amrta), which is concerned with the here and now. According to Vetter, only after this realization did he become acquanted with the doctirne of rebirth.[155] Bronkhorst disagrees, and concludes that the Buddha "introduced a concept of karma that differed considerably from the commonly held views of his time."[156] According to Bronkhorst, not physical and mental activities as such were seen as responsible for rebirth, but intentions and desire.[157]
 
-According to Tilmann Vetter, the core of earliest Buddhism is the practice of dhyāna.[137] Bronkhorst agrees that dhyana was a Buddhist invention,[136] whereas Norman notes that "the Buddha's way to release [...] was by means of meditative practices."[158] Discriminating insight into transiency as a separate path to liberation was a later development.[159][160]
+According to Tilmann Vetter, the core of earliest Buddhism is the practice of dhyana.[137] Bronkhorst agrees that dhyana was a Buddhist invention,[136] whereas Norman notes that "the Buddha's way to release [...] was by means of meditative practices."[158] Discriminating insight into transiency as a separate path to liberation was a later development.[159][160]
 
-According to the Mahāsaccakasutta,[note 23] from the fourth jhana the Buddha gained bodhi. Yet, it is not clear what he was awakened to.[158][136] "Liberating insight" is a later addition to this text, and reflects a later development and understanding in early Buddhism.[140][136] The mentioning of the four truths as constituting "liberating insight" introduces a logical problem, since the four truths depict a linear path of practice, the knowledge of which is in itself not depicted as being liberating.[161][note 24]
+According to the Mahasaccakasutta,[note 23] from the fourth jhana the Buddha gained bodhi. Yet, it is not clear what he was awakened to.[158][136] "Liberating insight" is a later addition to this text, and reflects a later development and understanding in early Buddhism.[140][136] The mentioning of the four truths as constituting "liberating insight" introduces a logical problem, since the four truths depict a linear path of practice, the knowledge of which is in itself not depicted as being liberating.[161][note 24]
 
-Although "Nibbāna" (Sanskrit: Nirvāna) is the common term for the desired goal of this practice, many other terms can be found throughout the Nikayas, which are not specified.[162][note 25]
+Although "Nibbana" (Sanskrit: Nirvana) is the common term for the desired goal of this practice, many other terms can be found throughout the Nikayas, which are not specified.[162][note 25]
 
 According to Vetter, the description of the Buddhist path may initially have been as simple as the term "the middle way".[137] In time, this short description was elaborated, resulting in the description of the eightfold path.[137]
 
@@ -760,40 +760,40 @@ Early Buddhist schools
 
 Main articles: Early Buddhist schools, Buddhist councils and Theravada
 
-According to the scriptures, soon after the parinirvāṇa (from Sanskrit: "highest extinguishment") of Gautama Buddha, the first Buddhist council was held. As with any ancient Indian tradition, transmission of teaching was done orally. The primary purpose of the assembly was to collectively recite the teachings to ensure that no errors occurred in oral transmission. In the first council, Ānanda, a cousin of the Buddha and his personal attendant, was called upon to recite the discourses (sūtras, Pāli suttas) of the Buddha, and, according to some sources, the abhidhamma. Upāli, another disciple, recited the monastic rules (vinaya). Scholars regard the traditional accounts of the council as greatly exaggerated if not entirely fictitious.[173]
+According to the scriptures, soon after the parinirva?a (from Sanskrit: "highest extinguishment") of Gautama Buddha, the first Buddhist council was held. As with any ancient Indian tradition, transmission of teaching was done orally. The primary purpose of the assembly was to collectively recite the teachings to ensure that no errors occurred in oral transmission. In the first council, Ananda, a cousin of the Buddha and his personal attendant, was called upon to recite the discourses (sutras, Pali suttas) of the Buddha, and, according to some sources, the abhidhamma. Upali, another disciple, recited the monastic rules (vinaya). Scholars regard the traditional accounts of the council as greatly exaggerated if not entirely fictitious.[173]
 
-According to most scholars, at some period after the Second Council the Sangha began to break into separate factions.[174] The various accounts differ as to when the actual schisms occurred. According to the Dipavamsa of the Pāli tradition, they started immediately after the Second Council, the Puggalavada tradition places it in 137 AN, the Sarvastivada tradition of Vasumitra says it was in the time of Ashoka and the Mahasanghika tradition places it much later, nearly 100 BCE.
+According to most scholars, at some period after the Second Council the Sangha began to break into separate factions.[174] The various accounts differ as to when the actual schisms occurred. According to the Dipavamsa of the Pali tradition, they started immediately after the Second Council, the Puggalavada tradition places it in 137 AN, the Sarvastivada tradition of Vasumitra says it was in the time of Ashoka and the Mahasanghika tradition places it much later, nearly 100 BCE.
 
-The root schism was between the Sthaviras and the Mahāsāṅghikas. The fortunate survival of accounts from both sides of the dispute reveals disparate traditions. The Sthavira group offers two quite distinct reasons for the schism. The Dipavamsa of the Theravāda says that the losing party in the Second Council dispute broke away in protest and formed the Mahasanghika. This contradicts the Mahasanghikas' own vinaya, which shows them as on the same, winning side. The Mahāsāṅghikas argued that the Sthaviras were trying to expand the vinaya and may also have challenged what they perceived were excessive claims or inhumanly high criteria for arhatship. Both parties, therefore, appealed to tradition.[175]
+The root schism was between the Sthaviras and the Mahasa?ghikas. The fortunate survival of accounts from both sides of the dispute reveals disparate traditions. The Sthavira group offers two quite distinct reasons for the schism. The Dipavamsa of the Theravada says that the losing party in the Second Council dispute broke away in protest and formed the Mahasanghika. This contradicts the Mahasanghikas' own vinaya, which shows them as on the same, winning side. The Mahasa?ghikas argued that the Sthaviras were trying to expand the vinaya and may also have challenged what they perceived were excessive claims or inhumanly high criteria for arhatship. Both parties, therefore, appealed to tradition.[175]
 
-The Sthaviras gave rise to several schools, one of which was the Theravāda school. Originally, these schisms were caused by disputes over vinaya, and monks following different schools of thought seem to have lived happily together in the same monasteries, but eventually, by about 100 CE if not earlier, schisms were being caused by doctrinal disagreements too.[176]
+The Sthaviras gave rise to several schools, one of which was the Theravada school. Originally, these schisms were caused by disputes over vinaya, and monks following different schools of thought seem to have lived happily together in the same monasteries, but eventually, by about 100 CE if not earlier, schisms were being caused by doctrinal disagreements too.[176]
 
-Following (or leading up to) the schisms, each Saṅgha started to accumulate an Abhidharma, a detailed scholastic reworking of doctrinal material appearing in the Suttas, according to schematic classifications. These Abhidharma texts do not contain systematic philosophical treatises, but summaries or numerical lists. Scholars generally date these texts to around the 3rd century BCE, 100 to 200 years after the death of the Buddha. Therefore the seven Abhidharma works are generally claimed not to represent the words of the Buddha himself, but those of disciples and great scholars.[177] Every school had its own version of the Abhidharma, with different theories and different texts. The different Abhidharmas of the various schools did not agree with each other. Scholars disagree on whether the Mahasanghika school had an Abhidhamma Pitaka or not.[177][178]
+Following (or leading up to) the schisms, each Sa?gha started to accumulate an Abhidharma, a detailed scholastic reworking of doctrinal material appearing in the Suttas, according to schematic classifications. These Abhidharma texts do not contain systematic philosophical treatises, but summaries or numerical lists. Scholars generally date these texts to around the 3rd century BCE, 100 to 200 years after the death of the Buddha. Therefore the seven Abhidharma works are generally claimed not to represent the words of the Buddha himself, but those of disciples and great scholars.[177] Every school had its own version of the Abhidharma, with different theories and different texts. The different Abhidharmas of the various schools did not agree with each other. Scholars disagree on whether the Mahasanghika school had an Abhidhamma Pitaka or not.[177][178]
 
 Early Mahayana Buddhism
 
-Main article: Mahāyāna
+Main article: Mahayana
 
 
  
 
 
- A Buddhist triad depicting, left to right, a Kushan, the future buddha Maitreya, Gautama Buddha, the bodhisattva Avalokiteśvara, and a Buddhist monk. 2nd—3rd century. Musée Guimet
-The origins of Mahāyāna, which formed between 100 BCE and 100 AD,[179] are still not completely understood.[180] The earliest views of Mahāyāna Buddhism in the West assumed that it existed as a separate school in competition with the so-called "Hīnayāna" schools. The split was on the order of the European Protestant Reformation, which divided Christians into Catholic and Protestant.[179] Due to the veneration of buddhas and bodhisattvas, Mahāyāna was often interpreted as a more devotional, lay-inspired form of Buddhism, with supposed origins in stūpa veneration.[181] The old views of Mahāyāna as a lay-inspired sect are now largely considered misguided and wrong.[182]
+ A Buddhist triad depicting, left to right, a Kushan, the future buddha Maitreya, Gautama Buddha, the bodhisattva Avalokitesvara, and a Buddhist monk. 2nd�3rd century. Mus�e Guimet
+The origins of Mahayana, which formed between 100 BCE and 100 AD,[179] are still not completely understood.[180] The earliest views of Mahayana Buddhism in the West assumed that it existed as a separate school in competition with the so-called "Hinayana" schools. The split was on the order of the European Protestant Reformation, which divided Christians into Catholic and Protestant.[179] Due to the veneration of buddhas and bodhisattvas, Mahayana was often interpreted as a more devotional, lay-inspired form of Buddhism, with supposed origins in stupa veneration.[181] The old views of Mahayana as a lay-inspired sect are now largely considered misguided and wrong.[182]
 
-There is no evidence that Mahāyāna ever referred to a separate formal school or sect of Buddhism, but rather that it existed as a certain set of ideals, and later doctrines, for bodhisattvas.[183] Initially it was known as Bodhisattvayāna (the "Vehicle of the Bodhisattvas").[179] Paul Williams has also noted that the Mahāyāna never had nor ever attempted to have a separate Vinaya or ordination lineage from the early schools of Buddhism, and therefore each bhikṣu or bhikṣuṇī adhering to the Mahāyāna formally belonged to an early school. This continues today with the Dharmaguptaka ordination lineage in East Asia, and the Mūlasarvāstivāda ordination lineage in Tibetan Buddhism. Therefore Mahāyāna was never a separate rival sect of the early schools.[184] From Chinese monks visiting India, we now know that both Mahāyāna and non-Mahāyāna monks in India often lived in the same monasteries side by side.[185]
+There is no evidence that Mahayana ever referred to a separate formal school or sect of Buddhism, but rather that it existed as a certain set of ideals, and later doctrines, for bodhisattvas.[183] Initially it was known as Bodhisattvayana (the "Vehicle of the Bodhisattvas").[179] Paul Williams has also noted that the Mahayana never had nor ever attempted to have a separate Vinaya or ordination lineage from the early schools of Buddhism, and therefore each bhik?u or bhik?u?i adhering to the Mahayana formally belonged to an early school. This continues today with the Dharmaguptaka ordination lineage in East Asia, and the Mulasarvastivada ordination lineage in Tibetan Buddhism. Therefore Mahayana was never a separate rival sect of the early schools.[184] From Chinese monks visiting India, we now know that both Mahayana and non-Mahayana monks in India often lived in the same monasteries side by side.[185]
 
 
 Large empty outline of a person in a rock cliff 
 
 
 Buddhas of Bamiyan: Vairocana before and after destruction by the Taliban in 2001
-The Chinese monk Yijing who visited India in the 7th century CE, distinguishes Mahāyāna from Hīnayāna as follows:[186]
+The Chinese monk Yijing who visited India in the 7th century CE, distinguishes Mahayana from Hinayana as follows:[186]
 
 
-Both adopt one and the same Vinaya, and they have in common the prohibitions of the five offences, and also the practice of the Four Noble Truths. Those who venerate the bodhisattvas and read the Mahāyāna sūtras are called the Mahāyānists, while those who do not perform these are called the Hīnayānists.
+Both adopt one and the same Vinaya, and they have in common the prohibitions of the five offences, and also the practice of the Four Noble Truths. Those who venerate the bodhisattvas and read the Mahayana sutras are called the Mahayanists, while those who do not perform these are called the Hinayanists.
 
-Much of the early extant evidence for the origins of Mahāyāna comes from early Chinese translations of Mahāyāna texts. These Mahāyāna teachings were first propagated into China by Lokakṣema, the first translator of Mahāyāna sūtras into Chinese during the 2nd century CE.[187] Some scholars have traditionally considered the earliest Mahāyāna sūtras to include the very first versions of the Prajñāpāramitā series, along with texts concerning Akṣobhya Buddha, which were probably composed in the 1st century BCE in the south of India.[188][189][190]
+Much of the early extant evidence for the origins of Mahayana comes from early Chinese translations of Mahayana texts. These Mahayana teachings were first propagated into China by Lokak?ema, the first translator of Mahayana sutras into Chinese during the 2nd century CE.[187] Some scholars have traditionally considered the earliest Mahayana sutras to include the very first versions of the Praj�aparamita series, along with texts concerning Ak?obhya Buddha, which were probably composed in the 1st century BCE in the south of India.[188][189][190]
 
 Late Mahayana Buddhism
 
@@ -816,17 +816,17 @@ Main article: Timeline of Buddhism
  
 
 
- Buddhist proselytism at the time of emperor Ashoka (260–218 BCE).
+ Buddhist proselytism at the time of emperor Ashoka (260�218 BCE).
 
  
 
 
  Coin depicting Indo-Greek king Menander, who, according to Buddhist tradition records in the Milinda Panha, converted to the Buddhist faith and became an arhat in the 2nd century BCE . (British Museum)
-Buddhism may have spread only slowly in India until the time of the Mauryan emperor Ashoka, who was a public supporter of the religion. The support of Aśoka and his descendants led to the construction of more stūpas (Buddhist religious memorials) and to efforts to spread Buddhism throughout the enlarged Maurya empire and even into neighboring lands—particularly to the Iranian-speaking regions of Afghanistan and Central Asia, beyond the Mauryas' northwest border, and to the island of Sri Lanka south of India. These two missions, in opposite directions, would ultimately lead, in the first case to the spread of Buddhism into China, and in the second case, to the emergence of Theravāda Buddhism and its spread from Sri Lanka to the coastal lands of Southeast Asia.
+Buddhism may have spread only slowly in India until the time of the Mauryan emperor Ashoka, who was a public supporter of the religion. The support of Asoka and his descendants led to the construction of more stupas (Buddhist religious memorials) and to efforts to spread Buddhism throughout the enlarged Maurya empire and even into neighboring lands�particularly to the Iranian-speaking regions of Afghanistan and Central Asia, beyond the Mauryas' northwest border, and to the island of Sri Lanka south of India. These two missions, in opposite directions, would ultimately lead, in the first case to the spread of Buddhism into China, and in the second case, to the emergence of Theravada Buddhism and its spread from Sri Lanka to the coastal lands of Southeast Asia.
 
-This period marks the first known spread of Buddhism beyond India. According to the edicts of Aśoka, emissaries were sent to various countries west of India to spread Buddhism (Dharma), particularly in eastern provinces of the neighboring Seleucid Empire, and even farther to Hellenistic kingdoms of the Mediterranean. It is a matter of disagreement among scholars whether or not these emissaries were accompanied by Buddhist missionaries.[196]
+This period marks the first known spread of Buddhism beyond India. According to the edicts of Asoka, emissaries were sent to various countries west of India to spread Buddhism (Dharma), particularly in eastern provinces of the neighboring Seleucid Empire, and even farther to Hellenistic kingdoms of the Mediterranean. It is a matter of disagreement among scholars whether or not these emissaries were accompanied by Buddhist missionaries.[196]
 
-The gradual spread of Buddhism into adjacent areas meant that it came into contact with new ethnical groups. During this period Buddhism was exposed to a variety of influences, from Persian and Greek civilization, to changing trends in non-Buddhist Indian religions—themselves influenced by Buddhism. Striking examples of this syncretistic development can be seen in the emergence of Greek-speaking Buddhist monarchs in the Indo-Greek Kingdom, and in the development of the Greco-Buddhist art of Gandhāra. A Greek king, Menander, has even been immortalized in the Buddhist canon.
+The gradual spread of Buddhism into adjacent areas meant that it came into contact with new ethnical groups. During this period Buddhism was exposed to a variety of influences, from Persian and Greek civilization, to changing trends in non-Buddhist Indian religions�themselves influenced by Buddhism. Striking examples of this syncretistic development can be seen in the emergence of Greek-speaking Buddhist monarchs in the Indo-Greek Kingdom, and in the development of the Greco-Buddhist art of Gandhara. A Greek king, Menander, has even been immortalized in the Buddhist canon.
 
 The Theravada school spread south from India in the 3rd century BCE, to Sri Lanka and Thailand and Burma and later also Indonesia. The Dharmagupta school spread (also in 3rd century BCE) north to Kashmir, Gandhara and Bactria (Afghanistan).
 
@@ -846,7 +846,7 @@ Buryat Buddhist monk in Siberia
 By the late Middle Ages, Buddhism had become virtually extinct in India, and although it continued to exist in surrounding countries, its influence was no longer expanding. It is now again gaining strength worldwide.[200][201] China and India are now starting to fund Buddhist shrines in various Asian countries as they compete for influence in the region.[202]
 
 Most Buddhist groups in the West are nominally affiliated with at least one of these three traditions:
-##Theravada Buddhism, using Pāli as its scriptural language, is the dominant form of Buddhism in Cambodia, Laos, Thailand, Sri Lanka, and Burma. The Dalit Buddhist movement in India (inspired by B. R. Ambedkar) also practices Theravada.
+##Theravada Buddhism, using Pali as its scriptural language, is the dominant form of Buddhism in Cambodia, Laos, Thailand, Sri Lanka, and Burma. The Dalit Buddhist movement in India (inspired by B. R. Ambedkar) also practices Theravada.
 ##East Asian forms of Mahayana Buddhism that use Chinese scriptures are dominant in most of China, Japan, Korea, Taiwan, Singapore and Vietnam as well as such communities within Indochina, Southeast Asia and the West. Vietnam and Singapore are major concentrations of Mahayana Buddhism in Southeast Asia.
 ##Tibetan Buddhism is found in Tibet, Bhutan, Nepal, Mongolia, areas of India (it's the majority religion in Ladakh; significant population in Himachal Pradesh, Arunachal Pradesh and Sikkim), China (particularly in Inner Mongolia), and Russia (mainly Kalmykia, Buryatia, and Tuva).
 
@@ -893,7 +893,7 @@ Buddhists generally classify themselves as either Theravada or Mahayana.[211] Th
 
 
  Young monks in Cambodia
-Some scholars[215] use other schemes. Buddhists themselves have a variety of other schemes. Hinayana (literally "lesser vehicle") is used by Mahayana followers to name the family of early philosophical schools and traditions from which contemporary Theravada emerged, but as this term is rooted in the Mahayana viewpoint and can be considered derogatory, a variety of other terms are increasingly used instead, including Śrāvakayāna, Nikaya Buddhism, early Buddhist schools, sectarian Buddhism, conservative Buddhism, mainstream Buddhism and non-Mahayana Buddhism.
+Some scholars[215] use other schemes. Buddhists themselves have a variety of other schemes. Hinayana (literally "lesser vehicle") is used by Mahayana followers to name the family of early philosophical schools and traditions from which contemporary Theravada emerged, but as this term is rooted in the Mahayana viewpoint and can be considered derogatory, a variety of other terms are increasingly used instead, including Sravakayana, Nikaya Buddhism, early Buddhist schools, sectarian Buddhism, conservative Buddhism, mainstream Buddhism and non-Mahayana Buddhism.
 
 Not all traditions of Buddhism share the same philosophical outlook, or treat the same concepts as central. Each tradition, however, does have its own core concepts, and some comparisons can be drawn between them. For example, according to one Buddhist ecumenical organization,[216] several concepts common to both major Buddhist branches:
 ##Both accept the Buddha as their teacher.
@@ -906,7 +906,7 @@ Timeline
 This is a rough timeline of the development of the different schools/traditions:
 
 
-Timeline: Development and propagation of Buddhist traditions (ca. 450 BCE – ca. 1300 CE)
+Timeline: Development and propagation of Buddhist traditions (ca. 450 BCE � ca. 1300 CE)
  
             
   450 BCE[217] 250 BCE 100 CE 500 CE 700 CE 800 CE 1200 CE[218] 
@@ -925,7 +925,7 @@ Early
  
  
  
-Early Buddhist schools Mahāyāna Vajrayāna 
+Early Buddhist schools Mahayana Vajrayana 
 
  
  
@@ -952,7 +952,7 @@ Southeast Asia
  
  
  
-Theravāda 
+Theravada 
 
  
  
@@ -987,23 +987,23 @@ Sakya
 East Asia
    
 Early Buddhist schools
- and Mahāyāna
+ and Mahayana
 (via the silk road
  to China, and ocean
  contact with India
  to Vietnam)
   
-Tángmì / Hànchuán Mìzōng
+T�ngm� / H�nchu�n M�zong
  
  
 Nara
  
 Shingon
  
-Chán 
+Ch�n 
  
  
-Thiền, Seon 
+Thi?n, Seon 
   Zen 
 Tiantai 
  
@@ -1015,7 +1015,7 @@ Tendai
 Nichiren
  
   
-Jōdo shū
+Jodo shu
  
 
  
@@ -1048,11 +1048,11 @@ Theravada school
 
 Main article: Theravada
 
-Theravada ("Doctrine of the Elders", or "Ancient Doctrine") is the oldest surviving Buddhist school. It is relatively conservative, and generally closest to early Buddhism.[219] This school is derived from the Vibhajjavāda grouping that emerged amongst the older Sthavira group at the time of the Third Buddhist Council (c. 250 BCE). This school gradually declined on the Indian subcontinent, but its branch in Sri Lanka and South East Asia continues to survive.
+Theravada ("Doctrine of the Elders", or "Ancient Doctrine") is the oldest surviving Buddhist school. It is relatively conservative, and generally closest to early Buddhism.[219] This school is derived from the Vibhajjavada grouping that emerged amongst the older Sthavira group at the time of the Third Buddhist Council (c. 250 BCE). This school gradually declined on the Indian subcontinent, but its branch in Sri Lanka and South East Asia continues to survive.
 
-The Theravada school bases its practice and doctrine exclusively on the Pāli Canon and its commentaries. After being orally transmitted for a few centuries, its scriptures, the Pali Canon, were finally committed to writing in the 1st century BCE, in Sri Lanka, at what the Theravada usually reckon as the fourth council. It is also one of the first Buddhist schools to commit the complete set of its canon into writing.[citation needed] The Sutta collections and Vinaya texts of the Pāli Canon (and the corresponding texts in other versions of the Tripitaka), are generally considered by modern scholars to be the earliest Buddhist literature, and they are accepted as authentic in every branch of Buddhism.
+The Theravada school bases its practice and doctrine exclusively on the Pali Canon and its commentaries. After being orally transmitted for a few centuries, its scriptures, the Pali Canon, were finally committed to writing in the 1st century BCE, in Sri Lanka, at what the Theravada usually reckon as the fourth council. It is also one of the first Buddhist schools to commit the complete set of its canon into writing.[citation needed] The Sutta collections and Vinaya texts of the Pali Canon (and the corresponding texts in other versions of the Tripitaka), are generally considered by modern scholars to be the earliest Buddhist literature, and they are accepted as authentic in every branch of Buddhism.
 
-Theravāda is primarily practiced today in Sri Lanka, Burma, Laos, Thailand, Cambodia as well as small portions of China, Vietnam, Malaysia and Bangladesh. It has a growing presence in the west.
+Theravada is primarily practiced today in Sri Lanka, Burma, Laos, Thailand, Cambodia as well as small portions of China, Vietnam, Malaysia and Bangladesh. It has a growing presence in the west.
 
 Theravadin Buddhists think that personal effort is required to realize rebirth. Monks follow the vinaya: meditating, teaching and serving their lay communities. Laypersons can perform good actions, producing merit.[220]
 
@@ -1064,8 +1064,8 @@ Main article: Mahayana
  
 
 
- Chinese and Central Asian monks. Bezeklik, Eastern Tarim Basin, China, 9th–10th century. (National Institute of Informatics and the Tōyō Bunko)
-Mahayana Buddhism flourished in India from the 5th century CE onwards, during the dynasty of the Guptas. Mahāyāna centres of learning were established, the most important one being the Nālandā University in north-eastern India.
+ Chinese and Central Asian monks. Bezeklik, Eastern Tarim Basin, China, 9th�10th century. (National Institute of Informatics and the Toyo Bunko)
+Mahayana Buddhism flourished in India from the 5th century CE onwards, during the dynasty of the Guptas. Mahayana centres of learning were established, the most important one being the Nalanda University in north-eastern India.
 
 Mahayana schools recognize all or part of the Mahayana Sutras. Some of these sutras became for Mahayanists a manifestation of the Buddha himself, and faith in and veneration of those texts are stated in some sutras (e.g. the Lotus Sutra and the Mahaparinirvana Sutra) to lay the foundations for the later attainment of Buddhahood itself.
 
@@ -1087,11 +1087,11 @@ Main article: Vajrayana
 Boudhanath, Kathmandu, Nepal
 The Vajrayana tradition of Buddhism spread to China, Mongolia, and Tibet. In Tibet, Vajrayana has always been a main component of Tibetan Buddhism, while in China it formed a separate sect. However, Vajrayana Buddhism became extinct in China but survived in elements of Japan's Shingon and Tendai sects.
 
-There are differing views as to just when Vajrayāna and its tantric practice started. In the Tibetan tradition, it is claimed that the historical Śākyamuni Buddha taught tantra, but as these are esoteric teachings, they were passed on orally first and only written down long after the Buddha's other teachings. Nālandā University became a center for the development of Vajrayāna theory and continued as the source of leading-edge Vajrayāna practices up through the 11th century. These practices, scriptures and theories were transmitted to China, Tibet, Indochina and Southeast Asia. China generally received Indian transmission up to the 11th century including tantric practice, while a vast amount of what is considered Tibetan Buddhism (Vajrayāna) stems from the late (9th–12th century) Nālandā tradition.
+There are differing views as to just when Vajrayana and its tantric practice started. In the Tibetan tradition, it is claimed that the historical Sakyamuni Buddha taught tantra, but as these are esoteric teachings, they were passed on orally first and only written down long after the Buddha's other teachings. Nalanda University became a center for the development of Vajrayana theory and continued as the source of leading-edge Vajrayana practices up through the 11th century. These practices, scriptures and theories were transmitted to China, Tibet, Indochina and Southeast Asia. China generally received Indian transmission up to the 11th century including tantric practice, while a vast amount of what is considered Tibetan Buddhism (Vajrayana) stems from the late (9th�12th century) Nalanda tradition.
 
 In one of the first major contemporary academic treatises on the subject, Fairfield University professor Ronald M. Davidson argues that the rise of Vajrayana was in part a reaction to the changing political climate in India at the time. With the fall of the Gupta dynasty, in an increasingly fractious political environment, institutional Buddhism had difficulty attracting patronage, and the folk movement led by siddhas became more prominent. After perhaps two hundred years, it had begun to get integrated into the monastic establishment.[223][page needed]
 
-Vajrayana combined and developed a variety of elements, a number of which had already existed for centuries.[224] In addition to the Mahāyāna scriptures, Vajrayāna Buddhists recognise a large body of Buddhist Tantras, some of which are also included in Chinese and Japanese collections of Buddhist literature, and versions of a few even in the Pali Canon.
+Vajrayana combined and developed a variety of elements, a number of which had already existed for centuries.[224] In addition to the Mahayana scriptures, Vajrayana Buddhists recognise a large body of Buddhist Tantras, some of which are also included in Chinese and Japanese collections of Buddhist literature, and versions of a few even in the Pali Canon.
 
 Buddhist texts
 
@@ -1102,59 +1102,59 @@ Buddhist texts
  Buddhist monk Geshe Konchog Wangdu reads Mahayana sutras from an old woodblock copy of the Tibetan Kanjur.
 Main article: Buddhist texts
 
-Buddhist scriptures and other texts exist in great variety. Different schools of Buddhism place varying levels of value on learning the various texts. Some schools venerate certain texts as religious objects in themselves, while others take a more scholastic approach. Buddhist scriptures are mainly written in Pāli, Tibetan, Mongolian, and Chinese. Some texts still exist in Sanskrit and Buddhist Hybrid Sanskrit.
+Buddhist scriptures and other texts exist in great variety. Different schools of Buddhism place varying levels of value on learning the various texts. Some schools venerate certain texts as religious objects in themselves, while others take a more scholastic approach. Buddhist scriptures are mainly written in Pali, Tibetan, Mongolian, and Chinese. Some texts still exist in Sanskrit and Buddhist Hybrid Sanskrit.
 
-Unlike many religions, Buddhism has no single central text that is universally referred to by all traditions. However, some scholars have referred to the Vinaya Pitaka and the first four Nikayas of the Sutta Pitaka as the common core of all Buddhist traditions.[225] This could be considered misleading, as Mahāyāna considers these merely a preliminary, and not a core, teaching. The Tibetan Buddhists have not even translated most of the āgamas (though theoretically they recognize them) and they play no part in the religious life of either clergy or laity in China and Japan.[226] Other scholars say there is no universally accepted common core.[227] The size and complexity of the Buddhist canons have been seen by some (including Buddhist social reformer Babasaheb Ambedkar) as presenting barriers to the wider understanding of Buddhist philosophy.
+Unlike many religions, Buddhism has no single central text that is universally referred to by all traditions. However, some scholars have referred to the Vinaya Pitaka and the first four Nikayas of the Sutta Pitaka as the common core of all Buddhist traditions.[225] This could be considered misleading, as Mahayana considers these merely a preliminary, and not a core, teaching. The Tibetan Buddhists have not even translated most of the agamas (though theoretically they recognize them) and they play no part in the religious life of either clergy or laity in China and Japan.[226] Other scholars say there is no universally accepted common core.[227] The size and complexity of the Buddhist canons have been seen by some (including Buddhist social reformer Babasaheb Ambedkar) as presenting barriers to the wider understanding of Buddhist philosophy.
 
-The followers of Theravāda Buddhism take the scriptures known as the Pāli Canon as definitive and authoritative, while the followers of Mahāyāna Buddhism base their faith and philosophy primarily on the Mahāyāna sūtras and their own vinaya. The Pāli sutras, along with other, closely related scriptures, are known to the other schools as the āgamas.
+The followers of Theravada Buddhism take the scriptures known as the Pali Canon as definitive and authoritative, while the followers of Mahayana Buddhism base their faith and philosophy primarily on the Mahayana sutras and their own vinaya. The Pali sutras, along with other, closely related scriptures, are known to the other schools as the agamas.
 
 Over the years, various attempts have been made to synthesize a single Buddhist text that can encompass all of the major principles of Buddhism. In the Theravada tradition, condensed 'study texts' were created that combined popular or influential scriptures into single volumes that could be studied by novice monks. Later in Sri Lanka, the Dhammapada was championed as a unifying scripture.
 
 Dwight Goddard collected a sample of Buddhist scriptures, with the emphasis on Zen, along with other classics of Eastern philosophy, such as the Tao Te Ching, into his 'Buddhist Bible' in the 1920s. More recently, Dr. Babasaheb Ambedkar attempted to create a single, combined document of Buddhist principles in "The Buddha and His Dhamma". Other such efforts have persisted to present day, but currently there is no single text that represents all Buddhist traditions.
 
-Pāli Tipitaka
+Pali Tipitaka
 
-Main article: Pāli Canon
+Main article: Pali Canon
 
 
-Pāli Canon
+Pali Canon
 
 
 Vinaya Pitaka
 
-Suttavibhanga · 
- Khandhaka · 
+Suttavibhanga � 
+ Khandhaka � 
  Parivara
   
 
 Sutta Pitaka
 
-Digha Nikaya · 
- Majjhima Nikaya · 
- Samyutta Nikaya · 
- Anguttara Nikaya · 
+Digha Nikaya � 
+ Majjhima Nikaya � 
+ Samyutta Nikaya � 
+ Anguttara Nikaya � 
  Khuddaka Nikaya
   
 
 Abhidhamma Pitaka
 
-Dhammasangani · 
- Vibhanga · 
- Dhatukatha and Puggalapannatti · 
- Kathavatthu · 
- Yamaka · 
+Dhammasangani � 
+ Vibhanga � 
+ Dhatukatha and Puggalapannatti � 
+ Kathavatthu � 
+ Yamaka � 
  Patthana
   
-v · 
- t · 
+v � 
+ t � 
  e
     
 
-The Pāli Tipitaka, which means "three baskets", refers to the Vinaya Pitaka, the Sutta Pitaka, and the Abhidhamma Pitaka. The Vinaya Pitaka contains disciplinary rules for the Buddhist monks and nuns, as well as explanations of why and how these rules were instituted, supporting material, and doctrinal clarification. The Sutta Pitaka contains discourses ascribed to Gautama Buddha. The Abhidhamma Pitaka contains material often described as systematic expositions of the Gautama Buddha's teachings.
+The Pali Tipitaka, which means "three baskets", refers to the Vinaya Pitaka, the Sutta Pitaka, and the Abhidhamma Pitaka. The Vinaya Pitaka contains disciplinary rules for the Buddhist monks and nuns, as well as explanations of why and how these rules were instituted, supporting material, and doctrinal clarification. The Sutta Pitaka contains discourses ascribed to Gautama Buddha. The Abhidhamma Pitaka contains material often described as systematic expositions of the Gautama Buddha's teachings.
 
-The Pāli Tipitaka is the only early Tipitaka (Sanskrit: Tripiṭaka) to survive intact in its original language, but a number of early schools had their own recensions of the Tipitaka featuring much of the same material. We have portions of the Tipitakas of the Sārvāstivāda, Dharmaguptaka, Sammitya, Mahāsaṅghika, Kāśyapīya, and Mahīśāsaka schools, most of which survive in Chinese translation only. According to some sources, some early schools of Buddhism had five or seven pitakas.[228]
+The Pali Tipitaka is the only early Tipitaka (Sanskrit: Tripi?aka) to survive intact in its original language, but a number of early schools had their own recensions of the Tipitaka featuring much of the same material. We have portions of the Tipitakas of the Sarvastivada, Dharmaguptaka, Sammitya, Mahasa?ghika, Kasyapiya, and Mahisasaka schools, most of which survive in Chinese translation only. According to some sources, some early schools of Buddhism had five or seven pitakas.[228]
 
-According to the scriptures, soon after the death of the Buddha, the first Buddhist council was held; a monk named Mahākāśyapa (Pāli: Mahākassapa) presided. The goal of the council was to record the Buddha's teachings. Upāli recited the vinaya. Ānanda, the Buddha's personal attendant, was called upon to recite the dhamma. These became the basis of the Tripitaka. However, this record was initially transmitted orally in form of chanting, and was committed to text in the last century BCE. Both the sūtras and the vinaya of every Buddhist school contain a wide variety of elements including discourses on the Dharma, commentaries on other teachings, cosmological and cosmogonical texts, stories of the Gautama Buddha's previous lives, and various other subjects.
+According to the scriptures, soon after the death of the Buddha, the first Buddhist council was held; a monk named Mahakasyapa (Pali: Mahakassapa) presided. The goal of the council was to record the Buddha's teachings. Upali recited the vinaya. Ananda, the Buddha's personal attendant, was called upon to recite the dhamma. These became the basis of the Tripitaka. However, this record was initially transmitted orally in form of chanting, and was committed to text in the last century BCE. Both the sutras and the vinaya of every Buddhist school contain a wide variety of elements including discourses on the Dharma, commentaries on other teachings, cosmological and cosmogonical texts, stories of the Gautama Buddha's previous lives, and various other subjects.
 
 Much of the material in the Canon is not specifically "Theravadin", but is instead the collection of teachings that this school preserved from the early, non-sectarian body of teachings. According to Peter Harvey, it contains material at odds with later Theravadin orthodoxy. He states: "The Theravadins, then, may have added texts to the Canon for some time, but they do not appear to have tampered with what they already had from an earlier period."[229]
 
@@ -1166,10 +1166,10 @@ Main article: Mahayana sutras
  
 
 
- The Tripiṭaka Koreana in South Korea, an edition of the Chinese Buddhist canon carved and preserved in over 81,000 wood printing blocks.
+ The Tripi?aka Koreana in South Korea, an edition of the Chinese Buddhist canon carved and preserved in over 81,000 wood printing blocks.
 The Mahayana sutras are a very broad genre of Buddhist scriptures that the Mahayana Buddhist tradition holds are original teachings of the Buddha. Some adherents of Mahayana accept both the early teachings (including in this the Sarvastivada Abhidharma, which was criticized by Nagarjuna and is in fact opposed to early Buddhist thought[230]) and the Mahayana sutras as authentic teachings of Gautama Buddha, and claim they were designed for different types of persons and different levels of spiritual understanding.
 
-The Mahayana sutras often claim to articulate the Buddha's deeper, more advanced doctrines, reserved for those who follow the bodhisattva path. That path is explained as being built upon the motivation to liberate all living beings from unhappiness. Hence the name Mahāyāna (lit., the Great Vehicle).
+The Mahayana sutras often claim to articulate the Buddha's deeper, more advanced doctrines, reserved for those who follow the bodhisattva path. That path is explained as being built upon the motivation to liberate all living beings from unhappiness. Hence the name Mahayana (lit., the Great Vehicle).
 
 According to Mahayana tradition, the Mahayana sutras were transmitted in secret, came from other Buddhas or Bodhisattvas, or were preserved in non-human worlds because human beings at the time could not understand them:[231]
 
@@ -1178,15 +1178,15 @@ Some of our sources maintain the authenticity of certain other texts not found i
 
 Approximately six hundred Mahayana sutras have survived in Sanskrit or in Chinese or Tibetan translations. In addition, East Asian Buddhism recognizes some sutras regarded by scholars as of Chinese rather than Indian origin.
 
-Generally, scholars conclude that the Mahayana scriptures were composed from the 1st century CE onwards: "Large numbers of Mahayana sutras were being composed in the period between the beginning of the common era and the fifth century",[232] five centuries after the historical Gautama Buddha. Some of these had their roots in other scriptures composed in the 1st century BCE. It was not until after the 5th century CE that the Mahayana sutras started to influence the behavior of mainstream Buddhists in India: "But outside of texts, at least in India, at exactly the same period, very different—in fact seemingly older—ideas and aspirations appear to be motivating actual behavior, and old and established Hinnayana groups appear to be the only ones that are patronized and supported."[232] These texts were apparently not universally accepted among Indian Buddhists when they appeared; the pejorative label hinayana was applied by Mahayana supporters to those who rejected the Mahayana sutras.
+Generally, scholars conclude that the Mahayana scriptures were composed from the 1st century CE onwards: "Large numbers of Mahayana sutras were being composed in the period between the beginning of the common era and the fifth century",[232] five centuries after the historical Gautama Buddha. Some of these had their roots in other scriptures composed in the 1st century BCE. It was not until after the 5th century CE that the Mahayana sutras started to influence the behavior of mainstream Buddhists in India: "But outside of texts, at least in India, at exactly the same period, very different�in fact seemingly older�ideas and aspirations appear to be motivating actual behavior, and old and established Hinnayana groups appear to be the only ones that are patronized and supported."[232] These texts were apparently not universally accepted among Indian Buddhists when they appeared; the pejorative label hinayana was applied by Mahayana supporters to those who rejected the Mahayana sutras.
 
 Only the Theravada school does not include the Mahayana scriptures in its canon. As the modern Theravada school is descended from a branch of Buddhism that diverged and established itself in Sri Lanka prior to the emergence of the Mahayana texts, debate exists as to whether the Theravada were historically included in the hinayana designation; in the modern era, this label is seen as derogatory, and is generally avoided.
 
-Scholar Isabelle Onians asserts that although "the Mahāyāna ... very occasionally referred contemptuously to earlier Buddhism as the Hinayāna, the Inferior Way," "the preponderance of this name in the secondary literature is far out of proportion to occurrences in the Indian texts." She notes that the term Śrāvakayāna was "the more politically correct and much more usual" term used by Mahāyānists.[233] Jonathan Silk has argued that the term "Hinayana" was used to refer to whomever one wanted to criticize on any given occasion, and did not refer to any definite grouping of Buddhists.[234]
+Scholar Isabelle Onians asserts that although "the Mahayana ... very occasionally referred contemptuously to earlier Buddhism as the Hinayana, the Inferior Way," "the preponderance of this name in the secondary literature is far out of proportion to occurrences in the Indian texts." She notes that the term Sravakayana was "the more politically correct and much more usual" term used by Mahayanists.[233] Jonathan Silk has argued that the term "Hinayana" was used to refer to whomever one wanted to criticize on any given occasion, and did not refer to any definite grouping of Buddhists.[234]
 
 Comparative studies
 
-Buddhism provides many opportunities for comparative study with a diverse range of subjects. For example, Buddhism's emphasis on the Middle way not only provides a unique guideline for ethics but has also allowed Buddhism to peacefully coexist with various differing beliefs, customs and institutions in countries where it has resided throughout its history. Also, its moral and spiritual parallels with other systems of thought—for example, with various tenets of Christianity—have been subjects of close study. In addition, the Buddhist concept of dependent origination has been compared to modern scientific thought, as well as Western metaphysics.
+Buddhism provides many opportunities for comparative study with a diverse range of subjects. For example, Buddhism's emphasis on the Middle way not only provides a unique guideline for ethics but has also allowed Buddhism to peacefully coexist with various differing beliefs, customs and institutions in countries where it has resided throughout its history. Also, its moral and spiritual parallels with other systems of thought�for example, with various tenets of Christianity�have been subjects of close study. In addition, the Buddhist concept of dependent origination has been compared to modern scientific thought, as well as Western metaphysics.
 
 Is Buddhism a religion?
 
@@ -1194,7 +1194,7 @@ Is Buddhism a religion?
  
 
 
-The Great Buddha of Kamakura, Kōtoku-in in Japan
+The Great Buddha of Kamakura, Kotoku-in in Japan
 There are differences of opinion on the question of whether or not Buddhism should be considered a religion. Many sources commonly refer to Buddhism as a religion. For example:
 ##Peter Harvey states: "The English term 'Buddhism' correctly indicates that the religion is characterized by devotion to 'the Buddha', 'Buddhas', or 'buddhahood'."[235]
 ##Joseph Goldstein states: "Although there are many difference among the various religions of the world, and among the various schools of Buddhism itself, there is also a great deal in common..."[236]
@@ -1202,15 +1202,15 @@ There are differences of opinion on the question of whether or not Buddhism shou
 Other sources note that the answer to this question depends upon how religion is defined. For example:
 ##Surya Das states: "For Buddhism is less a theology or religion than a promise that certain meditative practices and mind trainings can effectively show us how to awaken our Buddha-nature and liberate us from suffering and confusion."[237]
 ##B. Alan Wallace states: "When we in the West first engage with Buddhism, it is almost inevitable that we bring out one of our familiar stereotypes and apply it to Buddhism, calling it simply a 'religion.'... But Buddhism has never been simply a religion as we define it in the West. From the very beginning it has also had philosophical elements, as well as empirical and rational elements that may invite the term 'science.'"[238]
-##Rupert Gethin states: "I am not concerned here to pronounce on a question that is sometimes asked of Buddhism: is it a religion? Obviously it depends on how one defines 'a religion'. What is certain, however, is that Buddhism does not involve belief in a creator God who has control over human destiny, nor does it seek to define itself by reference to a creed; as Edward Conze has pointed out, it took over 2,000 years and a couple of Western converts to Buddhism to provide it with a creed. On the other hand, Buddhism views activities that would be generally understood as religious—such as devotional practices and rituals—as a legitimate, useful, and even essential part of the practice and training that leads to the cessation of suffering."[239]
-##Damien Keown states: "Problems [...] confront us as soon as we try to define what Buddhism is. Is it a religion? A philosophy? A way of life? A code of ethics? It is not easy to classify Buddhism as any of these things, and it challenges us to rethink some of these categories. What, for example, do we mean by 'religion'? Most people would say that religion has something to do with belief in God. [...] If belief in God in this sense is the essence of religion, then Buddhism cannot be a religion. [...] Some have suggested that a new category – that of the 'non-theistic' religion – is needed to encompass Buddhism. Another possibility is that our original definition is simply too narrow.[240] 
+##Rupert Gethin states: "I am not concerned here to pronounce on a question that is sometimes asked of Buddhism: is it a religion? Obviously it depends on how one defines 'a religion'. What is certain, however, is that Buddhism does not involve belief in a creator God who has control over human destiny, nor does it seek to define itself by reference to a creed; as Edward Conze has pointed out, it took over 2,000 years and a couple of Western converts to Buddhism to provide it with a creed. On the other hand, Buddhism views activities that would be generally understood as religious�such as devotional practices and rituals�as a legitimate, useful, and even essential part of the practice and training that leads to the cessation of suffering."[239]
+##Damien Keown states: "Problems [...] confront us as soon as we try to define what Buddhism is. Is it a religion? A philosophy? A way of life? A code of ethics? It is not easy to classify Buddhism as any of these things, and it challenges us to rethink some of these categories. What, for example, do we mean by 'religion'? Most people would say that religion has something to do with belief in God. [...] If belief in God in this sense is the essence of religion, then Buddhism cannot be a religion. [...] Some have suggested that a new category � that of the 'non-theistic' religion � is needed to encompass Buddhism. Another possibility is that our original definition is simply too narrow.[240] 
 
  
 
 
  Czech Buddhists
 ##The Dalai Lama states: "From one viewpoint, Buddhism is a religion, from another viewpoint Buddhism is a science of mind and not a religion. Buddhism can be a bridge between these two sides. Therefore, with this conviction I try to have closer ties with scientists, mainly in the fields of cosmology, psychology, neurobiology and physics. In these fields there are insights to share, and to a certain extent we can work together."[241]
-##Ilkka Pyysiäinen states: "There are thus great difficulties involved in conceptualizing religion as belief in god(s), superhuman agents, etc., although we intuitively think that some such beings, nevertheless, are essential in religion. As is well-known, Buddhism is the favorite example of scholars who have argued that we should find some other way of defining religion than the one based on the idea of belief in gods or superhuman beings." and "Buddhism does not have to be the problematic touchstone for a global concept of religion."[242]
+##Ilkka Pyysi�inen states: "There are thus great difficulties involved in conceptualizing religion as belief in god(s), superhuman agents, etc., although we intuitively think that some such beings, nevertheless, are essential in religion. As is well-known, Buddhism is the favorite example of scholars who have argued that we should find some other way of defining religion than the one based on the idea of belief in gods or superhuman beings." and "Buddhism does not have to be the problematic touchstone for a global concept of religion."[242]
 ##Martin Southwold states: "It is argued that Buddhism, though non-theistic, resembles other religions in depending on mystical notions; it is shown how this contributes to understanding the social functions of religions."[243]
 ##Walpola Rahula states: "The question has often been asked: Is Buddhism a religion or a philosophy? It does not matter what you call it. Buddhism remains what it is whatever label you may put on it. The label is immaterial. Even the label 'Buddhism' which we give to the teaching of the Buddha is of little importance. The name one gives it is inessential. What's in a name? That which we call a rose, By any other name would smell as sweet. In the same way Truth needs no label: it is neither Buddhist, Christian, Hindu nor Moslem. It is not the monopoly of anybody. Sectarian labels are a hindrance to the independent understanding of Truth, and they produce harmful prejudices in men's minds."[244]
 ##Dzogchen Ponlop Rinpoche states: "If you are interested in 'meeting the Buddha' and following his example, then you should realize that the path the Buddha taught is primarily a study of your own mind and a system for training your mind. This path is spiritual, not religious. Its goal is self-knowledge, not salvation; freedom, not heaven. And it is deeply personal."[245]
@@ -1231,7 +1231,7 @@ Portal icon Buddhism portal
 ##Outline of Buddhism
 ##Buddhism by country
 ##Buddhism and science
-##Buddhist Bráhmans
+##Buddhist Br�hmans
 ##Chinese folk religion
 ##Dharma Drum Retreat Center
 ##Easily confused Buddhist representations
@@ -1245,19 +1245,19 @@ Portal icon Buddhism portal
 Notes
 
 1.Jump up ^ Earlier Buddhist texts refer to five realms rather than six realms; when described as five realms, the god realm and demi-god realm constitute a single realm.
-2.Jump up ^ See the article Saṃsāra (Buddhism) for further details and citations.
-3.Jump up ^ André Bareau: the top of p. 212 says: "Here are the theses of the Theravadins of the Mahavihara"; then begins a numbered list of doctrines over the following pages, including on p. 223: "There are only five destinies ... the kalakanjika asuras have the same colour, same nourishment, same foods, same lifespan as the petas, with whom ... they marry. As for the Vepacittiparisa, they have the same colour, same nourishment, same foods, same lifespan as the gods, with whom they marry."(Translated from the French)[25]
+2.Jump up ^ See the article Sa?sara (Buddhism) for further details and citations.
+3.Jump up ^ Andr� Bareau: the top of p. 212 says: "Here are the theses of the Theravadins of the Mahavihara"; then begins a numbered list of doctrines over the following pages, including on p. 223: "There are only five destinies ... the kalakanjika asuras have the same colour, same nourishment, same foods, same lifespan as the petas, with whom ... they marry. As for the Vepacittiparisa, they have the same colour, same nourishment, same foods, same lifespan as the gods, with whom they marry."(Translated from the French)[25]
 4.Jump up ^ See the article Four Noble Truths for further details and citations. In particular, the section "The four truths" within that article provides a footnote showing variety of translations of these four statements.
 5.Jump up ^ For clarification of translations, see Dukkha#Translating the term dukkha.
 6.Jump up ^ See the article Dukkha for further details and citations.
 7.Jump up ^ See the article Four Noble Truths for further details and citations.
-8.Jump up ^ This twelve nidana scheme can be found, for instance, in multiple discourses in chapter 12 of the Samyutta Nikaya—Nidana Vagga (e.g., see SN 12.2, Thanissaro, 1997a). Other "applications" of what might be termed "mundane dependent origination" include the nine-nidana scheme of Digha Nikaya 15 (e.g., Thanissaro, 1997b) and the ten-nidana scheme of Samyutta Nikaya 12.65 (e.g., Thanissaro, 1997c). So-called "transcendental dependent origination" (also involving twelve nidanas) is described in Samyutta Nikaya 12.23 (e.g., see Bodhi, 1995). In addition, Digha Nikaya 15 describes an eleven-nidana scheme (starting with "feeling") that leads to interpersonal suffering ("the taking up of sticks and knives; conflicts, quarrels, and disputes; accusations, divisive speech, and lies")
+8.Jump up ^ This twelve nidana scheme can be found, for instance, in multiple discourses in chapter 12 of the Samyutta Nikaya�Nidana Vagga (e.g., see SN 12.2, Thanissaro, 1997a). Other "applications" of what might be termed "mundane dependent origination" include the nine-nidana scheme of Digha Nikaya 15 (e.g., Thanissaro, 1997b) and the ten-nidana scheme of Samyutta Nikaya 12.65 (e.g., Thanissaro, 1997c). So-called "transcendental dependent origination" (also involving twelve nidanas) is described in Samyutta Nikaya 12.23 (e.g., see Bodhi, 1995). In addition, Digha Nikaya 15 describes an eleven-nidana scheme (starting with "feeling") that leads to interpersonal suffering ("the taking up of sticks and knives; conflicts, quarrels, and disputes; accusations, divisive speech, and lies")
 9.Jump up ^ Shaw also notes that discourses on meditation are addressed to "bhikkhave", but that in this context the terms is more generic than simply (male) "monks" and refers to all practitioners, and that this is confirmed by Buddhaghosa.[94]
 10.Jump up ^ According to Charles S. Prebish:[95] "Although a variety of Zen 'schools' developed in Japan, they all emphasize Zen as a teaching that does not depend on sacred texts, that provides the potential for direct realization, that the realization attained is none other than the Buddha nature possessed by each sentient being ...".
 11.Jump up ^ The surviving portions of the scriptures of Sarvastivada, Mulasarvastivada, Mahisasaka, Dharmaguptaka and other schools,[134][135] and the Chinese Agamas and other surviving portions of other early canons.[citation needed]
 12.Jump up ^ Exemplary studies are the study on descriptions of "liberating insight" by Lambert Schmithausen,[140] the overview of early Buddhism by Tilmann Vetter,[137] the philological work on the four truths by K.R. Norman,[141] the textual studies by Richard Gombrich,[139] and the research on early meditation methods by Johannes Bronkhorst.[142]
 13.Jump up ^ According to A.K. Warder, in his 1970 publication "Indian Buddhism", from the oldest extant texts a common kernel can be drawn out.[144] According to Warder, c.q. his publisher: "This kernel of doctrine is presumably common Buddhism of the period before th great schisms of the fourth and third centuries BC. It may be substantially the Buddhism of the Buddha himself, although this cannot be proved: at any rate it is a Buddhism presupposed by the schools as existing about a hundred years after the parinirvana of the Buddha, and there is no evidence to suggest that it was formulated by anyone else than the Buddha and his immediate followers."[144]
-14.Jump up ^ Richard Gombrich: "I have the greatest difficulty in accepting that the main edifice is not the work of a single genius. By "the main edifice" I mean the collections of the main body of sermons, the four Nikāyas, and of the main body of monastic rules."[139]
+14.Jump up ^ Richard Gombrich: "I have the greatest difficulty in accepting that the main edifice is not the work of a single genius. By "the main edifice" I mean the collections of the main body of sermons, the four Nikayas, and of the main body of monastic rules."[139]
 15.Jump up ^ Well-known proponents of the first position are A.K. Warder[note 13] and Richard Gombrich.[145][note 14]
 16.Jump up ^ Ronald Davidson: "While most scholars agree that there was a rough body of sacred literature (disputed)(sic) that a relatively early community (disputed)(sic) maintained and transmitted, we have little confidence that much, if any, of surviving Buddhist scripture is actually the word of the historic Buddha."[146]
 17.Jump up ^ A proponent of the second position is Ronald Davidson.[note 16]
@@ -1272,9 +1272,9 @@ Notes
 
 References
 
-1.^ Jump up to: a b "Buddhism". (2009). In Encyclopædia Britannica. Retrieved November 26, 2009, from Encyclopædia Britannica Online Library Edition.
+1.^ Jump up to: a b "Buddhism". (2009). In Encyclop�dia Britannica. Retrieved November 26, 2009, from Encyclop�dia Britannica Online Library Edition.
 2.^ Jump up to: a b Lopez, Story of Buddhism. p. 239
-3.Jump up ^ Gethin (1998), Foundations, pp. 27–8, pp. 73–4
+3.Jump up ^ Gethin (1998), Foundations, pp. 27�8, pp. 73�4
 4.Jump up ^ Robinson et al., Buddhist Religions, page xx; Philosophy East and West, vol 54, ps 269f; Williams, Mahayana Buddhism, Routledge, 1st ed., 1989, pp. 275f (2nd ed., 2008, p. 266)
 5.Jump up ^ Padmasambhava, Jamgon Kongtrul, Erik Pema Kunsang (2004). Light of Wisdom. Rangjung Yeshe Publications. ISBN 978-962-7341-37-6. Retrieved 2010-08-25.
 6.Jump up ^ Swearer, Donald. Becoming the Buddha. 2004. p. 177
@@ -1296,7 +1296,7 @@ References
 22.Jump up ^ Harvey, Introduction to Buddhism, p. 34
 23.Jump up ^ Macmillan Encyclopedia of Buddhism (Volume Two), p. 711
 24.Jump up ^ Harvey, Introduction to Buddhism, p. 33
-25.Jump up ^ Bareau 1955, p. 212–223.
+25.Jump up ^ Bareau 1955, p. 212�223.
 26.Jump up ^ The 31 Planes of Existence (PDF), Ven. Suvanno Mahathera
 27.Jump up ^ Macmillan Encyclopedia of Buddhism. Vol. 1, p. 377
 28.Jump up ^ The Connected Discourses of the Buddha. A Translation of the Samyutta Nikaya, Bhikkhu Bodhi, Translator. Wisdom Publications.
@@ -1313,13 +1313,13 @@ References
 39.Jump up ^ Rahula, Walpola (1959). "Chapter 2". What the Buddha Taught. Grove Press. ISBN 0-8021-3031-3.
 40.Jump up ^ Prebish, Charles (1993). Historical Dictionary of Buddhism. The Scarecrow Press. ISBN 0-8108-2698-4.
 41.Jump up ^ Keown, Damien (2003). Dictionary of Buddhism. Oxford University Press. ISBN 0-19-860560-9.
-42.Jump up ^ Thanissaro Bhikkhu, The Not-Self Strategy, See Point 3 – The Canon quote Thanissaro Bhikkhu draws attention to is the Sabbasava Sutta.
+42.Jump up ^ Thanissaro Bhikkhu, The Not-Self Strategy, See Point 3 � The Canon quote Thanissaro Bhikkhu draws attention to is the Sabbasava Sutta.
 43.Jump up ^ Harvey, Introduction to Buddhism, page 56
 44.Jump up ^ Harvey, Introduction to Buddhism, p. 57
 45.Jump up ^ Harvey, Introduction to Buddhism, p. 58
 46.Jump up ^ Harvey, Introduction to Buddhism, p. 59
 47.Jump up ^ Harvey, Introduction to Buddhism, p. 60
-48.Jump up ^ "Upādāparitassanā Sutta". Buddha-Vacana. Retrieved 18 September 2013.
+48.Jump up ^ "Upadaparitassana Sutta". Buddha-Vacana. Retrieved 18 September 2013.
 49.Jump up ^ Christian Lindtner, Master of Wisdom. Dharma Publishing 1997, p. 324.
 50.Jump up ^ Dan Lusthaus, "What is and isn't Yogacara"
 51.Jump up ^ Williams, Paul. Buddhist Thought. Routledge 2000, page 161.
@@ -1336,7 +1336,7 @@ References
 62.Jump up ^ "Bodhisattva Ideal in Buddhism". Access to Insight. Retrieved 2010-10-18.
 63.Jump up ^ Nattier, Jan (2003), A few good men: the Bodhisattva path according to the Inquiry of Ugra: p. 174
 64.Jump up ^ Mall, Linnart. Studies in the Astasahasrika Prajnaparamita and Other Essays. Motilal Banarsidass. 2005. pp. 53-54.
-65.Jump up ^ Hirakawa, Akira. A History of Indian Buddhism: from Śākyamuni to Early Mahāyāna. Motilal Banarsidass. 2007. p. 297.
+65.Jump up ^ Hirakawa, Akira. A History of Indian Buddhism: from Sakyamuni to Early Mahayana. Motilal Banarsidass. 2007. p. 297.
 66.Jump up ^ Conze, Edward. The Perfection of Wisdom in Eight Thousand Lines and its Verse Summary. Grey Fox Press. 2001. p. 89.
 67.Jump up ^ The Bodhisattva Vow: A Practical Guide to Helping Others, pages 4-12, Tharpa Publications (2nd. ed., 1995) ISBN 978-0-948006-50-0
 68.Jump up ^ Harvey, p. 170
@@ -1359,29 +1359,29 @@ References
 85.Jump up ^ Hiroshi Kanno, Huisi's Perspective on the Lotus Sutra as Seen Through the Meaning of the Course of Ease and Bliss in the Lotus Sutra, p. 147, http://www.iop.or.jp/0414/kanno2.pdf, consulted 5 February 2010
 86.Jump up ^ Stewart McFarlane in Peter Harvey, ed., Buddhism. Continuum, 2001, page 187.
 87.Jump up ^ Stewart McFarlane in Peter Harvey, ed., Buddhism. Continuum, 2001, pages 195-196.
-88.Jump up ^ Morgan, Peggy; Lawton, Clive A., eds. (2007). Ethical Issues in Six Religious Traditions (2nd ed.). Edinburgh: Edinburgh University Press. pp. 62–63. ISBN 978-0-7486-2330-3.
+88.Jump up ^ Morgan, Peggy; Lawton, Clive A., eds. (2007). Ethical Issues in Six Religious Traditions (2nd ed.). Edinburgh: Edinburgh University Press. pp. 62�63. ISBN 978-0-7486-2330-3.
 89.Jump up ^ Richard Gombrich, Theravada Buddhism: A Social History from Ancient Benares to Modern Colombo. Routledge and Kegan Paul, 1988, page 89. He is quoting Carrithers.
 90.Jump up ^ B. Alan Wallace, Contemplative Science. Columbia University Press, 2007, p. 81.
 91.Jump up ^ Welch, Practice of Chinese Buddhism, Harvard, 1967, p. 396
 92.Jump up ^ Peter Harvey, An Introduction to Buddhism. Cambridge University Press, 1990, page 144.
 93.Jump up ^ Damien Keown, Charles S Prebish, editors, Encyclopedia of Buddhism. Routledge, 2007. p. 502
-94.Jump up ^ Sarah Shaw, Buddhist Meditation: An Anthology of Texts from the Pāli Canon. Routledge, 2006, p. 13
+94.Jump up ^ Sarah Shaw, Buddhist Meditation: An Anthology of Texts from the Pali Canon. Routledge, 2006, p. 13
 95.Jump up ^ Charles S. Prebish, Historical Dictionary of Buddhism, Sri Satguru Publications, Delhi, 1993, p. 287
-96.Jump up ^ Prebish comments (op. cit., p. 244): "It presumes that sitting in meditation itself (i.e. zazen) is an expression of Buddha nature." The method is to detach the mind from conceptual modes of thinking and perceive Reality directly. Speaking of Zen in general, Buddhist scholar Stephen Hodge writes (Zen Masterclass, Godsfield Press, 2002, pp. 12–13): "... practitioners of Zen believe that Enlightenment, the awakening of the Buddha-mind or Buddha-nature, is our natural state, but has been covered over by layers of negative emotions and distorted thoughts. According to this view, Enlightenment is not something that we must acquire a bit at a time, but a state that can occur instantly when we cut through the dense veil of mental and emotional obscurations."
+96.Jump up ^ Prebish comments (op. cit., p. 244): "It presumes that sitting in meditation itself (i.e. zazen) is an expression of Buddha nature." The method is to detach the mind from conceptual modes of thinking and perceive Reality directly. Speaking of Zen in general, Buddhist scholar Stephen Hodge writes (Zen Masterclass, Godsfield Press, 2002, pp. 12�13): "... practitioners of Zen believe that Enlightenment, the awakening of the Buddha-mind or Buddha-nature, is our natural state, but has been covered over by layers of negative emotions and distorted thoughts. According to this view, Enlightenment is not something that we must acquire a bit at a time, but a state that can occur instantly when we cut through the dense veil of mental and emotional obscurations."
 97.Jump up ^ (Critical Sermons on the Zen Tradition, Hisamatsu Shin'ichi, Palgrave Macmillan, New York, 2002, passim) Commenting on Rinzai Zen and its Chinese founder, Linji, Hisamatsu states: "Linji indicates our true way of being in such direct expressions as 'True Person' and 'True Self'. It is independent of words or letters and transmitted apart from scriptural teaching. Buddhism doesn't really need scriptures. It is just our direct awakening to Self ..." (Hisamatsu, op. cit., p. 46).
 98.Jump up ^ Kosho Uchiyama, Opening the Hand of Thought: Approach to Zen, Penguin Books, New York, 1993, p. 98
 99.Jump up ^ Harvey, Introduction, pp. 165f
 100.Jump up ^ Williams, Mahayana Buddhism, Routledge, 1st ed., 1989, p. 185
 101.Jump up ^ Routledge Encyclopedia of Buddhism, p. 781 .
 102.Jump up ^ Gethin, Sayings of the Buddha, Oxford University Press, 2008, p. xv
-103.^ Jump up to: a b c Encyclopædia Britannica Online. Buddhism: The foundations of Buddhism: The cultural context. Retrieved 19-07-2009.
-104.^ Jump up to: a b Encyclopædia Britannica Online. Hinduism: History of Hinduism: The Vedic period (2nd millennium - 7th century BCE); Challenges to Brahmanism (6th - 2nd century BCE); Early Hinduism (2nd century BCE - 4th century CE). Retrieved 19-07-2009.
+103.^ Jump up to: a b c Encyclop�dia Britannica Online. Buddhism: The foundations of Buddhism: The cultural context. Retrieved 19-07-2009.
+104.^ Jump up to: a b Encyclop�dia Britannica Online. Hinduism: History of Hinduism: The Vedic period (2nd millennium - 7th century BCE); Challenges to Brahmanism (6th - 2nd century BCE); Early Hinduism (2nd century BCE - 4th century CE). Retrieved 19-07-2009.
 105.Jump up ^ Warder, A.K. 2000. Indian Buddhism. P.32
 106.Jump up ^ Y. Masih (2000) In : A Comparative Study of Religions, Motilal Banarsidass Publ : Delhi, ISBN 81-208-0815-0 Page 18. "There is no evidence to show that Jainism and Buddhism ever subscribed to vedic sacrifices, vedic deities or caste. They are parallel or native religions of India and have contributed to much to the growth of even classical Hinduism of the present times."
 107.Jump up ^ S. Cromwell Crawford, review of L. M. Joshi, Brahmanism, Buddhism and Hinduism, Philosophy East and West (1972): "Alongside Brahmanism was the non-Aryan Shramanic culture with its roots going back to prehistoric times."
 108.Jump up ^ "This confirms that the doctrine of transmigration is non-aryan and was accepted by non-vedics like Ajivikism, Jainism and Buddhism. The Indo-aryans have borrowed the theory of re-birth after coming in contact with the aboriginal inhabitants of India. Certainly Jainism and non-vedics [..] accepted the doctrine of rebirth as supreme postulate or article of faith." Masih, page 37.
 109.Jump up ^ Karel Werner, The Longhaired Sage in The Yogi and the Mystic. Karel Werner, ed., Curzon Press, 1989, page 34. "Rahurkar speaks of them as belonging to two distinct 'cultural strands' ... Wayman also found evidence for two distinct approaches to the spiritual dimension in ancient India and calls them the traditions of 'truth and silence.' He traces them particularly in the older Upanishads, in early Buddhism, and in some later literature."
-110.Jump up ^ Gavin D. Flood (1996), An Introduction to Hinduism, Cambridge University — Press : UK ISBN 0-521-43878-0 - "The origin and doctrine of Karma and Samsara are obscure. These concepts were certainly circulating amongst sramanas, and Jainism and Buddhism developed specific and sophisticated ideas about the process of transmigration. It is very possible that the karmas and reincarnation entered the mainstream brahaminical thought from the sramana or the renouncer traditions." Page 86.
+110.Jump up ^ Gavin D. Flood (1996), An Introduction to Hinduism, Cambridge University � Press : UK ISBN 0-521-43878-0 - "The origin and doctrine of Karma and Samsara are obscure. These concepts were certainly circulating amongst sramanas, and Jainism and Buddhism developed specific and sophisticated ideas about the process of transmigration. It is very possible that the karmas and reincarnation entered the mainstream brahaminical thought from the sramana or the renouncer traditions." Page 86.
 111.Jump up ^ Padmanabh S. Jaini 2001 "Collected Paper on Buddhist Studies" Motilal Banarsidass Publ 576 pages ISBN 81-208-1776-1: "Yajnavalkya's reluctance and manner in expounding the doctrine of karma in the assembly of Janaka (a reluctance not shown on any other occasion) can perhaps be explained by the assumption that it was, like that of the transmigration of soul, of non-brahmanical origin. In view of the fact that this doctrine is emblazoned on almost every page of sramana scriptures, it is highly probable that it was derived from them." Page 51.
 112.Jump up ^ Govind Chandra Pande, (1994) Life and Thought of Sankaracarya, Motilal Banarsidass ISBN 81-208-1104-6 : Early Upanishad thinkers like Yajnavalkya were acquainted with the sramanic thinking and tried to incorporate these ideals of Karma, Samsara and Moksa into the vedic thought implying a disparagement of the vedic ritualism and recognising the mendicancy as an ideal. Page 135.
 113.Jump up ^ "The sudden appearance of this theory [of karma] in a full-fledged form is likely due, as already pointed out, to an impact of the wandering muni-and-shramana-cult, coming down from the pre-Vedic non-Aryan time." Kashi Nath Upadhyaya, Early Buddhism and the Bhagavadgita. Motilal Banarsidass Publ., 1998, page 76.
@@ -1392,18 +1392,18 @@ References
 118.Jump up ^ Warder, A.K. 2000. Indian Buddhism. P.39
 119.Jump up ^ Warder, A.K. Indian Buddhism. P.33
 120.Jump up ^ Walpola Rahula, What the Buddha Taught, pages 9-10.
-121.Jump up ^ "The brahmin by caste alone, the teacher of the Veda, is (jokingly) etymologized as the 'non-meditator' (ajhāyaka). Brahmins who have memorized the three Vedas (tevijja) really know nothing: it is the process of achieving Enlightenment — what the Buddha is said to have achieved in the three watches of that night—which constitutes the true 'three knowledges.'" R.F. Gombrich in Paul Williams, ed., "Buddhism: Critical Concepts in Religious Studies." Taylor and Francis 2006, page 120.
+121.Jump up ^ "The brahmin by caste alone, the teacher of the Veda, is (jokingly) etymologized as the 'non-meditator' (ajhayaka). Brahmins who have memorized the three Vedas (tevijja) really know nothing: it is the process of achieving Enlightenment � what the Buddha is said to have achieved in the three watches of that night�which constitutes the true 'three knowledges.'" R.F. Gombrich in Paul Williams, ed., "Buddhism: Critical Concepts in Religious Studies." Taylor and Francis 2006, page 120.
 122.Jump up ^ Richard Gombrich, Theravada Buddhism: A Social History from Ancient Benares to Modern Colombo. Routledge and Kegan Paul, 1988, page 85.
 123.Jump up ^ P. 177 The sacred books of the Buddhists compared with history and modern science By Robert Spence Hardy
 124.Jump up ^ Vinaya Pitaka of the Mahavagga (I.245) in P. 494 The Pali-English dictionary By Thomas William Rhys Davids, William Stede
-125.Jump up ^ "Atthako, Vâmako, Vâmadevo, Vessâmitto, Yamataggi, Angiraso, Bhâradvâjo, Vâsettho, Kassapo, and Bhagu" in P. 245 The Vinaya piṭakaṃ: one of the principle Buddhist holy scriptures ..., Volume 1 edited by Hermann Oldenberg
+125.Jump up ^ "Atthako, V�mako, V�madevo, Vess�mitto, Yamataggi, Angiraso, Bh�radv�jo, V�settho, Kassapo, and Bhagu" in P. 245 The Vinaya pi?aka?: one of the principle Buddhist holy scriptures ..., Volume 1 edited by Hermann Oldenberg
 126.Jump up ^ The Vinaya Pitaka's section Anguttara Nikaya: Panchaka Nipata in P. 44 The legends and theories of the Buddhists, compared with history and science By Robert Spence Hardy
 127.Jump up ^ Richard Francis Gombrich, How Buddhism began: the conditioned genesis of the early teachings Continuum International Publishing Group, 1996, pages 38-39
 128.Jump up ^ Michael Carrithers, The Buddha, 1983, pages 41-42. Found in Founders of Faith, Oxford University Press, 1986.
 129.Jump up ^ Alexander Wynne, The Origin of Buddhist Meditation. Routledge 2007, page 21.
-130.Jump up ^ "Even so have I, monks, seen an ancient way, an ancient road followed by the wholly awakened ones of olden time....Along that have I done, and the matters that I have come to know fully as I was going along it, I have told to the monks, nuns, men and women lay-followers, even monks, this Brahma-faring brahmacharya that is prosperous and flourishing, widespread and widely known become popular in short, well made manifest for gods and men." (P. 57 Buddhist Art & Antiquities of Himachal Pradesh, Upto 8th Century A.D. By Omacanda Hāṇḍā)
-131.Jump up ^ . 59 What the Buddha taught by Walpola Rāhula
-132.Jump up ^ Encyclopædia Britannica Online. Vedic religion. Retrieved 19-07-2009.
+130.Jump up ^ "Even so have I, monks, seen an ancient way, an ancient road followed by the wholly awakened ones of olden time....Along that have I done, and the matters that I have come to know fully as I was going along it, I have told to the monks, nuns, men and women lay-followers, even monks, this Brahma-faring brahmacharya that is prosperous and flourishing, widespread and widely known become popular in short, well made manifest for gods and men." (P. 57 Buddhist Art & Antiquities of Himachal Pradesh, Upto 8th Century A.D. By Omacanda Ha??a)
+131.Jump up ^ . 59 What the Buddha taught by Walpola Rahula
+132.Jump up ^ Encyclop�dia Britannica Online. Vedic religion. Retrieved 19-07-2009.
 133.Jump up ^ Warder, A.K. 2000. Indian Buddhism. P.35
 134.^ Jump up to: a b Vetter 1988, p. ix.
 135.Jump up ^ Warder 1999.
@@ -1440,15 +1440,15 @@ References
 166.Jump up ^ Bronkhorst 1993, p. 107.
 167.Jump up ^ Norman 1997, p. 26.
 168.Jump up ^ Norman 1997, p. 28.
-169.Jump up ^ A History of Indian Buddhism — Hirakawa Akira (translated and edited by Paul Groner) - Motilal Banarsidass Publishers, Delhi, 1993, p. 7
+169.Jump up ^ A History of Indian Buddhism � Hirakawa Akira (translated and edited by Paul Groner) - Motilal Banarsidass Publishers, Delhi, 1993, p. 7
 170.Jump up ^ Mitchell, Buddhism, Oxford University Press, 2002, p. 34 & table of contents
 171.Jump up ^ Skorupski, Buddhist Forum, vol I, Heritage, Delhi/SOAS, London, 1990, p. 5; Journal of the International Association of Buddhist Studies, vol 21 (1998), part 1, pp. 4, 11
 172.Jump up ^ see also the book Bones, Stones, and Buddhist Monks, University of Hawai'i Press, by Dr Gregory Schopen
 173.Jump up ^ Encyclopedia of Religion, Macmillan, New York, sv Councils, Buddhist
-174.Jump up ^ Journal of the Pāli Text Society, volume XVI, p. 105
-175.Jump up ^ Janice J. Nattier and Charles S. Prebish, 1977. Mahāsāṅghika Origins: the beginnings of Buddhist sectarianism in History of Religions, Vol. 16, pp. 237–272
+174.Jump up ^ Journal of the Pali Text Society, volume XVI, p. 105
+175.Jump up ^ Janice J. Nattier and Charles S. Prebish, 1977. Mahasa?ghika Origins: the beginnings of Buddhist sectarianism in History of Religions, Vol. 16, pp. 237�272
 176.Jump up ^ Harvey, Introduction to Buddhism, p. 74
-177.^ Jump up to: a b "Abhidhamma Pitaka." Encyclopædia Britannica. Ultimate Reference Suite. Chicago: Encyclopædia Britannica, 2008.
+177.^ Jump up to: a b "Abhidhamma Pitaka." Encyclop�dia Britannica. Ultimate Reference Suite. Chicago: Encyclop�dia Britannica, 2008.
 178.Jump up ^ Encyclopedia of Buddhism. Routledge. p. 485.
 179.^ Jump up to: a b c Keown, Damien (1996). Buddhism: A Very Short Introduction. Oxford University Press. pp. 58, 61. ISBN 978-0-19-285386-8.
 180.Jump up ^ Akira, Hirakawa (translated and edited by Paul Groner) (1993). A History of Indian Buddhism. Delhi: Motilal Banarsidass: p. 260
@@ -1457,38 +1457,38 @@ References
 183.Jump up ^ Nattier, Jan (2003), A few good men: the Bodhisattva path according to the Inquiry of Ugra: p. 193-194
 184.Jump up ^ Williams, Paul (2008) Mahayana Buddhism: The Doctrinal Foundations: p. 4-5
 185.Jump up ^ Williams, Paul (2000) Buddhist Thought: A Complete Introduction to the Indian Tradition: p. 97
-186.Jump up ^ Williams, Paul (2008) Mahāyāna Buddhism: The Doctrinal Foundations: p. 5
-187.Jump up ^ "The most important evidence — in fact the only evidence — for situating the emergence of the Mahayana around the beginning of the common era was not Indian evidence at all, but came from China. Already by the last quarter of the 2nd century CE, there was a small, seemingly idiosyncratic collection of substantial Mahayana sutras translated into what Erik Zürcher calls 'broken Chinese' by an Indoscythian, whose Indian name has been reconstructed as Lokaksema." Macmillan Encyclopedia of Buddhism (2004): p. 492
+186.Jump up ^ Williams, Paul (2008) Mahayana Buddhism: The Doctrinal Foundations: p. 5
+187.Jump up ^ "The most important evidence � in fact the only evidence � for situating the emergence of the Mahayana around the beginning of the common era was not Indian evidence at all, but came from China. Already by the last quarter of the 2nd century CE, there was a small, seemingly idiosyncratic collection of substantial Mahayana sutras translated into what Erik Z�rcher calls 'broken Chinese' by an Indoscythian, whose Indian name has been reconstructed as Lokaksema." Macmillan Encyclopedia of Buddhism (2004): p. 492
 188.Jump up ^ Akira, Hirakawa (translated and edited by Paul Groner) (1993). A History of Indian Buddhism. Delhi: Motilal Banarsidass: p. 263, 268
-189.Jump up ^ "The south (of India) was then vigorously creative in producing Mahayana Sutras" – Warder, A.K. (3rd edn. 1999). Indian Buddhism: p. 335.
+189.Jump up ^ "The south (of India) was then vigorously creative in producing Mahayana Sutras" � Warder, A.K. (3rd edn. 1999). Indian Buddhism: p. 335.
 190.Jump up ^ Akira, Hirakawa (translated and edited by Paul Groner) (1993). A History of Indian Buddhism. Delhi: Motilal Banarsidass: p. 253
-191.Jump up ^ A History of Indian Buddhism — Hirakawa Akira (translated and edited by Paul Groner) - Motilal Banarsidass Publishers, Delhi, 1993, p. 8,9
+191.Jump up ^ A History of Indian Buddhism � Hirakawa Akira (translated and edited by Paul Groner) - Motilal Banarsidass Publishers, Delhi, 1993, p. 8,9
 192.Jump up ^ Peter Harvey, "An Introduction to Buddhism." Cambridge University Press, 1993, page 95.
 193.Jump up ^ Dan Lusthaus, Buddhist Phenomenology. Routledge, 2002, pages 236-237.
 194.Jump up ^ Peter Harvey, "An Introduction to Buddhism." Cambridge University Press, 1993, page 113. "There were no great Indian teachers associated with this strand of thought."
-195.Jump up ^ A History of Indian Buddhism — Hirakawa Akira (translated and edited by Paul Groner) - Motilal Banarsidass Publishers, Delhi, 1993, p. 9
+195.Jump up ^ A History of Indian Buddhism � Hirakawa Akira (translated and edited by Paul Groner) - Motilal Banarsidass Publishers, Delhi, 1993, p. 9
 196.Jump up ^ Gombrich, Theravada Buddhism, Routledge, 2nd ed, 2006, page 135
-197.Jump up ^ Zürcher (1972), pp. 22-27.
+197.Jump up ^ Z�rcher (1972), pp. 22-27.
 198.Jump up ^ Hill (2009), p. 30, for the Chinese text from the Hou Hanshu, and p. 31 for a translation of it.
-199.Jump up ^ Zürcher (1972), p. 23.
+199.Jump up ^ Z�rcher (1972), p. 23.
 200.Jump up ^ Carol E. Henderson, Culture and Customs of India. Greenwood Publishing Group, 2002, page 42.
 201.Jump up ^ Joseph B. Tamney in William H. Swatos, editor, Encyclopedia of Religion and Society. Rowman Altamira, 1998, page 68.
 202.Jump up ^ Subir Bhaumik. "China and India use Buddha for regional karma.". Aljazeera.com. Retrieved 2013-06-18.
 203.Jump up ^ Philosophy East and West, volume 54, page 270
 204.Jump up ^ A. C. Paranjpe (30 September 1998). Self and identity in modern psychology and Indian thought. Springer. p. 351. ISBN 978-0-306-45844-6. Retrieved 10 March 2012.
-205.Jump up ^ Urmilā Pavāra (June 2009). The weave of my life: a Dalit woman's memoirs. Columbia University Press. pp. xv–xviii. ISBN 978-0-231-14900-6. Retrieved 10 March 2012.
-206.Jump up ^ Métraux, Daniel A. (2010). How Soka Gakkai Became a Global Buddhist Movement. Lewiston, NY: The Edwin Mellen Press. p. vi. ISBN 9780773437586.
+205.Jump up ^ Urmila Pavara (June 2009). The weave of my life: a Dalit woman's memoirs. Columbia University Press. pp. xv�xviii. ISBN 978-0-231-14900-6. Retrieved 10 March 2012.
+206.Jump up ^ M�traux, Daniel A. (2010). How Soka Gakkai Became a Global Buddhist Movement. Lewiston, NY: The Edwin Mellen Press. p. vi. ISBN 9780773437586.
 207.Jump up ^ http://www.webpages.uidaho.edu/ngier/307/budhumanism.htm
 208.^ Jump up to: a b c Pew Research Center, Global Religious Landscape: Buddhists.
-209.^ Jump up to: a b Johnson, Todd M.; Grim, Brian J. (2013). The World's Religions in Figures: An Introduction to International Religious Demography. Hoboken, NJ: Wiley-Blackwell. pp. 34–37.
+209.^ Jump up to: a b Johnson, Todd M.; Grim, Brian J. (2013). The World's Religions in Figures: An Introduction to International Religious Demography. Hoboken, NJ: Wiley-Blackwell. pp. 34�37.
 210.^ Jump up to: a b Harvey, Peter (2013). An Introduction to Buddhism: Teachings, History and Practices (2nd ed.). Cambridge, UK: Cambridge University Press. p. 5. ISBN 9780521676748.
 211.Jump up ^ Keown, Buddhism, Oxford University Press, 1996, page 12
 212.Jump up ^ Smith, Buddhism; Juergensmeyer, Oxford Handbook.
 213.Jump up ^ "Tibetan Buddhism". American Heritage Dictionary of the English Language. Houghton Mifflin Company. 2004. Retrieved 2007-07-07.
-214.Jump up ^ (Harvey, 1990); (Gombrich,1984); Gethin (1998), pp. 1–2, identifies "three broad traditions" as: (1) "The Theravāda tradition of Sri Lanka and South-East Asia, also sometimes referred to as 'southern' Buddhism"; (2) "The East Asian tradition of China, Korea, Japan, and Vietnam, also sometimes referred to as 'eastern' Buddhism"; and, (3) "The Tibetan tradition, also sometimes referred to as 'northern' Buddhism."; Robinson & Johnson (1982) divide their book into two parts: Part One is entitled "The Buddhism of South Asia" (which pertains to Early Buddhism in India); and, Part Two is entitled "The Development of Buddhism Outside of India" with chapters on "The Buddhism of Southeast Asia", "Buddhism in the Tibetan Culture Area", "East Asian Buddhism" and "Buddhism Comes West; Penguin handbook of Living Religions, 1984, page 279; Prebish & Keown, Introducing Buddhism, ebook, Journal of Buddhist Ethics, 2005, printed ed, Harper, 2006
+214.Jump up ^ (Harvey, 1990); (Gombrich,1984); Gethin (1998), pp. 1�2, identifies "three broad traditions" as: (1) "The Theravada tradition of Sri Lanka and South-East Asia, also sometimes referred to as 'southern' Buddhism"; (2) "The East Asian tradition of China, Korea, Japan, and Vietnam, also sometimes referred to as 'eastern' Buddhism"; and, (3) "The Tibetan tradition, also sometimes referred to as 'northern' Buddhism."; Robinson & Johnson (1982) divide their book into two parts: Part One is entitled "The Buddhism of South Asia" (which pertains to Early Buddhism in India); and, Part Two is entitled "The Development of Buddhism Outside of India" with chapters on "The Buddhism of Southeast Asia", "Buddhism in the Tibetan Culture Area", "East Asian Buddhism" and "Buddhism Comes West; Penguin handbook of Living Religions, 1984, page 279; Prebish & Keown, Introducing Buddhism, ebook, Journal of Buddhist Ethics, 2005, printed ed, Harper, 2006
 215.Jump up ^ See e.g. the multi-dimensional classification in Encyclopedia of Religion, Macmillan, New York, 1987, volume 2, pages 440ff
 216.Jump up ^ A Comparative Study of the Schools, Tan Swee Eng
-217.Jump up ^ Cousins, L.S. (1996); Buswell (2003), Vol. I, p. 82; and, Keown & Prebish (2004), p. 107. See also, Gombrich (1988/2002), p. 32: “…[T]he best we can say is that [the Buddha] was probably Enlightened between 550 and 450, more likely later rather than earlier."
+217.Jump up ^ Cousins, L.S. (1996); Buswell (2003), Vol. I, p. 82; and, Keown & Prebish (2004), p. 107. See also, Gombrich (1988/2002), p. 32: ��[T]he best we can say is that [the Buddha] was probably Enlightened between 550 and 450, more likely later rather than earlier."
 218.Jump up ^ Williams (2000, pp. 6-7) writes: "As a matter of fact Buddhism in mainland India itself had all but ceased to exist by the thirteenth century CE, although by that time it had spread to Tibet, China, Japan, and Southeast Asia." Embree et al. (1958/1988), "Chronology," p. xxix: "c. 1000-1200: Buddhism disappears as [an] organized religious force in India." See also, Robinson & Johnson (1970/1982), pp. 100-1, 108 Fig. 1; and, Harvey (1990/2007), pp. 139-40.
 219.Jump up ^ Gethin, Foundations, page 1
 220.Jump up ^ Hawkins, p. 88.
@@ -1513,8 +1513,8 @@ References
 239.Jump up ^ Gethin 1998, p. 65-66.
 240.Jump up ^ Keown 2000, Kindle Locations 361-372.
 241.Jump up ^ Pinburn 1990, p. 101.
-242.Jump up ^ Pyysiäinen, Ilkka (2003). "Buddhism, Religion, and the Concept of "God"". Man 50 (2): 147–171. doi:10.1163/156852703321506141. JSTOR 3270517.
-243.Jump up ^ Southwold, Martin (Sep 1978). "Buddhism and The Definition of Religion". Man 13 (3): 362–379. doi:10.2307/2801935. JSTOR 2801935.
+242.Jump up ^ Pyysi�inen, Ilkka (2003). "Buddhism, Religion, and the Concept of "God"". Man 50 (2): 147�171. doi:10.1163/156852703321506141. JSTOR 3270517.
+243.Jump up ^ Southwold, Martin (Sep 1978). "Buddhism and The Definition of Religion". Man 13 (3): 362�379. doi:10.2307/2801935. JSTOR 2801935.
 244.Jump up ^ Walpola Rahula 2007, Kindle Locations 316-323.
 245.Jump up ^ "Is Buddhism a Religion?". The Huffington Post. August 6, 2010. Retrieved April 24, 2013.
 246.^ Jump up to: a b http://www.the-philosopher.co.uk/buddhism.htm
@@ -1523,22 +1523,22 @@ Bibliography
 
 ##Ajahn Sucitto (2010). "Turning the Wheel of Truth: Commentary on the Buddha's First Teaching". Shambhala
 ##Armstrong, Karen (2001). Buddha. Penguin Books. p. 187. ISBN 0-14-303436-7.
-##Bareau, André (1955). 'Les Sectes bouddhiques du Petit Véhicule. Saigon: École Française d'Extrême-Orient.
+##Bareau, Andr� (1955). 'Les Sectes bouddhiques du Petit V�hicule. Saigon: �cole Fran�aise d'Extr�me-Orient.
 ##Bechert, Heinz & Richard Gombrich (ed.) (1984). The World of Buddhism, Thames & Hudson.
 ##Bronkhorst, Johannes (1993), The Two Traditions Of Meditation In Ancient India, Motilal Banarsidass Publ.
 ##Bronkhorst, Johannes (1998), "Did the Buddha Believe in Karma and Rebirth?", Journal of the International Association of Buddhist Studies, Volume 21, Number 1, 1998
 ##Buswell, Robert E. (ed.) (2003). Encyclopedia of Buddhism. MacMillan Reference Books. ISBN 978-0-02-865718-9.
 ##Coogan, Michael D. (ed.) (2003). The Illustrated Guide to World Religions. Oxford University Press. ISBN 1-84483-125-6.
-##Cousins, L. S. (1996). "The Dating of the Historical Buddha: A Review Article". Journal of the Royal Asiatic Society. Series 3 (6.1): 57–63. doi:10.1017/S1356186300014760. Retrieved 2007-07-11.; reprinted in Williams, Buddhism, volume I; NB in the online transcript a little text has been accidentally omitted: in section 4, between "... none of the other contributions in this section envisage a date before 420 B.C." and "to 350 B.C." insert "Akira Hirakawa defends the short chronology and Heinz Bechert himself sets a range from 400 B.C."
+##Cousins, L. S. (1996). "The Dating of the Historical Buddha: A Review Article". Journal of the Royal Asiatic Society. Series 3 (6.1): 57�63. doi:10.1017/S1356186300014760. Retrieved 2007-07-11.; reprinted in Williams, Buddhism, volume I; NB in the online transcript a little text has been accidentally omitted: in section 4, between "... none of the other contributions in this section envisage a date before 420 B.C." and "to 350 B.C." insert "Akira Hirakawa defends the short chronology and Heinz Bechert himself sets a range from 400 B.C."
 ##Davidson, Ronald M. (2003). Indian Esoteric Buddhism: A Social History of the Tantric Movement. New York: Columbia University Press. ISBN 0-231-12619-0.
-##de Give, Bernard (2006). Les rapports de l'Inde et de l'Occident des origines au règne d'Asoka. Les Indes savants. ISBN 2-84654-036-5.
-##Donath, Dorothy C. (1971). Buddhism for the West: Theravāda, Mahāyāna and Vajrayāna; a comprehensive review of Buddhist history, philosophy, and teachings from the time of the Buddha to the present day. Julian Press. ISBN 0-07-017533-0.
+##de Give, Bernard (2006). Les rapports de l'Inde et de l'Occident des origines au r�gne d'Asoka. Les Indes savants. ISBN 2-84654-036-5.
+##Donath, Dorothy C. (1971). Buddhism for the West: Theravada, Mahayana and Vajrayana; a comprehensive review of Buddhist history, philosophy, and teachings from the time of the Buddha to the present day. Julian Press. ISBN 0-07-017533-0.
 ##Dzongsar Jamyang Khyentse (2011). "What Makes You Not a Buddhist". Shambhala, Kindle Edition
 ##Embree, Ainslie T. (ed.), Stephen N. Hay (ed.), Wm. Theodore de Bary (ed.), A.L. Bashram, R.N. Dandekar, Peter Hardy, J.B. Harrison, V. Raghavan, Royal Weiler, and Andrew Yarrow (1958; 2nd ed. 1988). Sources of Indian Tradition: From the Beginning to 1800 (vol. 1). NY: Columbia U. Press. ISBN 0-231-06651-1.
 ##Gethin, Rupert (1998). Foundations of Buddhism. Oxford University Press. ISBN 0-19-289223-1
 ##Goldstein, Joseph (2002). "One Dharma: The Emerging Western Buddhism". HarperCollins
 ##Goleman, Daniel (2008). Destructive Emotions: A Scientific Dialogue with the Dalai Lama. Bantam. Kindle Edition.
-##Gombrich, Richard F. (1988; 6th reprint, 2002). Theravāda Buddhism: A Social History from Ancient Benares to Modern Colombo (London: Routledge). ISBN 0-415-07585-8.
+##Gombrich, Richard F. (1988; 6th reprint, 2002). Theravada Buddhism: A Social History from Ancient Benares to Modern Colombo (London: Routledge). ISBN 0-415-07585-8.
 ##Gombrich, Richard F. (1997), How Buddhism Began, Munshiram Manoharlal
 ##Gunaratana, Bhante Henepola (2002). Mindfulness in Plain English. Wisdom Publications. ISBN 0-86171-321-4. Also available on this websites: saigon.com urbandharma.org vipassana.com
 ##Gyatso, Geshe Kelsang. Introduction to Buddhism: An Explanation of the Buddhist Way of Life, Tharpa Publications (2nd. ed., 2001, US ed. 2008) ISBN 978-0-9789067-7-1
@@ -1552,7 +1552,7 @@ Bibliography
 ##Keown, Damien and Charles S Prebish (eds.) (2004). Encyclopedia of Buddhism (London: Routledge). ISBN 978-0-415-31414-5.
 ##Kohn, Michael H. (trans.) (1991). The Shambhala Dictionary of Buddhism and Zen. Shambhala. ISBN 0-87773-520-4.
 ##Lama Surya Das (1997). "Awakening the Buddha Within". Broadway Books, Kindle Edition
-##Lamotte, Étienne (trans. from French) (1976). Teaching of Vimalakirti. trans. Sara Boin. London: Pali Text Society. XCIII. ISBN 0-7100-8540-0.
+##Lamotte, �tienne (trans. from French) (1976). Teaching of Vimalakirti. trans. Sara Boin. London: Pali Text Society. XCIII. ISBN 0-7100-8540-0.
 ##Lopez, Donald S. (1995), Buddhism in Practice, Princeton University Press, ISBN 0-691-04442-2
 ##Lopez, Donald S. (2001). "The Story of Buddhism". HarperCollins
 ##Lowenstein, Tom (1996). The Vision of the Buddha. Duncan Baird Publishers. ISBN 1-903296-91-9.
@@ -1564,14 +1564,14 @@ Bibliography
 ##Ranjini. Jewels of the Doctrine. Buddhist Stories of the Thirteenth Century (Sri Satguru Publications). ISBN 0-7914-0490-0.
 ##Robinson, Richard H. and Willard L. Johnson (1970; 3rd ed., 1982). The Buddhist Religion: A Historical Introduction (Belmont, California: Wadsworth Publishing). ISBN 0-534-01027-X.
 ##Ito, Shinjo (2009). Shinjo:Reflections. Somerset Hall Press. ISBN 1-935244-00-0.
-##Sinha, H.P. (1993). Bhāratīya Darshan kī rūprekhā (Features of Indian Philosophy). Motilal Banarasidas Publ. ISBN 81-208-2144-0.
+##Sinha, H.P. (1993). Bharatiya Darshan ki ruprekha (Features of Indian Philosophy). Motilal Banarasidas Publ. ISBN 81-208-2144-0.
 ##Skilton, Andrew (1997). A Concise History of Buddhism. Windhorse Publications. ISBN 0-904766-92-6.
 ##Smith, Huston; Phillip Novak (2003). Buddhism: A Concise Introduction. HarperSanFrancisco. ISBN 978-0-06-073067-3.
 ##Thanissaro Bhikkhu (2001). Refuge: An Introduction to the Buddha, Dhamma, & Sangha (3rd ed., rev.).
 ##Thich Nhat Hanh (1974). "The Heart of the Buddha's Teaching". Broadway Books. ISBN 0-7679-0369-2.
 ##Thurman, Robert A. F. (translator) (1976). Holy Teaching of Vimalakirti: Mahayana Scripture. Pennsylvania State University Press. ISBN 0-271-00601-3.
 ##Walpola Rahula (1974). What the Buddha Taught. Grove Press. ISBN 955-9219-19-7.
-##Schmithausen, Lambert (1981), On some Aspects of Descriptions or Theories of 'Liberating Insight' and 'Enlightenment' in Early Buddhism". In: Studien zum Jainismus und Buddhismus (Gedenkschrift für Ludwig Alsdorf), hrsg. von Klaus Bruhn und Albrecht Wezler, Wiesbaden 1981, 199-250
+##Schmithausen, Lambert (1981), On some Aspects of Descriptions or Theories of 'Liberating Insight' and 'Enlightenment' in Early Buddhism". In: Studien zum Jainismus und Buddhismus (Gedenkschrift f�r Ludwig Alsdorf), hrsg. von Klaus Bruhn und Albrecht Wezler, Wiesbaden 1981, 199-250
 ##Schmithausen, Lambert (1986), Critical Response. In: Ronald W. Neufeldt (ed.), "Karma and rebirth: Post-classical developments", SUNY
 ##Vetter, Tilmann (1988), The Ideas and Meditative Practices of Early Buddhism, BRILL
 ##Walpola Rahula (2007). "What the Buddha Taught". Grove Press. Kindle Edition
@@ -1582,7 +1582,7 @@ Bibliography
 ##Williams, Paul with Anthony Tribe (2000). Buddhist Thought (London: Routledge). ISBN 0-415-20701-0. Retrieved 29 Nov 2008 from "Google Books".
 ##Yamamoto, Kosho (translation), revised and edited by Dr. Tony Page. The Mahayana Mahaparinirvana Sutra. (Nirvana Publications 1999-2000).
 ##Yin Shun, Yeung H. Wing (translator) (1998). The Way to Buddhahood: Instructions from a Modern Chinese Master. Wisdom Publications. ISBN 0-86171-133-5.
-##Zürcher, E. (1972). The Buddhist Conquest of China. Leiden. E. J. Brill. First published in 1959.
+##Z�rcher, E. (1972). The Buddhist Conquest of China. Leiden. E. J. Brill. First published in 1959.
 
 Online
 
@@ -1594,14 +1594,14 @@ External links
 
  Wikiquote has quotations related to: Buddhism 
 
- Wikisource has the text of the 1911 Encyclopædia Britannica article Buddhism. 
+ Wikisource has the text of the 1911 Encyclop�dia Britannica article Buddhism. 
 
  Wikimedia Commons has media related to Buddhism. 
 
  Wikiversity has learning materials about Buddha oracle# Buddhism 
 ##Frequently Asked Questions About Buddhism
 ##Religion and Spirituality: Buddhism at Open Directory Project
-##"Buddhism — objects, art and history". Asia. Victoria and Albert Museum. Retrieved 2007-12-06.
+##"Buddhism � objects, art and history". Asia. Victoria and Albert Museum. Retrieved 2007-12-06.
 ##Buddhist texts at Sacred Texts.com
 ##Buddhism in various languages
 ##The Future of Buddhism series, from Patheos
@@ -1610,8 +1610,8 @@ External links
 
 
 [show] 
-v · 
- t · 
+v � 
+ t � 
  e
   
 
@@ -2432,8 +2432,8 @@ Buddhism by country
 
 
 [show] 
-v · 
- t · 
+v � 
+ t � 
  e
   
 
@@ -2477,8 +2477,8 @@ Wikiquote page
 
 
 [show] 
-v · 
- t · 
+v � 
+ t � 
  e
   
 
@@ -3062,177 +3062,177 @@ Languages
 
 Afrikaans
 Alemannisch
-አማርኛ
-Ænglisc
-العربية
-Aragonés
+????
+�nglisc
+???????
+Aragon�s
 Arpetan
-অসমীয়া
+???????
 Asturianu
-Azərbaycanca
-বাংলা
+Az?rbaycanca
+?????
 Bahasa Banjar
-Bân-lâm-gú
+B�n-l�m-g�
 Basa Banyumasan
-Башҡортса
-Беларуская
-Беларуская (тарашкевіца)‎
+?????????
+??????????
+?????????? (???????????)?
 Bikol Central
 Bislama
-Български
+?????????
 Boarisch
-བོད་ཡིག
+???????
 Bosanski
 Brezhoneg
-Буряад
-Català
+??????
+Catal�
 Cebuano
-Čeština
+Ce�tina
 Corsu
 Cymraeg
 Dansk
 Deutsch
 Eesti
-Ελληνικά
-Español
+????????
+Espa�ol
 Esperanto
 Euskara
-فارسی
+?????
 Fiji Hindi
-Føroyskt
-Français
+F�royskt
+Fran�ais
 Frysk
 Furlan
 Gaeilge
-Gàidhlig
+G�idhlig
 Galego
-贛語
-ગુજરાતી
-客家語/Hak-kâ-ngî
-Хальмг
-한국어
+??
+???????
+???/Hak-k�-ng�
+??????
+???
 Hawai`i
-Հայերեն
-हिन्दी
+???????
+??????
 Hrvatski
 Ido
 Ilokano
-বিষ্ণুপ্রিয়া মণিপুরী
+????????????? ???????
 Bahasa Indonesia
 Interlingua
 Interlingue
-Ирон
+????
 IsiZulu
-Íslenska
+�slenska
 Italiano
-עברית
-ಕನ್ನಡ
-ქართული
-Қазақша
+?????
+?????
+???????
+???????
 Kernowek
 Kiswahili
-Kreyòl ayisyen
-Kurdî
-Кыргызча
+Krey�l ayisyen
+Kurd�
+????????
 Ladino
-Лезги
-ລາວ
+?????
+???
 Latina
-Latviešu
-Lëtzebuergesch
-Lietuvių
+Latvie�u
+L�tzebuergesch
+Lietuviu
 Ligure
 Limburgs
 Lojban
 Lumbaart
 Magyar
-Македонски
-മലയാളം
+??????????
+??????
 Malti
-मराठी
-مصرى
-مازِرونی
+?????
+????
+????????
 Bahasa Melayu
 Baso Minangkabau
-Mìng-dĕ̤ng-ngṳ̄
-Mirandés
-Монгол
-မြန်မာဘာသာ
+M�ng-de?ng-ng?�
+Mirand�s
+??????
+??????????
 Nederlands
 Nedersaksies
-नेपाली
-नेपाल भाषा
-日本語
-Нохчийн
+??????
+????? ????
+???
+???????
 Norfuk / Pitkern
-Norsk bokmål
+Norsk bokm�l
 Norsk nynorsk
 Novial
 Occitan
-ଓଡ଼ିଆ
-Oʻzbekcha
-ਪੰਜਾਬੀ
-پنجابی
+?????
+O?zbekcha
+??????
+??????
 Papiamentu
-پښتو
-ភាសាខ្មែរ
-Piemontèis
+????
+?????????
+Piemont�is
 Tok Pisin
-Plattdüütsch
+Plattd��tsch
 Polski
-Português
+Portugu�s
 Qaraqalpaqsha
-Română
+Rom�na
 Rumantsch
 Runa Simi
-Русиньскый
-Русский
-Саха тыла
-Sámegiella
-संस्कृतम्
+??????????
+???????
+???? ????
+S�megiella
+?????????
 Sardu
 Scots
 Sesotho sa Leboa
 Shqip
 Sicilianu
-සිංහල
+?????
 Simple English
-Slovenčina
-Slovenščina
-کوردی
-Српски / srpski
-Srpskohrvatski / српскохрватски
+Slovencina
+Sloven�cina
+?????
+?????? / srpski
+Srpskohrvatski / ??????????????
 Basa Sunda
 Suomi
 Svenska
 Tagalog
-தமிழ்
-Татарча/tatarça
-తెలుగు
-ไทย
-Тоҷикӣ
-Türkçe
-Türkmençe
-Українська
-اردو
-ئۇيغۇرچە / Uyghurche
-Vèneto
-Vepsän kel’
-Tiếng Việt
-Võro
-文言
+?????
+???????/tatar�a
+??????
+???
+??????
+T�rk�e
+T�rkmen�e
+??????????
+????
+???????? / Uyghurche
+V�neto
+Veps�n kel�
+Ti?ng Vi?t
+V�ro
+??
 Winaray
-吴语
-ייִדיש
-Yorùbá
-粵語
-Žemaitėška
-中文
+??
+??????
+Yor�b�
+??
+�emaite�ka
+??
 
 Edit links
 
 This page was last modified on 31 January 2015, at 19:37.
-Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia� is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
 Privacy policy
 About Wikipedia
 Disclaimers
