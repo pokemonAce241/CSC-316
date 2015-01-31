@@ -184,7 +184,7 @@ public class BinarySearch extends Heuristic {
 		 * in the list. Once changed it returns the new object it now represents. Otherwise
 		 * if the next node is null it throws a NoSuchElementException. 
 		 * 
-		 * @return The next WordWithCount object in the list.
+		 * @return toReturn The next WordWithCount object in the list.
 		 * 
 		 * @throws NoSuchElementException if their is no WordWithCount object in the current nodes
 		 * next node.
