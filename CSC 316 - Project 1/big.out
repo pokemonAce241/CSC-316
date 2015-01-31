@@ -1,0 +1,105 @@
+Time for Baseline =   0.5100000000000000
+Baseline:
+
+Time for Naive =   7.3410000000000000
+Naive:
+ 406 united
+ 467 states
+ 358 from
+  23 wikipedia
+4970 the
+  34 free
+  19 encyclopedia
+1330 jump
+ 928 to
+   9 navigation
+
+Time for MoveToFront =   5.2660000000000000
+MoveToFront:
+   3 mediawiki
+ 477 by
+   7 powered
+  22 foundation
+  12 wikimedia
+  18 view
+   8 mobile
+   3 developers
+  23 wikipedia
+   9 contact
+
+Time for Transpose =  13.2070000000000000
+Transpose:
+2288 and
+4970 the
+2939 of
+ 949 s
+1889 in
+ 928 to
+1366 up
+ 477 by
+ 931 a
+1330 jump
+
+Time for AccessCount =   3.7110000000000000
+AccessCount:
+4970 the
+2939 of
+2288 and
+1889 in
+1366 up
+1330 jump
+ 949 s
+ 931 a
+ 928 to
+ 824 retrieved
+
+Time for BinarySearch =   0.2550000000000000
+BinarySearch:
+ 216 0
+   4 00
+  85 000
+   1 0004
+   1 00053
+   1 00062510
+   1 0007
+   1 00072
+   1 0019
+   1 002
+
+Time for SortAtEnd = 1138.8630000000000000
+SortAtEnd:
+ 216 0
+   4 00
+  85 000
+   1 0004
+   1 00053
+   1 00062510
+   1 0007
+   1 00072
+   1 0019
+   1 002
+
+Time for MapWords =   0.1760000000000000
+MapWords:
+ 216 0
+   4 00
+  85 000
+   1 0004
+   1 00053
+   1 00062510
+   1 0007
+   1 00072
+   1 0019
+   1 002
+
+Runtime is in milliseconds, the rest are in microseconds
+Heuristic             lookups  comparisons  comp/LU    time   time/LU time/comp
+--------------------------------------------------------------------------------
+Baseline                85484        85484     1.00   510.0    5.9660   5.96603
+Naive                   85484    176251860  2061.81  7341.0   85.8757   0.04165
+MoveToFront             85484    123783069  1448.03  5266.0   61.6022   0.04254
+Transpose               85484    173078276  2024.69 13207.0  154.4967   0.07631
+AccessCount             85484    125051914  1462.87  3711.0   43.4116   0.02968
+BinarySearch            85484      1478583    17.30   255.0    2.9830   0.17246
+SortAtEnd               85484  -1282420337 -15001.88 1138863.0 13322.5282  -0.88806
+MapWords                85484      1824897    21.35   176.0    2.0589   0.09644
