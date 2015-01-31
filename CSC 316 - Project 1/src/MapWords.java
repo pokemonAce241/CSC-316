@@ -6,7 +6,7 @@ import java.util.TreeMap;
  *word in a tree map using each text word as a key with a word count object
  *as a value. 
  * 
- * @author 
+ * @author Gitesh Agarwal, Mohammed Saleh, Jason Benckert 
  *
  */
 public class MapWords extends Heuristic {

@@ -6,7 +6,7 @@ import java.util.NoSuchElementException;
  * the end of a word list. Afterwards the list is sorted out and every duplicate
  * word is merged into one word with appropriate word count.
  * 
- * @author pokemonace241
+ * @author Gitesh Agarwal, Mohammed Saleh, Jason Benckert
  * 
  */
 public class SortAtEnd extends Heuristic {
