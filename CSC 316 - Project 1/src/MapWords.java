@@ -11,6 +11,10 @@ import java.util.TreeMap;
  */
 public class MapWords extends Heuristic {
 
+	/**
+	 * The tree map that stores and manages the WordWithCount objects
+	 * passed into it.
+	 */
 	TreeMap<String, WordWithCount> map;
 
 	/**

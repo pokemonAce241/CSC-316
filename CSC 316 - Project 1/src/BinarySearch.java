@@ -151,15 +151,29 @@ public class BinarySearch extends Heuristic {
 	 * this iterator. No copy of the list is made, so any changes to the list
 	 * are reflected in the iterator.
 	 * 
+	 * @param <E> the type of object to be used in the iterator.
+	 * 
 	 * @author Michael Goodrich, Eric Zamore, Roberto Tamassia, Matt Stallmann,
 	 *         Specialized for Array Lists by Gitesh Agarwal
 	 */
 	public class ArrayIterator<E> implements Iterator<E> {
 
+		/**
+		 * The list that holds the WordWithCount objects.
+		 */
 		private E[] list; // the underlying list
+		/**
+		 * The next position in the list when traversing it.
+		 */
 		private int cursor; // the next position
 
-		/** Creates an element iterator over the given list. */
+		
+		/**
+		 * The constructor for the iterator in this class.
+		 * 
+		 * @param L The list of WordWithCount objects for the 
+		 * iterator to use.
+		 */
 		public ArrayIterator(E[] L) {
 			list = L;
 			cursor = (count == 0) ? null : 0;
@@ -201,7 +215,7 @@ public class BinarySearch extends Heuristic {
 		 * Throws an {@link UnsupportedOperationException} in all cases, because
 		 * removal is not a supported operation in this iterator.
 		 * 
-		 *  @throws UnsuppotredException whenever this method is used.
+		 *  @throws UnsupportedOperationException whenever this method is used.
 		 */
 		public void remove() throws UnsupportedOperationException {
 			throw new UnsupportedOperationException("remove");
