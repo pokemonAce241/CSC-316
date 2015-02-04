@@ -2,7 +2,7 @@
  * A heuristic class that takes a text word and moves that word to the front on
  * the List
  * 
- * @author Gitesh Agarwal, Mohammed Saleh, Jason Benckert
+ * @author Gitesh Agarwal, Mohamad Saleh, Jason Benckert
  * 
  */
 public class MoveToFront extends Naive {

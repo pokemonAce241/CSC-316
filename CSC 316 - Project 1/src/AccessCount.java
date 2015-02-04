@@ -2,7 +2,8 @@
  *A heuristic class that takes a text word, adds it to the front, and keeps
  *moving the word up until it finds word with a equal or greater word count
  *so that the list can be sorted by decreasing word count.
- * @author Gitesh Agarwal, Mohammed Saleh, Jason Benckert
+ * 
+ * @author Gitesh Agarwal, Mohamad Saleh, Jason Benckert
  *
  */
 public class AccessCount extends Naive {

@@ -3,7 +3,7 @@
  * counter with the text word before it in the list unless it is a new word
  * being added to the list.
  * 
- * @author Gitesh Agarwal, Mohammed Saleh, Jason Benckert
+ * @author Gitesh Agarwal, Mohamad Saleh, Jason Benckert
  * 
  */
 public class Transpose extends Naive {

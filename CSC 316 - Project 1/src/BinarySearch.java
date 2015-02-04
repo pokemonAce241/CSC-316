@@ -6,7 +6,7 @@ import java.util.NoSuchElementException;
  * and adds it to a word list by using a binary search in order
  * to place the word in the proper place in the list. 
  * 
- * @author Gitesh Agarwal, Mohammed Saleh, Jason Benckert
+ * @author Gitesh Agarwal, Mohamad Saleh, Jason Benckert
  *
  */
 public class BinarySearch extends Heuristic {
