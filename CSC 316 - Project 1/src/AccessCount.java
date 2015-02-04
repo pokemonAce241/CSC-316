@@ -28,7 +28,7 @@ public class AccessCount extends Naive {
 	 * Afterwards it uses its transpose method to make the needed changes
 	 * to the words list count.
 	 * 
-	 * @node a node representation of a text word that is used to update 
+	 * @param node representation of a text word that is used to update 
 	 * the list in increasing order of word count.
 	 */
 	protected void updateList(DNode<WordWithCount> node) {
