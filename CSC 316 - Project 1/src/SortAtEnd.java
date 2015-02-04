@@ -38,7 +38,7 @@ public class SortAtEnd extends Heuristic {
 	 * 
 	 * @param inputFileName
 	 *            the name of the file that is needed to allow the class to
-	 *            create a scanner to recieve information from the specific
+	 *            create a scanner to receive information from the specific
 	 *            file.
 	 */
 	public SortAtEnd(String inputFileName) {
@@ -137,6 +137,9 @@ public class SortAtEnd extends Heuristic {
 	}
 
 	/**
+	 * Returns the final result of the list with all words from the
+	 * file properly added and sorted.
+	 * 
 	 * @return an iterator for the list of WordWithCount objects.
 	 */
 	@Override

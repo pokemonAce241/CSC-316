@@ -13,7 +13,7 @@ public class MoveToFront extends Naive {
 	 * 
 	 * @param inputFileName
 	 *            the name of the file that is needed to allow the class to
-	 *            create a scanner to recieve information from the specific
+	 *            create a scanner to receive information from the specific
 	 *            file.
 	 */
 	public MoveToFront(String inputFileName) {

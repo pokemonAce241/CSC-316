@@ -24,7 +24,7 @@ public class Transpose extends Naive {
 	/**
 	 * Updates the list in the class so that it takes a node parameter
 	 * representation of a text word and swaps it count with the word before it
-	 * were afterwords it increments its count. If the word is new it simply
+	 * were afterwards it increments its count. If the word is new it simply
 	 * adds the word to the front of the list.
 	 * 
 	 * @param node

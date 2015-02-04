@@ -139,6 +139,9 @@ public class BinarySearch extends Heuristic {
 	}
 
 	/**
+	 * Returns the final result of the list with all words from the
+	 * file properly added and sorted.
+	 * 
 	 * @return an iterator for the list of WordWithCount objects.
 	 */
 	@Override
