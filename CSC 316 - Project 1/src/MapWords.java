@@ -43,7 +43,9 @@ public class MapWords extends Heuristic {
 	/**
 	 * This either adds a new word key or increases the word count of a 
 	 * word object in a word key depending on wither the word in already
-	 * in the list or is a new word. 
+	 * in the list or is a new word.
+	 *  
+	 *  
 	 */
 	protected void lookup(String word) {
 		if (map.containsKey(word)) {
