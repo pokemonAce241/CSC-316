@@ -73,25 +73,48 @@ public class SortAtEnd extends Heuristic {
 	 * count.
 	 */
 	protected void postProcess() {
-		sort();
+		list = sort(list);
 		merge();
 	}
 
 	/**
-	 * Sorts all the words in the list in descending order.
+	 * Sorts all the words in the list in ascending order.
 	 */
-	private void sort() {
-		for (int i = 0; i < count; i++) {
-			for (int j = 0; j < count - 1; j++) {
-				int comp = super.compareWords(list[j].getWord(),
-						list[j + 1].getWord());
-				if (comp > 0) {
-					WordWithCount temp = list[j];
-					list[j] = list[j + 1];
-					list[j + 1] = temp;
-				}
+	private WordWithCount[] sort(WordWithCount[] ls) {
+		if (ls.length <= 1) {
+			return ls;
+		} else
+			return mergeList(sort(split(ls)), sort(ls));
+	}
+
+	private WordWithCount[] mergeList(WordWithCount[] L1, WordWithCount[] L2) {
+		WordWithCount[] wwc = new WordWithCount[L1.length + L2.length];
+		int j = 0; // L1 Iterator
+		int k = 0; // L2 Iterator
+		for (int i = 0; i < wwc.length; i++) {
+			int c = super.compareWords(L2[j].getWord(), L1[k].getWord());
+			if (c > 0) {
+				wwc[i] = L1[j];
+				j++;
+			} else {
+				wwc[i] = L2[k];
+				k++;
 			}
 		}
+		return wwc;
+	}
+
+	private WordWithCount[] split(WordWithCount[] ls) {
+		int half = ls.length / 2;
+		WordWithCount[] temp = new WordWithCount[half];
+		WordWithCount[] wwc = new WordWithCount[ls.length - half];
+		for (int i = 0; i < ls.length - half; i++) {
+			if (i < half)
+				temp[i] = ls[i];
+			wwc[i] = ls[half + i];
+		}
+		ls = temp;
+		return wwc;
 	}
 
 	/**
@@ -137,8 +160,8 @@ public class SortAtEnd extends Heuristic {
 	}
 
 	/**
-	 * Returns the final result of the list with all words from the
-	 * file properly added and sorted.
+	 * Returns the final result of the list with all words from the file
+	 * properly added and sorted.
 	 * 
 	 * @return an iterator for the list of WordWithCount objects.
 	 */
@@ -152,7 +175,8 @@ public class SortAtEnd extends Heuristic {
 	 * this iterator. No copy of the list is made, so any changes to the list
 	 * are reflected in the iterator.
 	 * 
-	 * @param <E> the type of object to be used in the iterator.
+	 * @param <E>
+	 *            the type of object to be used in the iterator.
 	 * 
 	 * @author Michael Goodrich, Eric Zamore, Roberto Tamassia, Matt Stallmann,
 	 *         Specialized for Array Lists by Gitesh Agarwal
@@ -171,21 +195,21 @@ public class SortAtEnd extends Heuristic {
 		/**
 		 * The constructor for the iterator in this class.
 		 * 
-		 * @param L The list of WordWithCount objects for the 
-		 * iterator to use.
+		 * @param L
+		 *            The list of WordWithCount objects for the iterator to use.
 		 */
 		public ArrayIterator(E[] L) {
 			list = L;
-			cursor = (count == 0) ? null : 0;
+			cursor = 0;
 		}
 
-		
-		/** 
-		 *This checks if the current node in the iterator has a another node in its
-		 *next node and returns true or false depending on whether it does or not. 
+		/**
+		 * This checks if the current node in the iterator has a another node in
+		 * its next node and returns true or false depending on whether it does
+		 * or not.
 		 * 
-		 * @return True or false depending on if the current node in the iterator has 
-		 * a null next node.
+		 * @return True or false depending on if the current node in the
+		 *         iterator has a null next node.
 		 */
 		public boolean hasNext() {
 			if (cursor < count)
@@ -194,23 +218,23 @@ public class SortAtEnd extends Heuristic {
 				return false;
 		}
 
-		
-		
 		/**
-		 * If the iterator has non null next it move over to represent its next list node
-		 * in the list. Once changed it returns the new object it now represents. Otherwise
-		 * if the next node is null it throws a NoSuchElementException. 
+		 * If the iterator has non null next it move over to represent its next
+		 * list node in the list. Once changed it returns the new object it now
+		 * represents. Otherwise if the next node is null it throws a
+		 * NoSuchElementException.
 		 * 
 		 * @return toReturn The next WordWithCount object in the list.
 		 * 
-		 * @throws NoSuchElementException if their is no WordWithCount object in the current nodes
-		 * next node.
+		 * @throws NoSuchElementException
+		 *             if their is no WordWithCount object in the current nodes
+		 *             next node.
 		 */
 		public E next() throws NoSuchElementException {
 			if (!hasNext())
 				throw new NoSuchElementException("No next element");
 			E toReturn = list[cursor];
-			cursor = (cursor == count) ? null : cursor + 1;
+			cursor++;
 			return toReturn;
 		}
 
@@ -219,7 +243,8 @@ public class SortAtEnd extends Heuristic {
 		 * Throws an {@link UnsupportedOperationException} in all cases, because
 		 * removal is not a supported operation in this iterator.
 		 * 
-		 * @throws UnsupportedOperationException whenever this method is used.
+		 * @throws UnsupportedOperationException
+		 *             whenever this method is used.
 		 * 
 		 */
 		public void remove() throws UnsupportedOperationException {

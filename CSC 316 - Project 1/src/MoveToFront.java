@@ -30,7 +30,7 @@ public class MoveToFront extends Naive {
 	 *            the list if new and/or has its count incremented in the list.
 	 */
 	protected void updateList(DNode<WordWithCount> node) {
-		if (node.getPrev().getEntry() != null) {
+		if (super.list.hasPrev(node.getPrev())) {
 			// Set Previous Node to Next Node
 			node.getPrev().setNext(node.getNext());
 			// Set Next Node to Previous Node
