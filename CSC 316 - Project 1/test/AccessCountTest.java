@@ -1,11 +1,9 @@
-package Test;
-
 import static org.junit.Assert.*;
 
 import org.junit.Before;
 import org.junit.Test;
 
-public class TransposeTest {
+public class AccessCountTest {
 
 	@Before
 	public void setUp() throws Exception {
@@ -17,7 +15,7 @@ public class TransposeTest {
 	}
 
 	@Test
-	public void testTranspose() {
+	public void testAccessCount() {
 		fail("Not yet implemented");
 	}
 

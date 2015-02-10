@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
@@ -11,26 +12,7 @@ import java.util.NoSuchElementException;
  */
 public class SortAtEnd extends Heuristic {
 
-	/**
-	 * The starting size of the list when first initialized.
-	 */
-	public static final int INITIAL_SIZE = 10;
-
-	/**
-	 * This array stores all text words found in the file.
-	 */
-	private WordWithCount[] list;
-
-	/**
-	 * This represents the overall size of the list.
-	 */
-	private int size;
-
-	/**
-	 * Representation of the word count to help with incrementing the count of a
-	 * word in the list.
-	 */
-	private int count;
+	private AList list;
 
 	/**
 	 * constructor for SortAtEnd class that creates a new input Scanner from a
@@ -50,9 +32,7 @@ public class SortAtEnd extends Heuristic {
 	 * words are added to the list.
 	 */
 	protected void preProcess() {
-		count = 0;
-		size = INITIAL_SIZE;
-		list = new WordWithCount[size];
+		list = new AList();
 	}
 
 	/**
@@ -62,9 +42,7 @@ public class SortAtEnd extends Heuristic {
 	 *            the word thats to be added to the list.
 	 */
 	protected void lookup(String word) {
-		modifyList();
-		list[count] = new WordWithCount(word);
-		count++;
+		list.add(new WordWithCount(word));
 	}
 
 	/**
@@ -74,46 +52,68 @@ public class SortAtEnd extends Heuristic {
 	 */
 	protected void postProcess() {
 		list = sort(list);
+		list.iterator();
 		merge();
 	}
 
 	/**
 	 * Sorts all the words in the list in ascending order.
 	 */
-	private WordWithCount[] sort(WordWithCount[] ls) {
-		if (ls.length <= 1) {
+	private AList sort(AList ls) {
+		if (ls.size() <= 1) {
 			return ls;
-		} else
-			return mergeList(sort(split(ls)), sort(ls));
+		} else {
+			ls.iterator();
+			return mergeList(sort(half(ls)), sort(split(ls)));
+		}
 	}
 
-	private WordWithCount[] mergeList(WordWithCount[] L1, WordWithCount[] L2) {
-		WordWithCount[] wwc = new WordWithCount[L1.length + L2.length];
+	private AList mergeList(AList L1, AList L2) {
+		int count = L1.size() + L2.size();
+		AList wwc = new AList(count);
 		int j = 0; // L1 Iterator
 		int k = 0; // L2 Iterator
-		for (int i = 0; i < wwc.length; i++) {
-			int c = super.compareWords(L2[j].getWord(), L1[k].getWord());
+		for (int i = 0; i < count; i++) {
+			int c = super
+					.compareWords(L2.get(k).getWord(), L1.get(j).getWord());
 			if (c > 0) {
-				wwc[i] = L1[j];
+				wwc.add(L1.get(j));
 				j++;
 			} else {
-				wwc[i] = L2[k];
+				wwc.add(L2.get(k));
 				k++;
+			}
+
+			if (j == L1.size()) {
+				for (; i < count; i++) {
+					wwc.add(L2.get(k));
+				}
+				break;
+			} else if (k == L2.size()) {
+				for (; i < count; i++) {
+					wwc.add(L1.get(j));
+				}
+				break;
 			}
 		}
 		return wwc;
 	}
 
-	private WordWithCount[] split(WordWithCount[] ls) {
-		int half = ls.length / 2;
-		WordWithCount[] temp = new WordWithCount[half];
-		WordWithCount[] wwc = new WordWithCount[ls.length - half];
-		for (int i = 0; i < ls.length - half; i++) {
-			if (i < half)
-				temp[i] = ls[i];
-			wwc[i] = ls[half + i];
+	private AList half(AList ls) {
+		int half = ls.size() / 2;
+		AList temp = new AList(half);
+		for (int i = 0; i < half; i++) {
+			temp.add(ls.get(i));
 		}
-		ls = temp;
+		return temp;
+	}
+
+	private AList split(AList ls) {
+		int half = ls.size() / 2;
+		AList wwc = new AList(ls.size() - half);
+		for (int i = 0; i < ls.size() - half; i++) {
+			wwc.add(ls.get(half + i));
+		}
 		return wwc;
 	}
 
@@ -122,41 +122,23 @@ public class SortAtEnd extends Heuristic {
 	 * word count equal to the amount of duplicates their was.
 	 */
 	private void merge() {
-		WordWithCount[] merge = new WordWithCount[count];
+		AList merge = new AList(list.size());
 		int i = 0;
-		int words = 0;
-		while (i != count) {
+		while (i != list.size()) {
 			int count = 0;
 			int comp;
 			do {
-				if (list[i + 1] == null)
+				if (list.get(i + 1) == null)
 					comp = 1;
 				else
-					comp = super.compareWords(list[i].getWord(),
-							list[i + 1].getWord());
+					comp = super.compareWords(list.get(i + 1).getWord(), list
+							.get(i + 1).getWord());
 				i++;
 				count++;
-			} while (comp == 0 && i != this.count);
-			merge[words] = new WordWithCount(list[i - 1].getWord(), count);
-			words++;
+			} while (comp == 0 && i != list.size());
+			merge.add(new WordWithCount(list.get(i + 1).getWord(), count));
 		}
 		list = merge;
-		count = words;
-	}
-
-	/**
-	 * This increases the capacity of the list in case the list reaches its
-	 * maximum capacity during the scanning and word placing process.
-	 */
-	private void modifyList() {
-		if (size < count + 1) {
-			WordWithCount[] temp = new WordWithCount[size * 2];
-			for (int i = 0; i < count; i++) {
-				temp[i] = list[i];
-			}
-			list = temp;
-			size *= 2;
-		}
 	}
 
 	/**
@@ -167,88 +149,161 @@ public class SortAtEnd extends Heuristic {
 	 */
 	@Override
 	public Iterator<WordWithCount> result() {
-		return new ArrayIterator<WordWithCount>(list);
+		return list.iterator();
 	}
 
-	/**
-	 * A simple iterator class for lists. The elements of a list are returned by
-	 * this iterator. No copy of the list is made, so any changes to the list
-	 * are reflected in the iterator.
-	 * 
-	 * @param <E>
-	 *            the type of object to be used in the iterator.
-	 * 
-	 * @author Michael Goodrich, Eric Zamore, Roberto Tamassia, Matt Stallmann,
-	 *         Specialized for Array Lists by Gitesh Agarwal
-	 */
-	public class ArrayIterator<E> implements Iterator<E> {
+	public class AList {
 
 		/**
-		 * The list that holds the WordWithCount objects.
+		 * The starting size of the list when first initialized.
 		 */
-		private E[] list; // the underlying list
-		/**
-		 * The next position in the list when traversing it.
-		 */
-		private int cursor; // the next position
+		public static final int INITIAL_SIZE = 10;
 
 		/**
-		 * The constructor for the iterator in this class.
-		 * 
-		 * @param L
-		 *            The list of WordWithCount objects for the iterator to use.
+		 * This array stores all text words found in the file.
 		 */
-		public ArrayIterator(E[] L) {
-			list = L;
-			cursor = 0;
+		private WordWithCount[] list;
+
+		/**
+		 * This represents the overall size of the list.
+		 */
+		private int size;
+
+		/**
+		 * Representation of the word count to help with incrementing the count
+		 * of a word in the list.
+		 */
+		private int count;
+
+		public AList() {
+			this(INITIAL_SIZE);
 		}
 
-		/**
-		 * This checks if the current node in the iterator has a another node in
-		 * its next node and returns true or false depending on whether it does
-		 * or not.
-		 * 
-		 * @return True or false depending on if the current node in the
-		 *         iterator has a null next node.
-		 */
-		public boolean hasNext() {
-			if (cursor < count)
-				return true;
+		public AList(int size) {
+			count = 0;
+			this.size = size;
+			list = new WordWithCount[size];
+		}
+
+		public void add(WordWithCount element) {
+			modify();
+			list[count] = element;
+			count++;
+		}
+
+		public WordWithCount get(int i) {
+			if (i < size)
+				return list[i];
 			else
-				return false;
+				return null;
+		}
+
+		public int size() {
+			return count;
+		}
+
+		public Iterator<WordWithCount> iterator() {
+			System.out.println(Arrays.toString(list));
+			return new ArrayIterator<WordWithCount>(list);
 		}
 
 		/**
-		 * If the iterator has non null next it move over to represent its next
-		 * list node in the list. Once changed it returns the new object it now
-		 * represents. Otherwise if the next node is null it throws a
-		 * NoSuchElementException.
-		 * 
-		 * @return toReturn The next WordWithCount object in the list.
-		 * 
-		 * @throws NoSuchElementException
-		 *             if their is no WordWithCount object in the current nodes
-		 *             next node.
+		 * This increases the capacity of the list in case the list reaches its
+		 * maximum capacity during the scanning and word placing process.
 		 */
-		public E next() throws NoSuchElementException {
-			if (!hasNext())
-				throw new NoSuchElementException("No next element");
-			E toReturn = list[cursor];
-			cursor++;
-			return toReturn;
+		private void modify() {
+			if (size < count + 1) {
+				WordWithCount[] temp = new WordWithCount[size * 2];
+				for (int i = 0; i < count; i++) {
+					temp[i] = list[i];
+				}
+				list = temp;
+				size *= 2;
+			}
 		}
 
 		/**
+		 * A simple iterator class for lists. The elements of a list are
+		 * returned by this iterator. No copy of the list is made, so any
+		 * changes to the list are reflected in the iterator.
 		 * 
-		 * Throws an {@link UnsupportedOperationException} in all cases, because
-		 * removal is not a supported operation in this iterator.
+		 * @param <E>
+		 *            the type of object to be used in the iterator.
 		 * 
-		 * @throws UnsupportedOperationException
-		 *             whenever this method is used.
-		 * 
+		 * @author Michael Goodrich, Eric Zamore, Roberto Tamassia, Matt
+		 *         Stallmann, Specialized for Array Lists by Gitesh Agarwal
 		 */
-		public void remove() throws UnsupportedOperationException {
-			throw new UnsupportedOperationException("remove");
+		public class ArrayIterator<E> implements Iterator<E> {
+
+			/**
+			 * The list that holds the WordWithCount objects.
+			 */
+			private E[] list; // the underlying list
+			/**
+			 * The next position in the list when traversing it.
+			 */
+			private int cursor; // the next position
+
+			/**
+			 * The constructor for the iterator in this class.
+			 * 
+			 * @param L
+			 *            The list of WordWithCount objects for the iterator to
+			 *            use.
+			 */
+			public ArrayIterator(E[] L) {
+				list = L;
+				cursor = 0;
+			}
+
+			/**
+			 * This checks if the current node in the iterator has a another
+			 * node in its next node and returns true or false depending on
+			 * whether it does or not.
+			 * 
+			 * @return True or false depending on if the current node in the
+			 *         iterator has a null next node.
+			 */
+			public boolean hasNext() {
+				if (cursor < count)
+					return true;
+				else
+					return false;
+			}
+
+			/**
+			 * If the iterator has non null next it move over to represent its
+			 * next list node in the list. Once changed it returns the new
+			 * object it now represents. Otherwise if the next node is null it
+			 * throws a NoSuchElementException.
+			 * 
+			 * @return toReturn The next WordWithCount object in the list.
+			 * 
+			 * @throws NoSuchElementException
+			 *             if their is no WordWithCount object in the current
+			 *             nodes next node.
+			 */
+			public E next() throws NoSuchElementException {
+				if (!hasNext())
+					throw new NoSuchElementException("No next element");
+				E toReturn = list[cursor];
+				cursor++;
+				return toReturn;
+			}
+
+			/**
+			 * 
+			 * Throws an {@link UnsupportedOperationException} in all cases,
+			 * because removal is not a supported operation in this iterator.
+			 * 
+			 * @throws UnsupportedOperationException
+			 *             whenever this method is used.
+			 * 
+			 */
+			public void remove() throws UnsupportedOperationException {
+				throw new UnsupportedOperationException("remove");
+			}
+
 		}
 
 	}
