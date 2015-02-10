@@ -1,4 +1,3 @@
-import java.util.Arrays;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
@@ -51,70 +50,54 @@ public class SortAtEnd extends Heuristic {
 	 * count.
 	 */
 	protected void postProcess() {
-		list = sort(list);
-		list.iterator();
+		list = sort(list, 0, list.size());
 		merge();
 	}
 
 	/**
 	 * Sorts all the words in the list in ascending order.
+	 * 
+	 * @param ls
+	 *            The list to sort.
+	 * @param start
+	 *            The index of the list from which to start sorting.
+	 * @param finish
+	 *            The index of the list at which to stop sorting, excluding the
+	 *            given index.
+	 * @return The sorted list.
 	 */
-	private AList sort(AList ls) {
-		if (ls.size() <= 1) {
-			return ls;
+	private AList sort(AList ls, int start, int finish) {
+		int count = finish - start;
+		int mid = count / 2 + start;
+		if (count <= 1) {
+			return new AList(ls.get(mid));
 		} else {
-			ls.iterator();
-			return mergeList(sort(half(ls)), sort(split(ls)));
-		}
-	}
-
-	private AList mergeList(AList L1, AList L2) {
-		int count = L1.size() + L2.size();
-		AList wwc = new AList(count);
-		int j = 0; // L1 Iterator
-		int k = 0; // L2 Iterator
-		for (int i = 0; i < count; i++) {
-			int c = super
-					.compareWords(L2.get(k).getWord(), L1.get(j).getWord());
-			if (c > 0) {
-				wwc.add(L1.get(j));
-				j++;
-			} else {
-				wwc.add(L2.get(k));
-				k++;
-			}
-
-			if (j == L1.size()) {
-				for (; i < count; i++) {
-					wwc.add(L2.get(k));
+			AList L1 = sort(ls, start, mid);
+			AList L2 = sort(ls, mid, finish);
+			AList solu = new AList(count);
+			int i = 0;
+			int j = 0;
+			for (int k = 0; k < count; k++) {
+				if (j == L2.size()) {
+					solu.add(L1.get(i));
+					i++;
+				} else if (i == L1.size()) {
+					solu.add(L2.get(j));
+					j++;
+				} else {
+					int comp = super.compareWords(L1.get(i).getWord(), L2
+							.get(j).getWord());
+					if (comp <= 0) {
+						solu.add(L1.get(i));
+						i++;
+					} else if (comp > 0) {
+						solu.add(L2.get(j));
+						j++;
+					}
 				}
-				break;
-			} else if (k == L2.size()) {
-				for (; i < count; i++) {
-					wwc.add(L1.get(j));
-				}
-				break;
 			}
+			return solu;
 		}
-		return wwc;
-	}
-
-	private AList half(AList ls) {
-		int half = ls.size() / 2;
-		AList temp = new AList(half);
-		for (int i = 0; i < half; i++) {
-			temp.add(ls.get(i));
-		}
-		return temp;
-	}
-
-	private AList split(AList ls) {
-		int half = ls.size() / 2;
-		AList wwc = new AList(ls.size() - half);
-		for (int i = 0; i < ls.size() - half; i++) {
-			wwc.add(ls.get(half + i));
-		}
-		return wwc;
 	}
 
 	/**
@@ -131,12 +114,12 @@ public class SortAtEnd extends Heuristic {
 				if (list.get(i + 1) == null)
 					comp = 1;
 				else
-					comp = super.compareWords(list.get(i + 1).getWord(), list
-							.get(i + 1).getWord());
+					comp = super.compareWords(list.get(i).getWord(),
+							list.get(i + 1).getWord());
 				i++;
 				count++;
 			} while (comp == 0 && i != list.size());
-			merge.add(new WordWithCount(list.get(i + 1).getWord(), count));
+			merge.add(new WordWithCount(list.get(i - 1).getWord(), count));
 		}
 		list = merge;
 	}
@@ -185,10 +168,24 @@ public class SortAtEnd extends Heuristic {
 			list = new WordWithCount[size];
 		}
 
+		public AList(WordWithCount element) {
+			count = 1;
+			size = 1;
+			list = new WordWithCount[] { element };
+		}
+
 		public void add(WordWithCount element) {
 			modify();
 			list[count] = element;
 			count++;
+		}
+
+		public void replace(int i, int j) {
+			if (i < count && j < count) {
+				WordWithCount temp = list[i];
+				list[i] = list[j];
+				list[j] = temp;
+			}
 		}
 
 		public WordWithCount get(int i) {
@@ -203,7 +200,6 @@ public class SortAtEnd extends Heuristic {
 		}
 
 		public Iterator<WordWithCount> iterator() {
-			System.out.println(Arrays.toString(list));
 			return new ArrayIterator<WordWithCount>(list);
 		}
 
