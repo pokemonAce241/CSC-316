@@ -11,6 +11,10 @@ import java.util.NoSuchElementException;
  */
 public class SortAtEnd extends Heuristic {
 
+	/**
+	 * The main list where all WordWithCount objects are stored
+	 * int the heuristic.
+	 */
 	private AList list;
 
 	/**
@@ -135,6 +139,13 @@ public class SortAtEnd extends Heuristic {
 		return list.iterator();
 	}
 
+	/**
+	 * A inner class that is the main storage for the WordwithCount objects 
+	 * added and managed in the heuristic.
+	 * 
+	 * @author Gitesh Agarwal, Mohamad Saleh, Jason Benckert
+	 *
+	 */
 	public class AList {
 
 		/**
@@ -158,28 +169,58 @@ public class SortAtEnd extends Heuristic {
 		 */
 		private int count;
 
+		/**
+		 * The constructor for AList with a pre set size to it.
+		 */
 		public AList() {
 			this(INITIAL_SIZE);
 		}
 
+		/**
+		 * The constructor for AList with a size based on the
+		 * size parameter.
+		 * 
+		 * @param size the overall size of the list.
+		 */
 		public AList(int size) {
 			count = 0;
 			this.size = size;
 			list = new WordWithCount[size];
 		}
 
+		/**
+		 * A constructor for Alist that creates the list with a pre set size
+		 * and count of one that adds the WordWithCount object in the parameter
+		 * to the newly constructed list.   
+		 * 
+		 * @param element first WordWithCount object to be added to list.
+		 */
 		public AList(WordWithCount element) {
 			count = 1;
 			size = 1;
 			list = new WordWithCount[] { element };
 		}
 
+		/**
+		 * Adds the WordWithCount object in the parameter to the list 
+		 * increments the count by one.
+		 * 
+		 * @param element the word to be added to the list.
+		 */
 		public void add(WordWithCount element) {
 			modify();
 			list[count] = element;
 			count++;
 		}
 
+		/**
+		 * Swaps WordWithCount objects at the
+		 * locations described by the parameters 
+		 * with each other. 
+		 * 
+		 * @param i position of first word.
+		 * @param j position of second word.
+		 */
 		public void replace(int i, int j) {
 			if (i < count && j < count) {
 				WordWithCount temp = list[i];
@@ -188,6 +229,13 @@ public class SortAtEnd extends Heuristic {
 			}
 		}
 
+		/**
+		 * Returns the word in the list at the position in the parameter as 
+		 * long as the position is not greater than the lists size.
+		 * 
+		 * @param i the position of the word
+		 * @return the word at position i
+		 */
 		public WordWithCount get(int i) {
 			if (i < size)
 				return list[i];
@@ -195,10 +243,21 @@ public class SortAtEnd extends Heuristic {
 				return null;
 		}
 
+		/**
+		 * Returns the total amount of words currently stored in the list. 
+		 * 
+		 * @return count the word count for the list
+		 */
 		public int size() {
 			return count;
 		}
 
+		/**
+		 * Returns the iterator that is pointing to the current word in the 
+		 * list being analyzed. 
+		 * 
+		 * @return the current iterator.
+		 */
 		public Iterator<WordWithCount> iterator() {
 			return new ArrayIterator<WordWithCount>(list);
 		}
