@@ -16,7 +16,7 @@ public class PriorityQueue {
 	}
 
 	public void insert(Ticket ticket) {
-		map.put(ticket.getPriority(), ticket);
+		map.put(ticket.getId(), ticket);
 	}
 
 	public Ticket remove(int id) {
@@ -35,17 +35,6 @@ public class PriorityQueue {
 	public int query(int id) {
 		Ticket ticket = map.get
 		//TODO: Need to fix
-	}
-
-	protected class TicketComparator implements Comparator<Integer> {
-		public int compare(Integer one, Integer two) {
-			if (one > two)
-				return 1;
-			else if (one < two)
-				return -1;
-			else
-				return 1;
-		}
 	}
 
 }
