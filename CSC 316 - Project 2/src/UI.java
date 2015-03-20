@@ -1,3 +1,6 @@
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.util.NoSuchElementException;
 import java.util.Scanner;
 
 /**
@@ -19,17 +22,14 @@ public class UI {
 	 * @param coms
 	 */
 	public String process(String[] coms) {
-		if (coms.length == 1) {
-			if (coms[0].equals("*"))
-				return removeHighest();
-		} else if (coms.length == 2) {
-			if (coms[0].equals("+"))
-				return insert(Integer.parseInt(coms[1]));
-			else if (coms[0].equals("-"))
-				return remove(Integer.parseInt(coms[1]));
-			else if (coms[0].equals("?"))
-				return query(Integer.parseInt(coms[1]));
-		}
+		if (coms[0].equals("+"))
+			return insert(Integer.parseInt(coms[1]));
+		else if (coms[0].equals("*"))
+			return removeHighest();
+		else if (coms[0].equals("-"))
+			return remove(Integer.parseInt(coms[1]));
+		else if (coms[0].equals("?"))
+			return query(Integer.parseInt(coms[1]));
 
 		// TODO: Warning
 		return null;
@@ -44,7 +44,7 @@ public class UI {
 
 	public String remove(int id) {
 		String pos = query(id);
-		Ticket ticket = queue.remove(id);		
+		Ticket ticket = queue.remove(id);
 		String out = ticket.getPriority() + ", " + pos;
 		return out;
 	}
@@ -64,12 +64,32 @@ public class UI {
 	public static void main(String[] args) {
 		UI ui = new UI();
 		Scanner scan = new Scanner(System.in);
+		if (args.length == 1) {
+			try {
+				scan = new Scanner(new File(args[0]));
+			} catch (FileNotFoundException e) {
+				// TODO: Warning
+			}
+		}
+
 		String in = scan.nextLine();
 		while (!in.isEmpty()) {
-			String[] coms = in.split(" ");
+			System.out.println(in);
+			String[] coms = new String[2];
+			int i = 0;
+			Scanner line = new Scanner(in);
+			while (line.hasNext())
+				coms[i++] = line.next();
+			line.close();
+
 			String out = ui.process(coms);
-			System.out.println(in + "\n\t" + out);
-			in = scan.nextLine();
+			System.out.println("\t" + out);
+			try {
+				in = scan.nextLine();
+			} catch (NoSuchElementException e) {
+				// TODO: Warning
+				return;
+			}
 		}
 		scan.close();
 	}

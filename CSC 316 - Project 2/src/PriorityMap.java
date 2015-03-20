@@ -160,11 +160,7 @@ public class PriorityMap<K, V> implements Map<K, V> {
 	 */
 	public V remove(Object key) {
 		Entry<K, V> temp = head;
-		if (head.left == null && head.right == null) {
-			head = null;
-			return temp.getValue();
-		}		
-		
+
 		int c;
 		while (true) {
 			if (temp == null)
@@ -179,6 +175,11 @@ public class PriorityMap<K, V> implements Map<K, V> {
 			} else {
 				break;
 			}
+		}
+		
+		if (temp.parent == null) {
+			head = null;
+			return temp.getValue();
 		}
 
 		boolean isRight = isRight(temp);
@@ -196,7 +197,7 @@ public class PriorityMap<K, V> implements Map<K, V> {
 				con = con.left;
 			}
 			con.parent.left = null;
-			
+
 			if (!isRight) {
 				temp.parent.left = con;
 			} else {
