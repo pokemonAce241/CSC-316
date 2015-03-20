@@ -43,8 +43,8 @@ public class UI {
 	}
 
 	public String remove(int id) {
-		Ticket ticket = queue.remove(id);
 		String pos = query(id);
+		Ticket ticket = queue.remove(id);		
 		String out = ticket.getPriority() + ", " + pos;
 		return out;
 	}
