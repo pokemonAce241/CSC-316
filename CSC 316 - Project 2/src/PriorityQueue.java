@@ -1,6 +1,5 @@
+import java.util.ArrayList;
 import java.util.Comparator;
-import java.util.NavigableMap;
-import java.util.TreeMap;
 
 /**
  * @author Gitesh Agarwal
@@ -8,33 +7,48 @@ import java.util.TreeMap;
  */
 public class PriorityQueue {
 
-	private TreeMap<Integer, Ticket> map;
+	private PriorityMap<Integer, Ticket> map;
+
+	private ArrayList<Integer> key;
 
 	public PriorityQueue() {
 		TicketComparator comparator = new TicketComparator();
-		map = new TreeMap<Integer, Ticket>(comparator);
+		map = new PriorityMap<Integer, Ticket>(comparator);
+		key = new ArrayList<Integer>();
+		key.add(0);
 	}
 
 	public void insert(Ticket ticket) {
-		map.put(ticket.getId(), ticket);
+		map.put(ticket.getPriority(), ticket);
+		key.add(ticket.getPriority());
 	}
 
 	public Ticket remove(int id) {
-		Ticket ticket = map.get(id);
+		Ticket ticket = map.get(key.get(id));
 		map.remove(ticket.getPriority());
 		return ticket;
-		//TODO: Need to fix
 	}
 
 	public Ticket removeHighest() {
-		Ticket ticket = map.lastEntry().getValue();
+		Ticket ticket = map.lastValue();
 		map.remove(ticket.getPriority());
 		return ticket;
 	}
 
 	public int query(int id) {
-		Ticket ticket = map.get
-		//TODO: Need to fix
+		int priority = key.get(id);
+		return map.getPosition(priority);
+	}
+
+	protected class TicketComparator implements Comparator<Integer> {
+		public int compare(Integer one, Integer two) {
+			if (one > two)
+				return 1;
+			else if (one < two)
+				return -1;
+			else
+				return 0;
+		}
 	}
 
 }
