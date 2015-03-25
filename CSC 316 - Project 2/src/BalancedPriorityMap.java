@@ -406,7 +406,8 @@ public class BalancedPriorityMap<K, V> implements Map<K, V> {
 
 		man.parent.left = man.right;
 		man.right.parent = man.parent;
-		
+		entry.right = man.left;
+		entry.right.parent = man;
 
 		if (entry == head) {
 			head = man;
@@ -428,6 +429,31 @@ public class BalancedPriorityMap<K, V> implements Map<K, V> {
 	}
 
 	private void rotateRight(Entry<K, V> entry) {
+		Entry<K, V> man = entry.left;
+		while (man.right != null && man.right.count > 1)
+			man = man.left;
 
+		man.parent.right = man.left;
+		man.left.parent = man.parent;
+		entry.left = man.right;
+		entry.left.parent = man;
+
+		if (entry == head) {
+			head = man;
+			head.parent = null;
+		} else {
+			boolean isLeft = isLeft(entry);
+			if (isLeft) {
+				entry.parent.left = man;
+			} else {
+				entry.parent.right = man;
+			}
+			man.parent = entry.parent;
+		}
+
+		man.right = entry;
+		man.right.parent = man;
+		man.left = entry.left;
+		man.left.parent = man;
 	}
 }
