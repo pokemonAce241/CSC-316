@@ -7,7 +7,7 @@ import java.util.Set;
  * @author Gitesh Agarwal
  * 
  */
-public class PriorityMap<K, V> implements Map<K, V> {
+public class BalancedPriorityMap<K, V> implements Map<K, V> {
 
 	private Entry<K, V> head;
 
@@ -15,7 +15,7 @@ public class PriorityMap<K, V> implements Map<K, V> {
 
 	private Comparator<K> comparator;
 
-	public PriorityMap(Comparator<K> comparator) {
+	public BalancedPriorityMap(Comparator<K> comparator) {
 		head = null;
 		size = 0;
 		this.comparator = comparator;
@@ -128,6 +128,33 @@ public class PriorityMap<K, V> implements Map<K, V> {
 	/*
 	 * (non-Javadoc)
 	 * 
+	 * @see java.util.Map#keySet()
+	 */
+	public Set<K> keySet() {
+		return null;
+	}
+
+	/*
+	 * (non-Javadoc)
+	 * 
+	 * @see java.util.Map#values()
+	 */
+	public Collection<V> values() {
+		return null;
+	}
+
+	/*
+	 * (non-Javadoc)
+	 * 
+	 * @see java.util.Map#entrySet()
+	 */
+	public Set<Map.Entry<K, V>> entrySet() {
+		return null;
+	}
+
+	/*
+	 * (non-Javadoc)
+	 * 
 	 * @see java.util.Map#put(java.lang.Object, java.lang.Object)
 	 */
 	public V put(K key, V value) {
@@ -156,6 +183,15 @@ public class PriorityMap<K, V> implements Map<K, V> {
 
 		}
 		return value;
+	}
+
+	/*
+	 * (non-Javadoc)
+	 * 
+	 * @see java.util.Map#putAll(java.util.Map)
+	 */
+	public void putAll(Map<? extends K, ? extends V> m) {
+
 	}
 
 	/*
@@ -288,46 +324,10 @@ public class PriorityMap<K, V> implements Map<K, V> {
 	/*
 	 * (non-Javadoc)
 	 * 
-	 * @see java.util.Map#putAll(java.util.Map)
-	 */
-	public void putAll(Map<? extends K, ? extends V> m) {
-
-	}
-
-	/*
-	 * (non-Javadoc)
-	 * 
 	 * @see java.util.Map#clear()
 	 */
 	public void clear() {
 		head = null;
-	}
-
-	/*
-	 * (non-Javadoc)
-	 * 
-	 * @see java.util.Map#keySet()
-	 */
-	public Set<K> keySet() {
-		return null;
-	}
-
-	/*
-	 * (non-Javadoc)
-	 * 
-	 * @see java.util.Map#values()
-	 */
-	public Collection<V> values() {
-		return null;
-	}
-
-	/*
-	 * (non-Javadoc)
-	 * 
-	 * @see java.util.Map#entrySet()
-	 */
-	public Set<Map.Entry<K, V>> entrySet() {
-		return null;
 	}
 
 	protected class Entry<K, V> implements Map.Entry<K, V> {
@@ -337,6 +337,8 @@ public class PriorityMap<K, V> implements Map<K, V> {
 		protected V value;
 
 		protected int count;
+
+		protected int height;
 
 		protected Entry<K, V> parent;
 
@@ -348,6 +350,7 @@ public class PriorityMap<K, V> implements Map<K, V> {
 			this.key = key;
 			this.value = value;
 			count = 1;
+			height = 1;
 			this.parent = parent;
 			left = null;
 			right = null;
@@ -376,5 +379,55 @@ public class PriorityMap<K, V> implements Map<K, V> {
 			this.value = value;
 			return value;
 		}
+	}
+
+	private void restructure(Entry<K, V> entry) {
+		Entry<K, V> temp = entry.parent;
+		while (temp.parent != null) {
+			if (temp.left.height > temp.right.height)
+				temp.height = temp.left.height + 1;
+			else
+				temp.height = temp.right.height + 1;
+
+			int diff = temp.left.height - temp.right.height;
+			if (diff < -1)
+				rotateLeft(temp);
+			else if (diff > 1)
+				rotateRight(temp);
+
+			temp = temp.parent;
+		}
+	}
+
+	private void rotateLeft(Entry<K, V> entry) {
+		Entry<K, V> man = entry.right;
+		while (man.left != null && man.left.count > 1)
+			man = man.left;
+
+		man.parent.left = man.right;
+		man.right.parent = man.parent;
+		
+
+		if (entry == head) {
+			head = man;
+			head.parent = null;
+		} else {
+			boolean isLeft = isLeft(entry);
+			if (isLeft) {
+				entry.parent.left = man;
+			} else {
+				entry.parent.right = man;
+			}
+			man.parent = entry.parent;
+		}
+
+		man.left = entry;
+		man.left.parent = man;
+		man.right = entry.right;
+		man.right.parent = man;
+	}
+
+	private void rotateRight(Entry<K, V> entry) {
+
 	}
 }

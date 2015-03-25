@@ -30,14 +30,12 @@ public class PriorityQueue {
 		if (map.isEmpty())
 			throw new Warning("removal attempted when queue is empty");
 
-		try {
-			int k = key.get(id);
-			Ticket ticket = map.remove(k);
-			return ticket;
-		} catch (IndexOutOfBoundsException e) {
-			throw new Warning("there is no ticket with id = " + key
+		int k = key.get(id);
+		Ticket ticket = map.remove(k);
+		if (ticket == null)
+			throw new Warning("there is no ticket with id = " + id
 					+ " in the queue");
-		}
+		return ticket;
 	}
 
 	public Ticket removeHighest() throws Warning {
@@ -49,9 +47,15 @@ public class PriorityQueue {
 		return ticket;
 	}
 
-	public int query(int id) {
-		int priority = key.get(id);
-		int r = map.getPosition(priority);
+	public int query(int id) throws Warning {
+		if (map.isEmpty())
+			throw new Warning("query attempted when queue is empty");
+
+		int k = key.get(id);
+		int r = map.getPosition(k);
+		if (r == -1)
+			throw new Warning("there is no ticket with id = " + id
+					+ " in the queue");
 		return r;
 	}
 
