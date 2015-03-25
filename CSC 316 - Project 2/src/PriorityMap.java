@@ -70,7 +70,7 @@ public class PriorityMap<K, V> implements Map<K, V> {
 		int c;
 		while (true) {
 			if (temp == null)
-				return null; // TODO: Warning
+				throw null;
 
 			c = comparator.compare((K) key, temp.getKey());
 			if (c < 0) {
@@ -95,7 +95,7 @@ public class PriorityMap<K, V> implements Map<K, V> {
 		int c;
 		while (true) {
 			if (temp == null)
-				return null; // TODO: Warning
+				return null;
 
 			c = comparator.compare((K) key, temp.getKey());
 			if (c < 0) {
@@ -114,6 +114,9 @@ public class PriorityMap<K, V> implements Map<K, V> {
 	 * @return
 	 */
 	public V lastValue() {
+		if (head == null)
+			return null;
+
 		Entry<K, V> temp = head;
 		while (temp.right != null) {
 			temp = temp.right;
@@ -146,6 +149,8 @@ public class PriorityMap<K, V> implements Map<K, V> {
 				} else if (c > 0) {
 					temp.right = new Entry<K, V>(key, value, temp);
 					break;
+				} else {
+					return null;
 				}
 			}
 
@@ -160,11 +165,10 @@ public class PriorityMap<K, V> implements Map<K, V> {
 	 */
 	public V remove(Object key) {
 		Entry<K, V> temp = head;
-
 		int c;
 		while (true) {
 			if (temp == null)
-				return null; // TODO: Warning
+				return null;
 
 			temp.count--;
 			c = comparator.compare((K) key, temp.getKey());
@@ -176,51 +180,85 @@ public class PriorityMap<K, V> implements Map<K, V> {
 				break;
 			}
 		}
-		
+
 		if (temp.parent == null) {
-			head = null;
+			if (temp.left == null && temp.right == null)
+				head = null;
+			else if (temp.right == null)
+				head = temp.left;
+			else {
+				Entry<K, V> con = removeEntry(temp);
+				head = con;
+			}
 			return temp.getValue();
 		}
 
-		boolean isRight = isRight(temp);
-		if (temp.right == null) {
-			if (!isRight) {
+		boolean isLeft = isLeft(temp);
+		if (temp.right == null && temp.left == null) {
+			if (isLeft) {
+				temp.parent.left = null;
+			} else {
+				temp.parent.right = null;
+			}
+		} else if (temp.right == null) {
+			if (isLeft) {
 				temp.parent.left = temp.left;
 			} else {
 				temp.parent.right = temp.left;
 			}
-			if (temp.left != null)
-				temp.left.parent = temp.parent;
+			temp.left.parent = temp.parent;
 		} else {
-			Entry<K, V> con = temp.right;
-			while (con.left != null) {
-				con = con.left;
-			}
-			con.parent.left = null;
+			Entry<K, V> con = removeEntry(temp);
 
-			if (!isRight) {
+			if (isLeft) {
 				temp.parent.left = con;
 			} else {
 				temp.parent.right = con;
 			}
 			con.parent = temp.parent;
-			con.right = temp.right;
-			con.right.parent = con;
 		}
 
 		size--;
 		return temp.getValue();
 	}
 
+	private Entry<K, V> removeEntry(Entry<K, V> temp) {
+		Entry<K, V> con = temp.right;
+		if (con.left != null) {
+			while (con.left != null) {
+				con.count--;
+				con = con.left;
+			}
+			con.parent.left = con.right;
+			if (con.right != null)
+				con.right.parent = con.parent;
+
+			con.count = 1;
+			con.right = temp.right;
+			if (con.right != null) {
+				con.right.parent = con;
+				con.count += con.right.count;
+			}
+		}
+
+		con.left = temp.left;
+		if (con.left != null) {
+			con.left.parent = con;
+			con.count += con.left.count;
+		}
+
+		return con;
+	}
+
 	public int getPosition(K key) {
 		Entry<K, V> entry = getEntry(key);
-		if (entry == head && entry.right != null)
-			return entry.right.count + 1;
-
 		int position = 1;
+		if (entry.right != null)
+			position += entry.right.count;
+
 		while (entry != head) {
-			boolean isRight = isRight(entry);
-			if (!isRight) {
+			boolean isLeft = isLeft(entry);
+			if (isLeft) {
 				position++;
 				if (entry.parent.right != null) {
 					position += entry.parent.right.count;
@@ -231,12 +269,12 @@ public class PriorityMap<K, V> implements Map<K, V> {
 		return position;
 	}
 
-	public boolean isRight(Entry<K, V> entry) {
+	public boolean isLeft(Entry<K, V> entry) {
 		K p = entry.parent.key;
 		K t = entry.key;
 		int c = comparator.compare(p, t);
 
-		if (c < 0)
+		if (c > 0)
 			return true;
 		else
 			return false;
