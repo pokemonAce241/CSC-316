@@ -173,15 +173,16 @@ public class AVLMap<K, V> implements Map<K, V> {
 					temp = temp.right;
 				} else if (c < 0) {
 					temp.left = new Entry<K, V>(key, value, temp);
+					restructure(temp.left);
 					break;
 				} else if (c > 0) {
 					temp.right = new Entry<K, V>(key, value, temp);
+					restructure(temp.right);
 					break;
 				} else {
 					return null;
 				}
 			}
-
 		}
 		return value;
 	}
@@ -258,6 +259,7 @@ public class AVLMap<K, V> implements Map<K, V> {
 		}
 
 		size--;
+		restructure(temp);
 		return temp.getValue();
 	}
 
@@ -385,30 +387,46 @@ public class AVLMap<K, V> implements Map<K, V> {
 	private void restructure(Entry<K, V> entry) {
 		Entry<K, V> temp = entry.parent;
 		while (temp.parent != null) {
-			if (temp.left.height > temp.right.height)
-				temp.height = temp.left.height + 1;
-			else
-				temp.height = temp.right.height + 1;
+			int lh = (temp.left != null) ? temp.left.height : 0;
+			int rh = (temp.right != null) ? temp.right.height : 0;
+			int diff = lh - rh;
 
-			int diff = temp.left.height - temp.right.height;
+			temp.height = (lh > rh) ? temp.left.height + 1
+					: temp.right.height + 1;
+
 			if (diff < -1)
-				rotateLeft(temp);
+				temp = rotateLeft(temp);
 			else if (diff > 1)
-				rotateRight(temp);
+				temp = rotateRight(temp);
+
+			TreePrint print = new TreePrint(head);
+			print.inOrderPrint(System.out, "-");
 
 			temp = temp.parent;
 		}
 	}
 
-	private void rotateLeft(Entry<K, V> entry) {
+	private Entry<K, V> rotateLeft(Entry<K, V> entry) {
 		Entry<K, V> man = entry.right;
 		while (man.left != null && man.left.count > 1)
 			man = man.left;
 
+		entry.count = entry.right.count + 1;
+		entry.height = entry.right.height + 1;
+		Entry<K, V> temp = man.parent;
+		while (temp != entry) {
+			temp.count -= man.count;
+			temp.height--;
+		}
+
+		if (man.right != null)
+			man.parent.count++;
 		man.parent.left = man.right;
 		man.right.parent = man.parent;
+		if (man.left != null)
+			entry.right.count++;
 		entry.right = man.left;
-		entry.right.parent = man;
+		entry.right.parent = entry;
 
 		if (entry == head) {
 			head = man;
@@ -427,17 +445,38 @@ public class AVLMap<K, V> implements Map<K, V> {
 		man.left.parent = man;
 		man.right = entry.right;
 		man.right.parent = man;
+
+		man.count = 1 + man.right.count + man.left.count;
+		man.height = 1 + man.right.height;
+		return man;
 	}
 
-	private void rotateRight(Entry<K, V> entry) {
+	private Entry<K, V> rotateRight(Entry<K, V> entry) {
 		Entry<K, V> man = entry.left;
-		while (man.right != null && man.right.count > 1)
-			man = man.left;
+		if (man.right != null && man.right.count > 1) {
+			while (man.right != null && man.right.count > 1)
+				man = man.left;
+			
+			
+		}
 
+		entry.count = entry.left.count + 1;
+		entry.height = entry.left.height + 1;
+		Entry<K, V> temp = man.parent;
+		while (temp != entry) {
+			temp.count -= man.count;
+			temp.height--;
+		}
+
+		if (man.left != null)
+			man.parent.count++;
 		man.parent.right = man.left;
 		man.left.parent = man.parent;
 		entry.left = man.right;
-		entry.left.parent = man;
+		if (man.right != null) {
+			entry.count++;
+			entry.left.parent = entry;
+		}
 
 		if (entry == head) {
 			head = man;
@@ -456,16 +495,20 @@ public class AVLMap<K, V> implements Map<K, V> {
 		man.right.parent = man;
 		man.left = entry.left;
 		man.left.parent = man;
+
+		man.count = 1 + man.right.count + man.left.count;
+		man.height = 1 + man.right.height;
+		return man;
 	}
 
 	public class TreePrint {
-	
+
 		private Entry<K, V> root;
-	
+
 		public TreePrint(Entry<K, V> root) {
 			this.root = root;
 		}
-	
+
 		/**
 		 * prints the tree using inorder indenting subtree below each node; uses
 		 * backward inorder so that turning the printout sideways has the
@@ -484,7 +527,7 @@ public class AVLMap<K, V> implements Map<K, V> {
 			IndentPrinter printer = new IndentPrinter(ps, indentString);
 			recursiveInOrderPrint(root, printer);
 		}
-	
+
 		/**
 		 * prints the subtree rooted at v using the given indenting printer
 		 */
@@ -496,7 +539,7 @@ public class AVLMap<K, V> implements Map<K, V> {
 				recursiveInOrderPrint(rv, printer);
 				printer.decreaseIndent();
 			}
-	
+
 			printer.println("-- value  = " + v.key);
 			if (v.left != null) {
 				printer.increaseIndent();
@@ -505,6 +548,6 @@ public class AVLMap<K, V> implements Map<K, V> {
 				printer.decreaseIndent();
 			}
 		}
-	
+
 	}
 }
