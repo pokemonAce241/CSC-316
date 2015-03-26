@@ -9,7 +9,7 @@ import java.util.Scanner;
  */
 public class HelpTickets {
 
-	public static BSTQueue queue;
+	public static Queue queue;
 
 	public static int id;
 

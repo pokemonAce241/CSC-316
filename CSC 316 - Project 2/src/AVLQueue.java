@@ -7,12 +7,12 @@ import java.util.Comparator;
  */
 public class AVLQueue implements Queue {
 
-	private BSTMap<Integer, Ticket> map;
+	private AVLMap<Integer, Ticket> map;
 
 	private ArrayList<Integer> key;
 
 	public AVLQueue() {
-		map = new BSTMap<Integer, Ticket>(comparator);
+		map = new AVLMap<Integer, Ticket>(comparator);
 		key = new ArrayList<Integer>();
 		key.add(0);
 	}
