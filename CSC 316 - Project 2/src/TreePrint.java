@@ -10,7 +10,7 @@ public class TreePrint {
 		this.root = root;
 	}
 
-	/**
+	/**  
 	 * prints the tree using inorder indenting subtree below each node; uses
 	 * backward inorder so that turning the printout sideways has the correct
 	 * left/right orientation
