@@ -399,8 +399,9 @@ public class AVLMap<K, V> implements Map<K, V> {
 			else if (diff > 1)
 				temp = rotateRight(temp);
 
+			System.out.println("Restructure: " + temp.key);
 			TreePrint print = new TreePrint(head);
-			print.inOrderPrint(System.out, "-");
+			print.inOrderPrint(System.out, "\t");
 
 			temp = temp.parent;
 		}
@@ -453,11 +454,21 @@ public class AVLMap<K, V> implements Map<K, V> {
 
 	private Entry<K, V> rotateRight(Entry<K, V> entry) {
 		Entry<K, V> man = entry.left;
-		if (man.right != null && man.right.count > 1) {
-			while (man.right != null && man.right.count > 1)
-				man = man.left;
-			
-			
+		if (man.right != null) {
+			while (man.right != null)
+				man = man.right;
+
+			if (man.parent.left != null)
+				man = man.parent;
+
+			man.parent.right = man.left;
+			if (man.left != null) {
+				man.parent.count++;
+				man.left.parent = man.parent;
+			}
+
+			man.left = entry.left;
+			man.left.parent = man;
 		}
 
 		entry.count = entry.left.count + 1;
@@ -468,10 +479,6 @@ public class AVLMap<K, V> implements Map<K, V> {
 			temp.height--;
 		}
 
-		if (man.left != null)
-			man.parent.count++;
-		man.parent.right = man.left;
-		man.left.parent = man.parent;
 		entry.left = man.right;
 		if (man.right != null) {
 			entry.count++;
@@ -493,8 +500,6 @@ public class AVLMap<K, V> implements Map<K, V> {
 
 		man.right = entry;
 		man.right.parent = man;
-		man.left = entry.left;
-		man.left.parent = man;
 
 		man.count = 1 + man.right.count + man.left.count;
 		man.height = 1 + man.right.height;
