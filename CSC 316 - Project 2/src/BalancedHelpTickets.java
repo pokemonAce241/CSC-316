@@ -7,14 +7,14 @@ import java.util.Scanner;
  * @author Gitesh Agarwal
  * 
  */
-public class HelpTickets {
+public class BalancedHelpTickets {
 
-	public static BSTQueue queue;
+	public static Queue queue;
 
 	public static int id;
 
-	public HelpTickets() {
-		queue = new BSTQueue();
+	public BalancedHelpTickets() {
+		queue = new AVLQueue();
 		id = 1;
 	}
 
@@ -73,7 +73,7 @@ public class HelpTickets {
 	}
 
 	public static void main(String[] args) {
-		HelpTickets ui = new HelpTickets();
+		BalancedHelpTickets ui = new BalancedHelpTickets();
 		Scanner scan = new Scanner(System.in);
 		if (args.length == 1) {
 			try {
