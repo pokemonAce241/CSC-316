@@ -5,6 +5,8 @@ import java.util.Map;
 import java.util.Set;
 
 /**
+ * This takes object data and stores it in a AVL map and also manages
+ * any inserts or removes of objects bases on certain command.
  * @author Gitesh Agarwal, Mohamad Saleh, Jason Benckert
  * 
  */
@@ -490,6 +492,8 @@ public class AVLMap<K, V> implements Map<K, V> {
 
 		/**
 		 * sets the value of the entry.
+		 * @param value
+		 *             the value we want to set the entries value too.
 		 * @return the value
 		 *                returns the values the user set to the entry.
 		 */
@@ -503,6 +507,8 @@ public class AVLMap<K, V> implements Map<K, V> {
 	 * This function restructures the map in order to keep the map in its proper format
 	 * after a entry addition or removal.
 	 * @param entry
+	 *             The entry that is where the map will be rearranged to make the map stay
+	 *             in AVL format.
 	 */
 	private void restructure(Entry<K, V> entry) {
 		Entry<K, V> temp = entry.parent;
@@ -527,6 +533,14 @@ public class AVLMap<K, V> implements Map<K, V> {
 		}
 	}
 
+	/**
+	 * Takes the entry in the parameter and rotates and its decendents to the left to
+	 * keep the avl map in order. 
+	 * @param entry 
+	 *             the entry we are rotating the other entries around.
+	 * @return entry
+	 *              returns the new entry that was rotated into the parameter entries spot.
+	 */
 	private Entry<K, V> rotateLeft(Entry<K, V> entry) {
 		Entry<K, V> man = entry.right;
 		while (man.left != null && man.left.count > 1)
@@ -571,7 +585,14 @@ public class AVLMap<K, V> implements Map<K, V> {
 		man.height = 1 + man.right.height;
 		return man;
 	}
-
+	/**
+	 * Takes the entry in the parameter and rotates and its decendents to the right to
+	 * keep the avl map in order. 
+	 * @param entry 
+	 *             the entry we are rotating the other entries around.
+	 * @return entry
+	 *              returns the new entry that was rotated into the parameter entries spot.
+	 */
 	private Entry<K, V> rotateRight(Entry<K, V> entry) {
 		Entry<K, V> man = entry.left;
 		if (man.right != null) {
@@ -626,10 +647,24 @@ public class AVLMap<K, V> implements Map<K, V> {
 		return man;
 	}
 
+	/**
+	 * This is a public class that allows the program to print out
+	 * the avl map.
+	 * @author Gitesh Agarwal, Mohamad Saleh, Jason Benckert
+	 *
+	 */
 	public class TreePrint {
 
+		/**
+		 * The root of the map.
+		 */
 		private Entry<K, V> root;
-
+        
+		/**
+		 * constructor for the class.
+		 * @param root
+		 *            The root of the map.
+		 */
 		public TreePrint(Entry<K, V> root) {
 			this.root = root;
 		}

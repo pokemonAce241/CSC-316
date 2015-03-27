@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 /**
- * @author Gitesh Agarwal
+ * @author Gitesh Agarwal, Mohamad Saleh, Jason Benckert
  * 
  */
 public class BSTQueue implements Queue {
