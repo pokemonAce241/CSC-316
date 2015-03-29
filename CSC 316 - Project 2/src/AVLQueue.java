@@ -1,10 +1,10 @@
 import java.util.ArrayList;
-import java.util.Comparator;
 
 /**
- * This class is used to store entries in the order they were added from the user
- * and arranged based on user input. This class also implements the methods form the
- * Queue interface.
+ * This class is used to store entries in the order they were added from the
+ * user and arranged based on user input. This class also implements the methods
+ * form the Queue interface.
+ * 
  * @author Gitesh Agarwal, Mohamad Saleh, Jason Benckert
  * 
  */
@@ -29,19 +29,18 @@ public class AVLQueue implements Queue {
 		key.add(0);
 	}
 
-	
 	/**
-	 * This function takes a ticket object adds it to the classes
-	 * map and array list. If either the map or queue already has
-	 * a ticket with the same priority as the ticket in the parameter
-	 * a warning is thrown.
+	 * This function takes a ticket object adds it to the classes map and array
+	 * list. If either the map or queue already has a ticket with the same
+	 * priority as the ticket in the parameter a warning is thrown.
+	 * 
 	 * @param ticket
-	 *              The ticket that is being added to the class.
-	 * @throws warning
-	 *                A waring is thrown with a particular message if
-	 *                either the map or queue already has
-	 * a ticket with the same priority as the ticket in the parameter
-	 *                
+	 *            The ticket that is being added to the class.
+	 * @throws Warning
+	 *             A waring is thrown with a particular message if either the
+	 *             map or queue already has a ticket with the same priority as
+	 *             the ticket in the parameter
+	 * 
 	 */
 	public void insert(Ticket ticket) throws Warning {
 		Ticket t = map.put(ticket.getPriority(), ticket);
@@ -52,14 +51,16 @@ public class AVLQueue implements Queue {
 	}
 
 	/**
-	 * This function removes the ticket that matches the id parameter from the map and queue. 
-	 * A warning is thrown if their is either no ticket with the same id as in the parameter
-	 * or if the map is empty.
+	 * This function removes the ticket that matches the id parameter from the
+	 * map and queue. A warning is thrown if their is either no ticket with the
+	 * same id as in the parameter or if the map is empty.
+	 * 
 	 * @param id
-	 *          the id of the ticket you want to remove.
+	 *            the id of the ticket you want to remove.
+	 * @return The ticket that was removed from the queue.
 	 * @throws Warning
-	 *                A warning is thrown if their is either no ticket with the same id as in the parameter
-	 * or if the map is empty.
+	 *             A warning is thrown if their is either no ticket with the
+	 *             same id as in the parameter or if the map is empty.
 	 */
 	public Ticket remove(int id) throws Warning {
 		if (map.isEmpty())
@@ -72,14 +73,15 @@ public class AVLQueue implements Queue {
 					+ " in the queue");
 		return ticket;
 	}
+
 	/**
-	 * This function removes the ticket with the highest priority from the map and queue. 
-	 * A warning is thrown if the map is empty.
-	 * @param id
-	 *          the id of the ticket you want to remove.
+	 * This function removes the ticket with the highest priority from the map
+	 * and queue. A warning is thrown if the map is empty.
+	 * 
+	 * @return The ticket that was removed from the queue.
 	 * @throws Warning
-	 *                A warning is thrown if their is either no ticket with the same id as in the parameter
-	 * or if the map is empty.
+	 *             A warning is thrown if their is either no ticket with the
+	 *             same id as in the parameter or if the map is empty.
 	 */
 	public Ticket removeHighest() throws Warning {
 		if (map.isEmpty())
@@ -89,15 +91,19 @@ public class AVLQueue implements Queue {
 		map.remove(ticket.getPriority());
 		return ticket;
 	}
+
 	/**
-	 * This function finds the ticket that matches the id parameter from the queue and prints its position in the map. 
-	 * A warning is thrown if their is either no ticket with the same id as in the parameter
-	 * or if the map is empty.
+	 * This function finds the ticket that matches the id parameter from the
+	 * queue and prints its position in the map. A warning is thrown if their is
+	 * either no ticket with the same id as in the parameter or if the map is
+	 * empty.
+	 * 
 	 * @param id
-	 *          the id of the ticket you want to remove.
+	 *            the id of the ticket you want to remove.
+	 * @return The position of the ticket that was queried.
 	 * @throws Warning
-	 *                A warning is thrown if their is either no ticket with the same id as in the parameter
-	 * or if the map is empty.
+	 *             A warning is thrown if their is either no ticket with the
+	 *             same id as in the parameter or if the map is empty.
 	 */
 	public int query(int id) throws Warning {
 		if (map.isEmpty())
