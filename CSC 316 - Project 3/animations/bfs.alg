@@ -6,7 +6,7 @@
  */
 
 /** Required: node weights visible */
-
+ 
 final double INFINITY = Double.POSITIVE_INFINITY;
 
 beginStep();
