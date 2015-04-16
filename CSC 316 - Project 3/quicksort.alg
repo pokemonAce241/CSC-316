@@ -28,13 +28,19 @@ function lineUpNodes() {
  * sorts the nodes
  */
 function quicksort( Node [] list ) {
-    Node [] left = new Node[ getNodes().size()];
+    Node [] left = new Node[ getNodes().size() ];
     int l = 0;
-    Node [] right = new Node getNodes().size()];
+    Node [] right = new Node[ getNodes().size() ];
     int r = 0;
     Node piv = list[0];
+     int xPosition = HORIZONTAL_GAP;
+     int yPosition = TOP_GAP;
+    beginStep();
+        piv.setPosition( xPosition, yPosition );
+        xPosition += HORIZONTAL_GAP;
+    endStep(); 
     for (i = 0; i < n; i++) {
-        Node n_i = getNodeById( i + 1 );  
+        Node n_i = list[ i + 1 ];  
         beginStep();
         piv.setSelected( true );
         n_i.setSelected( true );
@@ -47,15 +53,15 @@ function quicksort( Node [] list ) {
             r = r + 1;
         } else if (n_i.getWeight() = piv.getWeight() ) {
              beginStep(); 
-             	 int xPosition = HORIZONTAL_GAP;
-   	 int yPosition = TOP_GAP;
-       	 n.setPosition( xPosition, yPosition );
+       	 n_i.setPosition( xPosition, yPosition );
        	 xPosition += HORIZONTAL_GAP;
              endStep(); 
         }
-       }
         beginStep(); 
         n_i.setSelected( false );
+        endStep(); 
+    }
+        beginStep(); 
         piv.setSelected( false );
         endStep(); 
 }
